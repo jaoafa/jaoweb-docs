@@ -24,6 +24,8 @@ jobs:
             sh -c "git clone -b {} https://github.com/jaoafa/jaoweb-docs content/ && rm -rf node_modules dist ; export BASE_URL=https://book000.github.io/jaoweb-docs/{} && yarn install && yarn generate && mv -v dist ../{}"
         env:
           NUXT_TELEMETRY_DISABLED: 1
+      - name: Delete gh-pages
+        run: rm -rf gh-pages ; return 0
       - name: Delete jaoafa/jaoweb
         run: |
           rm -rf jaoweb
