@@ -21,7 +21,7 @@ jobs:
           curl "https://api.github.com/repos/jaoafa/jaoweb-docs/branches" \
             | jq -r .[].name \
             | xargs -L 1 -I {} \
-            sh -c "git clone -b {} https://github.com/jaoafa/jaoweb-docs content/ && rm -rf node_modules dist ; export BASE_URL=https://book000.github.io/jaoweb-docs/{} && yarn install && yarn generate && mv -v dist ../{}"
+            sh -c "git clone -b {} https://github.com/jaoafa/jaoweb-docs content/ && rm -rf node_modules dist ; echo "BASE_URL=https://jaoafa.github.io/jaoweb-docs/{}" > .env && yarn install && yarn generate && mv -v dist ../{}"
         env:
           NUXT_TELEMETRY_DISABLED: 1
       - name: Delete gh-pages
