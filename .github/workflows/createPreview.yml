@@ -25,7 +25,7 @@ jobs:
         env:
           NUXT_TELEMETRY_DISABLED: 1
       - name: Delete gh-pages
-        run: rm -rf gh-pages ; return 0
+        run: rm -rf gh-pages ; true
       - name: Delete jaoafa/jaoweb
         run: |
           rm -rf jaoweb
