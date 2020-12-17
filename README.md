@@ -2,6 +2,11 @@
 
 [jao Minecraft Server](https://jaoafa.com) articles repository.
 
+## プレビュー
+
+- mainブランチ: [https://main@jaoweb.tomacheese.com/](https://main@jaoweb.tomacheese.com/)
+- その他のブランチ: `https://<ブランチ名>@jaoweb.tomacheese.com/`
+
 ## 編集の仕方
 
 [運営向け解説記事はこちら](https://adminwiki.jaoafa.com/secret/website)
