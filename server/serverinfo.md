@@ -1,15 +1,12 @@
-# サーバー情報
-![](https://jaoafa.com/wp-content/uploads/2019/01/database.png)
+---
+title: サーバー情報
+---
 
 ここではサーバのあんな情報やこんな情報を掲示しています。
 
-- [ステータス](https://jaoafa.com/status)
+## 目次
 
-- [サーバの歴史](https://jaoafa.com/server/history)
-- [スタッフ](https://jaoafa.com/server/staff)
-- [各サイトでの投票と投票特典](https://jaoafa.com/server/vote)
-- [コマンドの一覧](https://jaoafa.com/server/command)
-- [Q&A](https://jaoafa.com/server/q_and_a)
+<!--contents-->
 
 ## サーバアドレスについて
 
