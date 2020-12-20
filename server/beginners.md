@@ -1,5 +1,5 @@
 ---
-title: 初めての方へ
+title: はじめての方へ
 ---
 
 **jao Minecraft Serverへようこそ！**
@@ -55,7 +55,7 @@ title: 初めての方へ
 自由建築エリアである爆新地の外には「自治体」と呼ばれる個人の領域を取得することができます。
 自治体は「jao Minecraft Server Members Club (clubjaoafa)」というWebサイト上で申請し、取得することができます。
 
-詳しくは[自治体関連方針](https://jaoafa.com/rule/management/cities)をご覧ください。
+詳しくは[自治体に関するガイドライン](/server/guidelines/cities)をご覧ください。
 
 「`/dt CNS`」コマンドを実行すると、様々な自治体にワープできるワープセンターへ行けます。
 観光は自由にできるので、是非ワープセンターをご活用ください！
@@ -81,7 +81,7 @@ title: 初めての方へ
 
 - **Default** (新規権限)
 サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます。
-- **Verified** (認証済み権限)
+- **Verified** 
 [Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
 - **Regular** (常連権限)
 運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
@@ -90,18 +90,19 @@ title: 初めての方へ
 - **Admin**
 jao Minecraft Serverの全管理・運営を行う管理部の所持する権限です。
 
-詳しくは[権限について](https://jaoafa.com/rule/management/permission)をご覧ください。
-運営については[スタッフ](https://jaoafa.com/server/staff)をご覧ください。
+詳しくは[権限グループ](server/management/permission)をご覧ください。
+運営については[運営者情報](/server/profiles)をご覧ください。
 
 ## 運営上の方針について
 
-jao Minecraft Serverでは、個々のプレイヤーの権限によって会話に不要となる**上下格差の障害を出来る限り無くす**ように運営システム上必要となる表示を除き、**チャット欄で権限名を表示したり権限によって表示が変わるようなシステムを導入しておりません。**
+当サーバでは、個々のプレイヤーの権限によって会話に不要となる**上下格差の障害を出来る限り無くす**ように運営システム上必要となる表示を除き、**チャット欄で権限名を表示したり権限によって表示が変わるようなシステムを導入しておりません。**
 
 他サーバ様のところでは、「運営が一番強い」とか、「新規はこき使っても良い」なんていう考えを持って運用しているサーバもあるようですが、当サーバではなるべくチャットや行動が権限によって変わることがないようにしています。
 なので、「**チャット欄に現れる四角は権限によって色が変わることがない**」ですし、チャットの始まるライン(画像参照)についても権限によって変わることがないようにしています。
 (権限名を表示して「この人たちが運営だ」などという考えを減らすため)
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/javaw_2017-05-14_11-10-17-1.png)
+![チャット欄ですべてのユーザーのチャットが赤ラインの部分から始まっているのがわかる](
+https://storage.jaoafa.com/d6fb696948c1f749beb06b9e4f21f0d9.png)
 
 また、トップであるサーバ管理者が決して強いわけではなく、モデレーターを含む運営全員がサービスの根本を変えることのできる発言権限とそれぞれの意見を持っています。
 
@@ -122,7 +123,7 @@ jao Minecraft Serverでは、個々のプレイヤーの権限によって会話
 
 もしこのウェブサイトなどを調べてもわからないことがあれば、管理部・モデレータや常連に質問をしてみましょう。
 
-- [サーバ情報](https://jaoafa.com/server)
+- [サービス仕様](/server/specifications)
 - [ルール](https://jaoafa.com/rule)
 - 公式[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)内#questionチャンネル
 
@@ -132,7 +133,7 @@ jao Minecraft Serverでは、個々のプレイヤーの権限によって会話
 
 - 公式[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)内#supportチャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
-- 当サイトの[お問い合わせフォーム](https://jaoafa.com/contact)
+- 当サイトの[お問い合わせフォーム](/support/inquiry)
 
 ## 更新履歴
 
