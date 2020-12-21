@@ -1,5 +1,5 @@
 ---
-WorldGuardを導入しました。
+title:WorldGuardを導入しました。
 ---
 
 ## 目次
