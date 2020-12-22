@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
   push_lint:
     runs-on: ubuntu-latest
-    if: github.event.push == true
+    if: github.event.pull_request != "Object"
 
     steps:
       - uses: actions/checkout@v2
@@ -18,7 +18,7 @@ jobs:
 
   pull_request_lint:
     runs-on: ubuntu-latest
-    if: github.event.pull_request == true
+    if: github.event.pull_request == "Object"
 
     steps:
       - uses: actions/checkout@v2
