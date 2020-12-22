@@ -15,4 +15,4 @@ jobs:
       - name: Install NPM Packages
         run: npm install
       - name: Run textlint
-        run: textlint **/*.md
+        run: $(npm bin)/textlint **/*.md

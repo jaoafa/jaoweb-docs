@@ -9,7 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: reviewdog/action-setup@v1.0.0
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
       - name: Install NPM Packages
         run: npm install
       - name: Run textlint
-        run: textlint -f checkstyle **/*.md | reviewdog -f checkstyle -reporter=github-pr-review -name=textlint
+        run: $(npm bin)/textlint -f checkstyle **/*.md | reviewdog -f checkstyle -reporter=github-pr-review -name=textlint
