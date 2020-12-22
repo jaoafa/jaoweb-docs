@@ -6,6 +6,7 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 このページでは、jao Minecraft Serverにおける「撮影・SNSへの投稿」「動画配信サイトにおける配信」について、運営側の方針と投稿・配信者に向けたガイドラインを定義します。
 
 ## 目次
+
 <!--contents-->
 
 ## 配信を行う場合
