@@ -12,4 +12,3 @@ jobs:
         uses: avto-dev/markdown-lint@v1.4.0
         with:
           args: '**/*.md'
-          INPUT_CONFIG: './.markdownlint.json'
