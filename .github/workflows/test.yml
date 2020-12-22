@@ -1,0 +1,22 @@
+name: Test
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: github.event.push
+        run: echo ${{ github.event.push }}
+      - name: github.event.push 2
+        run: echo $PUSH
+        env:
+          PUSH: ${{ github.event.push }}
+      - name: github.event.pull_request
+        run: echo ${{ github.event.pull_request }}
+      - name: github.event.pull_request 2
+        run: echo $PULL_REQUEST
+        env:
+          PULL_REQUEST: ${{ github.event.pull_request }}
