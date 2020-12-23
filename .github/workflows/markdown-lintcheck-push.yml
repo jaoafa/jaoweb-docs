@@ -1,11 +1,11 @@
-name: Markdown Lint Check
+name: Markdown Lint Check on Push
 
-on: [push, pull_request]
+on: push
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v2
       - name: Markdown Linting Action
