@@ -1,7 +1,7 @@
 ---
 title: 権限グループ
 description: Minecraftサーバ内における「権限」について、許可事項や禁止事項などを解説します。
-image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
+image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 ---
 
 jao Minecraft Serverの権限(権限グループ)は次の5つに分けられています。
