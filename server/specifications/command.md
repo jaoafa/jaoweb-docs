@@ -1,3 +1,9 @@
+---
+title: コマンドの一覧
+description: Minecraftサーバ内で使える「コマンド」の一覧ページです。
+image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
+---
+
 jao Minecraft Server内で使用できる主要コマンドの一覧です。
 
 - ここに載っているコマンドの大部分は、独自プラグイン<a href="https://github.com/jaoafa/MyMaid3">MyMaid</a>の機能です。(一部他プラグイン)
