@@ -125,3 +125,9 @@ WorldGuardの解説記事は以下からをご覧ください。
 ## 参考資料
 
 - 参考: [Region Flags - WorldGuard 7.0 documentation](https://worldguard.enginehub.org/en/latest/regions/flags/) (英語)
+
+## 免責等
+
+- ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に。
+- また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです。
+- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の`#question`チャンネルにて質問してみましょう。

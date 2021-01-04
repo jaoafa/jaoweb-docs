@@ -19,7 +19,7 @@ updatedAt: 2019-12-28
 ## イベント概要
 
 規定されたコースを通ってさまざま手段でトライアスロンをします。
-イベント当日には[jMS Gamers Club](https://wiki.jaoafa.com/jMS_Gamers_Club)の`#XmasEvent Triathlon`ボイスチャンネルでボイスチャットをしながらプレイできます。聞き専の方もどうぞご参加ください。
+イベント当日には[jMS Gamers Club](community/discord)の`#XmasEvent Triathlon`ボイスチャンネルでボイスチャットをしながらプレイできます。聞き専の方もどうぞご参加ください。
 
 ### 開催日
 

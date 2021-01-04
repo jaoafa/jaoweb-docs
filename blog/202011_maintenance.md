@@ -50,7 +50,7 @@ updatedAt: 2020-11-14
 
 ### ルール
 
-基本的に[jao Minecraft Serverのサーバルール](https://jaoafa.com/rule)を適用します。
+基本的に[jao Minecraft Serverのサーバルール](/rule)を適用します。
 
 #### 処罰等
 

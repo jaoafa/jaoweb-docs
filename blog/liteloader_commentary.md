@@ -32,7 +32,7 @@ updatedAt: 2021-1-3
 
 **※Forgeを導入している場合はこの項は必要ありません。**
 
-- [Forgeの導入解説](/blog/tomachi/forge_commentary)
+- [Forgeの導入解説](/blog/forge_commentary)
 
 上記解説を見ながら、Forgeを導入しましょう。
 
@@ -87,3 +87,9 @@ LiteLoaderに対応したModを導入する場合、できる限りmodsフォル
 LiteLoaderに対応したModは**拡張子が「litemod」のファイル**です。
 
 [LiteLoaderの公式サイト](http://www.liteloader.com/mods)からModを探したり、他サイトなどで解説されているModを導入して楽しみましょう。
+
+## 免責等
+
+- ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に。
+- また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです。
+- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の`#question`チャンネルにて質問してみましょう。

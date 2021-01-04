@@ -6,8 +6,8 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 
 jao Minecraft Server内で使用できる主要コマンドの一覧です。
 
-- ここに載っているコマンドの大部分は、独自プラグイン<a href="https://github.com/jaoafa/MyMaid3">MyMaid</a>の機能です。(一部他プラグイン)
-- コマンドやプラグインに関する疑問や不具合等は<a href="https://wiki.jaoafa.com/jMS_Gamers_Club">Discord</a>#developmentや#supportでお問い合わせください。
+- ここに載っているコマンドの大部分は、独自プラグイン[MyMaid](https://github.com/jaoafa/MyMaid3)の機能です。(一部他プラグイン)
+- コマンドやプラグインに関する疑問や不具合等は[公式Discordサーバ](/community/discord)`#development`や`#support`でお問い合わせください。
 - 実際にコマンドを実行する場合、`[ ]`は入力しないでください。
 - ここに載っていないコマンドでも、Minecraftバニラの標準的なコマンドは使用することができます。
 

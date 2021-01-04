@@ -13,7 +13,7 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 
 ## 荒らされた箇所を見つけた場合
 
-Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分で修復等をせず**、`/feedback`(`/fb`)コマンドや[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportなどを用いて運営に「荒らされたこと」と「荒らされている座標」を報告し、放置してください。  
+Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分で修復等をせず**、`/feedback`(`/fb`)コマンドや[公式Discordサーバ](/community/discord)の#supportなどを用いて運営に「荒らされたこと」と「荒らされている座標」を報告し、放置してください。  
 
 - 荒らされた箇所の修復等をされてしまうと、記録が上書きされてしまい、運営が荒らした利用者に対して処罰をすることができなくなり、さらに被害を被る可能性があります。
 - 報告以外の行動が行われ運営の処罰処理などができなくなった場合、**運営妨害として処罰されることがあります**のでご注意ください。
@@ -73,7 +73,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-基本的には処罰者に解除を求めてください。その上で解除がなされない場合は[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)内#supportチャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。[方針#トラブルについて](/server/management#トラブルについて)もお読みください。
+基本的には処罰者に解除を求めてください。その上で解除がなされない場合は[公式Discordサーバ](/community/discord)内#supportチャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。[方針#トラブルについて](/server/management#トラブルについて)もお読みください。
 
 #### 備考
 
@@ -91,7 +91,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 - GBanの前段階として暫定的に行われる処罰
 - モデレーターが管理部の判断を仰ぐ際に一時的に行う処罰
-- jao Minecraft Serverの独自ルール([Modについて]/rule/mod)等)への違反が見られた場合
+- jao Minecraft Serverの独自ルール([Modについて](/rule/mod)等)への違反が見られた場合
 
 #### 処罰実施・取消可能者
 
@@ -119,7 +119,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportチャンネルでのみ受け付けます。
+[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
 
 ### jMS ChatJail (ChatJail)
 
@@ -157,7 +157,7 @@ jao Minecraft Server MyMaid2プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportチャンネルでのみ受け付けます。
+[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
 
 ### jMS Local Ban (VBan)
 
@@ -192,7 +192,7 @@ Minecraft バニラ
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportチャンネルでのみ受け付けます。
+[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
 
 ### MCBans Local Ban (LBan)
 
@@ -227,7 +227,7 @@ MCBansプラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportチャンネルでのみ受け付けます。
+[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
 
 ### MCBans Global Ban (GBan)
 
@@ -261,7 +261,7 @@ MCBansプラグイン
 #### 処罰の変更・取消申請方法
 
 処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。
-その後は[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の#supportチャンネルで受け付けます。
+その後は[公式Discordサーバ](/community/discord)の#supportチャンネルで受け付けます。
 
 #### 上記以外の各種禁止処置
 

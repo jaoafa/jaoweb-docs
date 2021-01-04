@@ -18,7 +18,7 @@ updatedAt: 2020-7-21
 とりあえず現時点でわかる情報のみ。
 
 - [星乃やひろさん](https://yahiro.me/)という方が**個人プロジェクト**として運営しているMinecraftサーバリストWebサイト。
-- 運営メンバーは上記運営者と[Kamesuta](https://jaoafa.com/user/4f2a2943-2d95-4959-b53e-60cd86edd245)のようだが、**詳しいメンバーリストはなし**。[参考](https://twitter.com/monocraft_net/status/1261489406940086273)
+- 運営メンバーは上記運営者と[Kamesuta](/user/4f2a2943-2d95-4959-b53e-60cd86edd245)のようだが、**詳しいメンバーリストはなし**。[参考](https://twitter.com/monocraft_net/status/1261489406940086273)
 - 利用規約・プライバシーポリシーは**monocraft外のWebサイトNotionに記載**: [利用規約/プライバシーポリシー](https://www.notion.so/13389c891f7e485488956016093d27ce)
 - プライバシーポリシー上、monocraftが収集するデータは「メールアドレス」・「Minecraft ID」のみ。
   - アクセスログ記録上、IPアドレス・Cookie・利用環境も収集。
@@ -47,6 +47,6 @@ jao Minecraft Serverとして、利用者に対しmonocraft利用に際するル
 「ものすたぐらむ」への投稿、サーバへの投票時はこれらのルールをよく読み、お守りください。
 
 1. jao Minecraft Serverのサービスまたは特定の利用者の名誉を毀損、著作権への侵害、プライバシー権への侵害、またはそれらに該当する行為等は絶対におやめください。
-2. jao Minecraft Serverで撮影された画像をmonocraftへ投稿する場合、[撮影・配信等に関するガイドライン](https://jaoafa.com/rule/management/livestream_post_guideline)に則って投稿してください。不適切な投稿やガイドラインに違反した投稿が見つかった場合、相応の対応を取らせていただきます。
+2. jao Minecraft Serverで撮影された画像をmonocraftへ投稿する場合、[撮影・配信等に関するガイドライン](/rule/guidelines/broadcast)に則って投稿してください。不適切な投稿やガイドラインに違反した投稿が見つかった場合、相応の対応を取らせていただきます。
 3. jao Minecraft Server運営は、事前の予告なくmonocraftへの登録を中止、利用者が投稿した投稿データの削除等をjao Minecraft Server運営の判断により実施する場合があります。
 4. 投票は1日1回のみとし、サブアカウント等を利用した投票を厳しく禁止します。

@@ -51,20 +51,20 @@ jao Minecraft Serverの権限(権限グループ)は次の5つに分けられて
 
 ## Verified
 
-2019/10/06に新設された[Limited Verified](/content/blog/limited-verified)も含みます。
+2019/10/06に新設された[Limited Verified](/blog/limited-verified)も含みます。
 
 ### 昇格基準
 
 この権限を取得するには、以下のいずれかの基準をクリアしなければなりません。
 
-- 公式Discordサーバ内でDiscordアカウントと連携する。
+- [公式Discordサーバ](/community/discord)内でDiscordアカウントと連携する。
 - 【Limited Verifiedのみ】利用者から運営に対して「Limited Verified」の申請が行われ、運営によって承認される。
 
 ### 降格基準
 
 次の項目のいずれかに該当すると、指定権限まで降格されます。
 
-- 公式Discordサーバから退出する、または連携を解除する。(Defaultに降格)
+- [公式Discordサーバ](/community/discord)から退出する、または連携を解除する。(Defaultに降格)
 - 【Limited Verifiedのみ】LV期間を経過する。(Defaultに降格)
 
 ### 許可事項
@@ -108,7 +108,7 @@ jao Minecraft Serverの権限(権限グループ)は次の5つに分けられて
 
 次の項目のいずれかに該当すると、指定権限まで降格されます。
 
-- 公式Discordサーバから退出する、または連携を解除する。(Defaultに降格)
+- [公式Discordサーバ](/community/discord)から退出する、または連携を解除する。(Defaultに降格)
 - 最終ログインから3ヶ月を経過し、運営がその理由を把握していない場合。(Verifiedに降格)
 - 運営の判断により、Regular権限を付与し続けるべきではないと判断された場合。(Verifiedに降格)
 

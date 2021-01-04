@@ -5,7 +5,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  
-もし、このページをご覧になっても問題が解決しない場合は[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)の`#question`などで他の利用者に質問してみましょう！
+もし、このページをご覧になっても問題が解決しない場合は[公式Discordサーバ](/community/discord)の`#question`などで他の利用者に質問してみましょう！
 
 ## Q. サーバにログインできない！
 
@@ -13,7 +13,7 @@ jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用
 問題なく稼働しているのであれば、以下をご確認ください。
 
 - **最初に入ったアカウント以外**でログインしようとしていませんか？  
-当サーバでは、複数のアカウントの利用を禁止・規制しています。最初にサーバに入ったアカウントを「メインアカウント」として処理します。メインアカウントの変更は[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Clib)`#support`へどうぞ。
+当サーバでは、複数のアカウントの利用を禁止・規制しています。最初にサーバに入ったアカウントを「メインアカウント」として処理します。メインアカウントの変更は[公式Discordサーバ](/community/discord)`#support`へどうぞ。
 - **日本国外から**ログインしようとしていませんか？  
 当サーバは、「Japanese Only」のサーバとして運営していますので、日本国外からログインすることは出来ません。
 - **MCBansの評価値が「3」以下**ではありませんか？  
@@ -64,12 +64,12 @@ MinecraftIDの変更によって問題が発生した場合はお問い合わせ
 
 ## Q. プラグインの不具合(バグ)を見つけた！
 
-[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)`#develop_todo`等に他利用者からの同じ不具合の報告がないかを確認した上で、`/bug`やDiscord`#support`、`#development`などでご報告ください。
+[公式Discordサーバ](/community/discord)`#develop_todo`等に他利用者からの同じ不具合の報告がないかを確認した上で、`/bug`やDiscord`#support`、`#development`などでご報告ください。
 
 ## Q. 荒らされた！迷惑な人がいる！
 
 基本的に運営や常連が発見し、対象者を処罰しますが、なかなか気づかないこともあります。  
-その場合は、「荒らし行為を行っているMinecraftID」・「荒らし行為の様子が見られるスクリーンショット」を、[公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)`#support`
+その場合は、「荒らし行為を行っているMinecraftID」・「荒らし行為の様子が見られるスクリーンショット」を、[公式Discordサーバ](/community/discord)`#support`
 でまとめてご報告ください。MinecraftIDがわからない場合はスクリーンショットのみで構いません。
 
 なお、荒らしを発見した際には運営へ報告する以外の行為（自身で修復するなど）は**絶対に行わないでください**。運営が行う修復(ロールバック)や、破壊者への処罰が正常にできなくなる可能性があります。
