@@ -1,7 +1,7 @@
 ---
 title: Discordサーバ
 description: jao Minecraft Serverの公式Discordサーバ「jMS Gamers Club」への参加方法やルール・方針を記載します。
-image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
 このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」への参加方法や、jMS Gamers Club（以下、「公式Discordサーバ」とも呼ぶ）におけるルール・方針について記載します。
@@ -78,7 +78,7 @@ https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
 次の項目のすべてをお守りください。
 
 1. 利用者は公式Discordサーバを利用する場合、必ず以下を理解し、同意しなければなりません。同意できない場合、これを利用することはできません。
-   1. 本ルール・方針および個別規約
+   1. 本ルール・方針およびガイドライン
    2. [DISCORD サービス利用規約](https://discord.com/terms)
    3. [Discordコミュニティガイドライン](https://discord.com/guidelines)
    4. Discord公式が規定する規約・関連規約

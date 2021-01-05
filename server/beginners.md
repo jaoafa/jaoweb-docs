@@ -1,5 +1,7 @@
 ---
 title: はじめての方へ
+description: サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
 **jao Minecraft Serverへようこそ！**

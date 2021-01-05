@@ -6,7 +6,7 @@ Image: https://storage.jaoafa.com/4adcd454dc1c5294f6b71504eb5237b2.jpg
 
 ここに書かれているものは、jao Minecraft Serverで楽しむための基本的なルールです。
 
-ルールを守って、みんなで仲良くMinecraftをたのしみましょう。ルールをまもらない子はバイバイしちゃうぞっ！
+ルールを守って、みんなで仲良くMinecraftをたのしみましょう。ルールをまもらない子は[バイバイ](/rule/punishment)しちゃうぞっ！
 
 ## jao Minecraft Server サーバルール
 
