@@ -1,8 +1,10 @@
 ---
-title: サーバ情報
+title: サーバ仕様
+description: jao Minecraft Serverの様々な仕様を記載します。
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
-ここではサーバのあんな情報やこんな情報を掲示しています。
+ここではサーバのあんな情報やこんな仕様を掲示しています。
 
 ## 目次
 
@@ -25,9 +27,15 @@ title: サーバ情報
 
 以下のステータスページから、障害等が発生していないかをご確認ください。
 
-- [ステータス](https://jaoafa.com/status)
+- [ステータス](/status)
 
+<<<<<<< HEAD:server.md
 上記のページに障害が発生しているという情報がなく、また時間をおいても状態が変わらない場合は[公式Discordの#supportチャンネル](https://wiki.jaoafa.com/jMS_Gamers_Club)からご連絡くださいますようお願いいたします。
+=======
+上記のページに障害が発生しているという情報がなく、また時間をおいても状態が変わらない場合は[公式Discordの#supportチャンネル](community/discord)からご連絡くださいますようお願い致します。  
+
+また、サーバの定員は「**20人**」ですので、満員のときはログインすることはできません。
+>>>>>>> main:server/specifications.md
 
 ## ゲームモードについて
 
@@ -60,7 +68,7 @@ Discordとは2015年にリリースされたゲーマー向けの無料チャッ
 
 2019年9月頃にjMS公式Discordサーバは新サーバへ**移転しました。**
 
-詳しい解説ページは[こちら](https://wiki.jaoafa.com/jMS_Gamers_Club)です。
+詳しい解説ページは[こちら](community/discord)です。
 
 ## Dynmapについて
 
@@ -75,4 +83,4 @@ jaopediaは[こちら](https://wiki.jaoafa.com/)(wiki.jaoafa.com)です。
 ## Banリストについて
 
 当サーバでは、以下ページにてBanリストの公開をしております。  
-[Banリスト](https://jaoafa.com/proof/)
+[Banリスト](/proof)

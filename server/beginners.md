@@ -1,5 +1,7 @@
 ---
 title: はじめての方へ
+description: サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
 **jao Minecraft Serverへようこそ！**
@@ -11,7 +13,7 @@ title: はじめての方へ
 
 ## サーバルール
 
-是非本来であれば[サーバルール](https://jaoafa.com/rule)と、その他各種方針などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
+是非本来であれば[サーバルール](/rule)と、その他各種方針などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
 
 - 他人の建築物に無断編集をしない
 - 「迷惑行為」に当たる行為をしない
@@ -26,7 +28,7 @@ title: はじめての方へ
 - クリエイティブサーバ（ゲームモードは変更可）
 - サーバ特有の[言語](http://wiki.jaoafa.com/用語)要素
 - チャットスパムキックの無効化
-- [ピリオドマッチ](http://jaoafa.com/p)と呼ばれる連打速度をマイクラ内で競う競技
+- [ピリオドマッチ](/p)と呼ばれる連打速度をマイクラ内で競う競技
 - [独自プラグイン・システム](https://github.com/jaoafa)の作成・導入
 - ほどよい自由性
 - ほどよいバニラ+αな環境
@@ -41,14 +43,14 @@ title: はじめての方へ
 
 ログインできるのは**Minecraft Java Edition(PC版)**の**Ver.1.12.2**のみです。
 
-[こちらの記事](https://jaoafa.com/blog/minhero_exp/multiplayer)でバージョンを変更して起動する方法と、マルチサーバに接続する方法を解説しています。
+[こちらの記事](/blog/multiplayer)でバージョンを変更して起動する方法と、マルチサーバに接続する方法を解説しています。
 
 ## 建築について
 
 初期スポーン地点である"鯖庁"周辺の**芝生エリアで建築**することができます。
 以下の画像で「建築エリア」となっている場所以外の、鯖庁や道路上では建築することはできません。
 
-![爆新地の建築エリア図](https://storage.jaoafa.com/9df6a663f697dcbafc7202f9bb6184c8.png)
+![爆新地の建築エリア図](https://storage.jaoafa.com/63c8bfe2e680ffcb39cc5041ffc27951.png)
 
 ### 自治体・観光について
 
@@ -72,12 +74,12 @@ title: はじめての方へ
 
 当サーバには、Minecraftバニラの標準的なコマンドに加えて、独自プラグインによってたくさんの便利なコマンドが追加されています。
 
-詳しくは[コマンド一覧](https://jaoafa.com/server/command)をご覧ください
+詳しくは[コマンド一覧](/server/specifications/command)をご覧ください
 
 ## 権限について
 
 当サーバのプレイヤー権限は、以下の5つに分かれています。
-自分の権限は「/player」コマンドで確認することができます。
+自分の権限は「`/player`」コマンドで確認することができます。
 
 - **Default** (新規権限)  
   サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます
@@ -90,8 +92,8 @@ title: はじめての方へ
 - **Admin**  
   jao Minecraft Serverの全管理・運営を行う管理部の所持する権限です
 
-詳しくは[権限グループ](server/management/permission)をご覧ください。
-運営については[運営者情報](/server/profiles)をご覧ください。
+詳しくは[権限グループ](server/specifications/permission)をご覧ください。
+運営については[運営者情報](/server/staff)をご覧ください。
 
 ## 運営上の方針について
 
@@ -111,12 +113,12 @@ title: はじめての方へ
 
 当サーバでは、Minecraftサーバ外でも他の住民と自由に交流できる場として公式Discordサーバを開設しています。
 
-詳細・参加方法は[jMS Gamers Club](https://wiki.jaoafa.com/jMS_Gamers_Club)をご覧ください。
+詳細・参加方法は[Discordサーバ](/community/discord)をご覧ください。
 
 ## Banされたとき
 
-当サーバでは[サーバルール](https://jaoafa.com/rule)、[方針](https://jaoafa.com/rule/management)に則り違反したユーザへ処罰を行います。
-もし、Banされた場合は[こちら](https://jaoafa.com/rule/management/punishment)よりBanの種別、解除申請の方法をご確認ください。
+当サーバでは[サーバルール](/rule)、[方針](/rule/management)に則り違反したユーザへ処罰を行います。
+もし、Banされた場合は[こちら](/rule/punishment)よりBanの種別、解除申請の方法をご確認ください。
 
 ## わからないことがあったら
 
@@ -130,10 +132,6 @@ title: はじめての方へ
 
 上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
 
-- 公式[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)内#supportチャンネル
+- [公式Discordサーバ](/community/discord)内#supportチャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
 - 当サイトの[お問い合わせフォーム](/support/inquiry)
-
-## 更新履歴
-
-<!--history-->

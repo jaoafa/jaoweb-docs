@@ -1,9 +1,9 @@
 ---
 title: 撮影・動画配信に関するガイドライン
-description: このページでは、jao Minecraft Serverにおける「撮影・SNSへの投稿」「動画配信サイトにおける配信」について、運営側の方針と投稿・配信者に向けたガイドラインを定義します。
+description: Minecraftサーバ内における「撮影・SNSへの投稿」「動画配信サイトにおける配信」について、運営側の方針と投稿・配信者に向けたガイドラインを定義します。
 image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 ---
-このページでは、jao Minecraft Serverにおける「撮影・SNSへの投稿」「動画配信サイトにおける配信」について、運営側の方針と投稿・配信者に向けたガイドラインを定義します。
+このページでは、Minecraftサーバ内における「撮影・SNSへの投稿」「動画配信サイトにおける配信」について、運営側の方針と投稿・配信者に向けたガイドラインを定義します。
 
 ## 目次
 
@@ -20,6 +20,7 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 - 配信を行えるのは、**Verified以上の権限**からです
 - Minecraftサーバ内において**何かしらの建築経験**がない場合は配信を行えません
 - Regular以上の権限を所持していない場合(Verified権限)は、`#support`で運営へ申請し、許可をもらってください。  
+<<<<<<< HEAD:server/guidelines/broadcasts.md
   申請には次の項目が必要です
   1. 配信を行う利用者のMinecraftID
   2. 配信を行うサービス名、およびユーザー名がわかるもの(視聴URL等)
@@ -31,6 +32,22 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
   2. `https://jaoafa.com/`
   3. `#jaoafa`  
   タグ等の設定可能な項目がある場合には、「jaoafa」などのわかりやすいタグ付けをおねがいします
+=======
+申請には次の項目が必要です。
+
+1. 配信を行う利用者のMinecraftID
+2. 配信を行うサービス名、及びユーザー名がわかるもの(視聴URL等)
+3. 配信内容(簡潔かつ分かりやすく)
+
+- 配信を開始したら、`#announcement`などで「配信を行う旨」と「配信を行っているページ(視聴可能なURL)」を投稿してください。
+- 配信がjao Minecraft Serverで行われているということの明確な記載をしてください。  
+必ず次の文言を含む視認可能な記載を行ってください。
+
+1. `jao Minecraft Server`
+2. `https://jaoafa.com/`
+3. `#jaoafa`  
+タグ等の設定可能な項目がある場合には、「jaoafa」などのわかりやすいタグ付けをおねがいします。
+>>>>>>> main:rule/guidelines/broadcasts.md
 
 ## SNSへ投稿する場合
 

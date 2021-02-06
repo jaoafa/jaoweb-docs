@@ -11,7 +11,7 @@
 
 [運営向け解説記事はこちら](https://adminwiki.jaoafa.com/secret/website)
 
-基本的には、ヒラタケが書いている[jaoafa/jaoweb content/blog/news/sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/news/sample.md)が非常に参考になるので是非参考にしてください。
+基本的には、ヒラタケが書いている[sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md)が非常に参考になるので是非参考にしてください。
 
 ## 運用方針について
 
@@ -24,9 +24,25 @@ Gitにはブランチという編集(開発)する場所を一時的に分ける
 しかし、この機能はGitをあまり利用しないユーザには理解しにくい機能であるため、知識のあるユーザのみ利用してください。  
 もちろん、検索等し知識を得て利用する分にはなんら構いません。むしろコンフリクトなどのことを考えると本来は利用すべきであると考えます。
 
-### プルリクエスト・Issueについて
+### プルリクエスト・Issue・Discussionsについて
 
+<<<<<<< HEAD
 運営以外の利用者によるプルリクエスト・Issueも受け付けます。プルリクエストをする場合はフォークし修正したのちにプルリクエストを送ってください。
+=======
+プルリクエスト・Issue・Discussionsは随時受け付けています。ただし、必ず対応する保証はありません。
+
+## 編集サポートについて
+
+執筆・読みやすさの手助けとなるよう、MarkdownLintとTextLintを導入しています。  
+それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)、TextLintは[.textlintrc](.textlintrc)で規定しています。
+
+Visual Studio Codeの場合、以下の拡張機能でそれぞれのLintの恩恵を受けられます。他に良い拡張機能があるならそれでも構いません。
+
+- MarkdownLint: [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- TextLint: [taichi.vscode-textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)
+  - Node.jsが必要です。少し難易度高め
+  - 導入方法参考文献: [textlint と VS Code で始める文章校正 - Qiita](https://qiita.com/takasp/items/22f7f72b691fda30aea2)
+>>>>>>> main
 
 ## ライセンスについて / License
 

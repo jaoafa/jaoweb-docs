@@ -1,12 +1,13 @@
 ---
 title: チャットなどに関するガイドライン
-description: jao Minecraft Serverに関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなど(以下、関連サービス)においての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
+description: jao Minecraft Serverと、関連するサービスにおいての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
 image: https://storage.jaoafa.com/e0f581f933acf45a270d444183cde942.png 
 ---
 
-このページでは、jao Minecraft Serverに関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなど(以下、関連サービス)においての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
+このページでは、jao Minecraft Serverに関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなど（以下、「関連サービス」と呼びます）においての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
 
 ## 目次
+
 <!--contents-->
 
 ## 基本方針
