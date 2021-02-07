@@ -1,0 +1,24 @@
+name: Markdown Lint Check on Pull Request
+
+on: pull_request
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup reviewdog
+        uses: reviewdog/action-setup@v1.0.0
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+      - name: Install markdownlint-cli
+        run: npm install markdownlint-cli
+      - name: Run markdownlint 1
+        run: $(npm bin)/markdownlint "**/*.md" --ignore node_modules 2>&1 | reviewdog -efm="%f:%l %m" -name="markdownlint" -reporter=github-pr-review
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run markdownlint 2
+        run: $(npm bin)/markdownlint "**/*.md" --ignore node_modules 2>&1 | reviewdog -efm="%f:%l:%c %m" -name="markdownlint" -reporter=github-pr-review
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}

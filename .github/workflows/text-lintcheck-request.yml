@@ -1,0 +1,19 @@
+name: Text Lint Check on Pull Request
+
+on: pull_request
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: reviewdog/action-setup@v1.0.0
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+      - name: Install NPM Packages
+        run: npm install
+      - name: Run textlint
+        run: $(npm bin)/textlint -c .textlintrc -f checkstyle ** | reviewdog -f checkstyle -reporter=github-pr-review -name=textlint
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
