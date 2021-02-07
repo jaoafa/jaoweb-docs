@@ -51,7 +51,7 @@ OptiFineを導入している場合、以下のバージョンにおいて**動�
 
 ### SignPicture
 
-SignPictureとIntelliInputの共存は**できません**。ログイン時に`Internal Exception: java.lang.NoClassDefFoundError: net/minecraft/client/gui/GuiScreenBook`のエラーが発生します。
+SignPictureとIntelliInputの共存は**できません**。ログイン時に `Internal Exception: java.lang.NoClassDefFoundError: net/minecraft/client/gui/GuiScreenBook` のエラーが発生します。
 
 ## 導入方法
 
@@ -69,7 +69,7 @@ SignPictureとIntelliInputの共存は**できません**。ログイン時に`I
 
 [IntelliInputのダウンロードページ](http://mcc.mcsv.jp/IntelliInput/Download)から、1.12.2のバージョンをダウンロードしましょう。
 
-執筆当時のファイル名は`IntelliInput-2.6-for1.12.2.jar`でした。
+執筆当時のファイル名は `IntelliInput-2.6-for1.12.2.jar` でした。
 
 ### 3. jarファイルをModsフォルダに移動しましょう
 
@@ -99,6 +99,6 @@ WindowsキーとRキーを同時に押すと、左下に入力窓が出現する
 
 ## 免責等
 
-- ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に。
-- また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです。
-- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の`#question`チャンネルにて質問してみましょう。
+- ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に
+- また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです
+- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の `#question` チャンネルにて質問してみましょう

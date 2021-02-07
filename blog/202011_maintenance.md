@@ -9,7 +9,7 @@ updatedAt: 2020-11-14
 
 **メンテナンスは2020/11/14 08:28に終了しました**
 
-機器メンテナンスに伴い、以下の日程・内容でメンテナンスを実施致します。
+機器メンテナンスに伴い、以下の日程・内容でメンテナンスを実施いたします。
 
 ## 目次
 
@@ -23,8 +23,8 @@ updatedAt: 2020-11-14
 
 - Minecraftメインサーバ
 - DiscordBot(jaotan)の一部(Javajaotanが受け持つコマンド・機能)
-  - 次の`/`から始まるコマンド: `akakese`, `alpha`, `approvalcity`, `bassline`, `blmap`, `blmaplb`, `blookup`, `chat`, `dice`, `discordlink`, `gentext`, `getatama`, `help`, `javajaotan`, `kogo`, `link`, `listening`, `mcbans`, `mute`, `origin`, `playing`, `potato`, `powa`, `recid`, `setnick`, `setnickatama`, `subaccount`, `super`, `tmttmt`, `toen`, `toenja`, `toese`, `toja`, `tojaen`, `tokanji`, `toswja`, `towakati`, `toyomi`, `tozh`, `tozhja`, `tweet`, `typo`, `user`, `votenotify`, `watching`など
-  - 次のチャンネル機能: `#jaochat`など (`#greeting`および`#nsfw`のチャンネル機能は別のシステムで最低限対応します)
+  - 次の `/` から始まるコマンド: `akakese`, `alpha`, `approvalcity`, `bassline`, `blmap`, `blmaplb`, `blookup`, `chat`, `dice`, `discordlink`, `gentext`, `getatama`, `help`, `javajaotan`, `kogo`, `link`, `listening`, `mcbans`, `mute`, `origin`, `playing`, `potato`, `powa`, `recid`, `setnick`, `setnickatama`, `subaccount`, `super`, `tmttmt`, `toen`, `toenja`, `toese`, `toja`, `tojaen`, `tokanji`, `toswja`, `towakati`, `toyomi`, `tozh`, `tozhja`, `tweet`, `typo`, `user`, `votenotify`, `watching`など
+  - 次のチャンネル機能: `#jaochat`など (`#greeting`および `#nsfw` のチャンネル機能は別のシステムで最低限対応します)
 - VCSpeaker
 - [jao Minecraft Server API](https://api.jaoafa.com/)の一部
 
@@ -45,8 +45,8 @@ updatedAt: 2020-11-14
 - ゲームモード: クリエイティブ
 - ワールド: 新規ワールド (ネザー・エンドはありません)
 
-- ViaVersionにより、1.8.xから1.16.xまでのJava Editionユーザーもログインが可能です。
-- Geyserにより、Bedrock Editionでのログインが可能です(ログインにJava Editionのアカウント情報が必要)。ただし、試験的なため途中でこの対応をやめる場合があります。
+- ViaVersionにより、1.8.xから1.16.xまでのJava Editionユーザーもログインが可能です
+- Geyserにより、Bedrock Editionでのログインが可能です(ログインにJava Editionのアカウント情報が必要)。ただし、試験的なため途中でこの対応をやめる場合があります
 
 ### ルール
 
@@ -72,7 +72,7 @@ updatedAt: 2020-11-14
 - Geyser
 - Roboot (独自プラグイン)
 
-サーバチャットは公式Discordサーバ`#server-chat_202011`と接続し連携します。
+サーバチャットは公式Discordサーバ `#server-chat_202011` と接続し連携します。
 AntiAlts3は必要に応じて導入を検討しますが、とりあえずは導入しません。  
 WorldGuardは建築物保護の観点ではなく、特定アイテムの所持規制に関して制限するために導入しています。建築物保護のために使うなとは言いませんが、そういった意図でないことはご理解ください。
 
@@ -80,14 +80,14 @@ WorldGuardは建築物保護の観点ではなく、特定アイテムの所持�
 
 次のルールで権限を付与します。Minecraftメインサーバでの権限を元にする場合、2020/11/12の時点での情報を利用します。
 
-- `Manager`権限: `Admin`または`Moderator`の権限が付与されている利用者
-  - OP権限とサーバ停止を含むMinecraftサーバ内で行える全てのコマンド・行動権限を付与します。
-- `User`権限: `Regular`または`Verified`の権限が付与されている利用者
-  - 管理コマンドを除くほぼ全てのコマンド・行動権限を付与します。WorldEditも含みます。
-- `Default`権限: 上記`Manager`, `User`に当てはまらない利用者
+- `Manager`権限: `Admin`または `Moderator` の権限が付与されている利用者
+  - OP権限とサーバ停止を含むMinecraftサーバ内で行える全てのコマンド・行動権限を付与します
+- `User`権限: `Regular`または `Verified` の権限が付与されている利用者
+  - 管理コマンドを除くほぼ全てのコマンド・行動権限を付与します。WorldEditも含みます
+- `Default`権限: 上記 `Manager` , `User`に当てはまらない利用者
   - 一般的なサーバの権限(OP無し)からWorldEdit、TNTや溶岩・水等の利用を制限した権限を付与します。(通常の建築等が可能な権限)
 
-OP権限はUser権限を持つユーザにも申請・認可を経て付与いたします。公式Discordサーバの`#support`チャンネルで「OP権限が必要な理由」を添えて申請してください。
+OP権限はUser権限を持つユーザにも申請・認可を経て付与いたします。公式Discordサーバの `#support` チャンネルで「OP権限が必要な理由」を添えて申請してください。
 
 ### 管理者
 

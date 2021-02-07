@@ -15,8 +15,8 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 
 Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分で修復等をせず**、`/feedback`(`/fb`)コマンドや[公式Discordサーバ](/community/discord)の#supportなどを用いて運営に「荒らされたこと」と「荒らされている座標」を報告し、放置してください。  
 
-- 荒らされた箇所の修復等をされてしまうと、記録が上書きされてしまい、運営が荒らした利用者に対して処罰をすることができなくなり、さらに被害を被る可能性があります。
-- 報告以外の行動が行われ運営の処罰処理などができなくなった場合、**運営妨害として処罰されることがあります**のでご注意ください。
+- 荒らされた箇所の修復等をされてしまうと、記録が上書きされてしまい、運営が荒らした利用者に対して処罰をすることができなくなり、さらに被害を被る可能性があります
+- 報告以外の行動が行われ運営の処罰処理などができなくなった場合、**運営妨害として処罰されることがあります**のでご注意ください
 
 ## 運営の処罰対応について
 
@@ -25,8 +25,8 @@ Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分
 
 ## 運営上の免責事項
 
-- 運営は、迷惑行為により建築物等に対して損害があった場合、ロールバック(復元)等によりできる限りの対応は致しますが完全な復元を保証するものではありません。
-- 複数人で行われた建築物(共同建築物)は、処罰対応利用者が建築者に含まれている場合、その建築物の一部は結果としてロールバックされることになります。これによって建築物が損害を負った場合運営は責任を負いかねます。共同建築を行う場合はこれらの点に注意して行ってください。
+- 運営は、迷惑行為により建築物等に対して損害があった場合、ロールバック(復元)等によりできる限りの対応は致しますが完全な復元を保証するものではありません
+- 複数人で行われた建築物(共同建築物)は、処罰対応利用者が建築者に含まれている場合、その建築物の一部は結果としてロールバックされることになります。これによって建築物が損害を負った場合運営は責任を負いかねます。共同建築を行う場合はこれらの点に注意していってください
 
 ## 処罰種類詳細
 
@@ -60,16 +60,16 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 違反者にかかる規制
 
-- 処罰がされると、<span style="color: red">南の楽園へテレポートされ一定範囲から出られなくなります</span>。
-- Minecraftサーバへのログインは<span style="color: green">可能です</span>。
-- ブロックの設置破壊は<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>。
-- Minecraftサーバ内チャットは<span style="color: green">可能です</span>。
-- Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>。
-- 公式Discordサーバの利用は<span style="color: green">可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
+- 処罰がされると、<span style="color: red">南の楽園へテレポートされ一定範囲から出られなくなります</span>
+- Minecraftサーバへのログインは<span style="color: green">可能です</span>
+- ブロックの設置破壊は<span style="color: red">不可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>
+- Minecraftサーバ内チャットは<span style="color: green">可能です</span>
+- Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>
+- 公式Discordサーバの利用は<span style="color: green">可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: green">表示されません</span>
+- 他サーバに<span style="color: green">影響しません</span>
 
 #### 処罰の変更・取消申請方法
 
@@ -77,9 +77,9 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 備考
 
-- この処罰は「各種禁止処置」に含まれません。
-- `/testment`コマンドを利用することで遺言を記載することができます。遺言はユーザーページに表示されます。
-- jaoium所持を理由に自動的にJailが行われた場合、一定時間後に自動的に解除されます。
+- この処罰は「各種禁止処置」に含まれません
+- `/testment`コマンドを利用することで遺言を記載することができます。遺言はユーザーページに表示されます
+- jaoium所持を理由に自動的にJailが行われた場合、一定時間後に自動的に解除されます
 
 ### jMS Eden Ban (EBan)
 
@@ -106,16 +106,16 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 違反者にかかる規制
 
-- 処罰がされると、<span style="color: red">南の楽園へテレポートされ一定範囲から出られなくなります</span>。
-- Minecraftサーバへのログインは<span style="color: green">可能です</span>。
-- ブロックの設置破壊は<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>。
-- Minecraftサーバ内チャットは<span style="color: green">可能です</span>。
-- Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>。
-- 公式Discordサーバの利用は<span style="color: green">可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
+- 処罰がされると、<span style="color: red">南の楽園へテレポートされ一定範囲から出られなくなります</span>
+- Minecraftサーバへのログインは<span style="color: green">可能です</span>
+- ブロックの設置破壊は<span style="color: red">不可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>
+- Minecraftサーバ内チャットは<span style="color: green">可能です</span>
+- Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>
+- 公式Discordサーバの利用は<span style="color: green">可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: green">表示されません</span>
+- 他サーバに<span style="color: green">影響しません</span>
 
 #### 処罰の変更・取消申請方法
 
@@ -129,7 +129,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 以下の用途で実施されます。
 
-- 悪意を持ってチャットを荒らす行為が見られた場合 ([方針に記載の内容](/server/management#チャットなどについて)もお読みください。)
+- 悪意を持ってチャットを荒らす行為が見られた場合 ([方針に記載の内容](/server/management#チャットなどについて)もお読みください)
 - jao Minecraft Serverの独自ルール([チャットなどに関するガイドライン](/server/guidelines/communication)等)への違反が見られた場合
 
 #### 処罰実施・取消可能者
@@ -145,15 +145,15 @@ jao Minecraft Server MyMaid2プラグイン
 
 #### 違反者にかかる規制
 
-- Minecraftサーバへのログインは<span style="color: green">可能です</span>。
-- ブロックの設置破壊は<span style="color: green">可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>。
-- Minecraftサーバ内チャットは<span style="color: red">不可能です</span>。
-- Minecraftサーバ内コマンド実行は<span style="color: green">可能です</span>。
-- 公式Discordサーバの利用は<span style="color: green">可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
+- Minecraftサーバへのログインは<span style="color: green">可能です</span>
+- ブロックの設置破壊は<span style="color: green">可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: green">ロールバックされません</span>
+- Minecraftサーバ内チャットは<span style="color: red">不可能です</span>
+- Minecraftサーバ内コマンド実行は<span style="color: green">可能です</span>
+- 公式Discordサーバの利用は<span style="color: green">可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: green">表示されません</span>
+- 他サーバに<span style="color: green">影響しません</span>
 
 #### 処罰の変更・取消申請方法
 
@@ -179,16 +179,16 @@ Minecraftの元々唯一のBan機能であるローカルBanのことを指し�
 
 #### 処罰発行元
 
-Minecraft バニラ
+Minecraftバニラ
 
 #### 違反者にかかる規制
 
-- Minecraftサーバへのログインは<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>。
-- 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
+- Minecraftサーバへのログインは<span style="color: red">不可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>
+- 公式Discordサーバの利用は<span style="color: red">不可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: green">表示されません</span>
+- 他サーバに<span style="color: green">影響しません</span>
 
 #### 処罰の変更・取消申請方法
 
@@ -217,13 +217,13 @@ MCBansプラグイン
 
 #### 違反者にかかる規制
 
-- Minecraftサーバへのログインは<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>。
-- Minecraftサーバ内チャットは<span style="color: red">不可能です</span>。
-- 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: red">表示されます</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
+- Minecraftサーバへのログインは<span style="color: red">不可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>
+- Minecraftサーバ内チャットは<span style="color: red">不可能です</span>
+- 公式Discordサーバの利用は<span style="color: red">不可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: red">表示されます</span>
+- 他サーバに<span style="color: green">影響しません</span>
 
 #### 処罰の変更・取消申請方法
 
@@ -251,16 +251,16 @@ MCBansプラグイン
 
 #### 違反者にかかる規制
 
-- Minecraftサーバへのログインは<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>。
-- 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: red">表示されます</span>。
-- 他サーバに<span style="color: red">影響します</span>。
+- Minecraftサーバへのログインは<span style="color: red">不可能です</span>
+- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>
+- 公式Discordサーバの利用は<span style="color: red">不可能です</span>
+- ユーザーページに<span style="color: red">表示されます</span>
+- MCBansに<span style="color: red">表示されます</span>
+- 他サーバに<span style="color: red">影響します</span>
 
 #### 処罰の変更・取消申請方法
 
-処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。
+処罰から90日間の間は、MCBansを通して異議を申し立てていただく必要があります。
 その後は[公式Discordサーバ](/community/discord)の#supportチャンネルで受け付けます。
 
 #### 上記以外の各種禁止処置

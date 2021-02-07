@@ -15,7 +15,7 @@ updatedAt: 2019-6-20
 - Nudonge([ユーザーページ](https://jaoafa.com/user/22b69dc2-a8e7-4ffd-a3d0-54023d687d5f)) Regular(常連) → Moderator(モデレータ) 管理補助部
 - MinHero_exp([ユーザーページ](https://jaoafa.com/user/0ad34a33-3ca4-4c86-84f3-a4591920b06a)) Regular(常連) → Moderator(モデレータ) 管理補助部
 
-追加で、06/20 19:30にヒラタケ(Hirotaisou2012)が開発部に部員として加入致しましたので、追記という形でお知らせ致します。
+追加で、06/20 19:30にヒラタケ(Hirotaisou2012)が開発部に部員として加入いたしましたので、追記という形でお知らせいたします。
 
 この異動につき、運営のメンバーは以下のようになりました。(ID等は執筆時のものです)
 

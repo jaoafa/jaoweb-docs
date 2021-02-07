@@ -32,7 +32,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 <<<<<<< HEAD:server.md
 上記のページに障害が発生しているという情報がなく、また時間をおいても状態が変わらない場合は[公式Discordの#supportチャンネル](https://wiki.jaoafa.com/jMS_Gamers_Club)からご連絡くださいますようお願いいたします。
 =======
-上記のページに障害が発生しているという情報がなく、また時間をおいても状態が変わらない場合は[公式Discordの#supportチャンネル](community/discord)からご連絡くださいますようお願い致します。  
+上記のページに障害が発生しているという情報がなく、また時間をおいても状態が変わらない場合は[公式Discordの#supportチャンネル](community/discord)からご連絡くださいますようお願いいたします。  
 
 また、サーバの定員は「**20人**」ですので、満員のときはログインすることはできません。
 >>>>>>> main:server/specifications.md
