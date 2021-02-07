@@ -1,5 +1,8 @@
 ---
-title:WorldGuardを導入しました。
+title: WorldGuardを導入しました。
+author: tomachi
+createdAt: 2018-04-30
+updatedAt: 2021-02-07
 ---
 
 ## 目次
