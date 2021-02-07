@@ -1,5 +1,5 @@
 ---
-title:サーバの歴史
+title: サーバの歴史
 ---
 |          日付           |                            出来事                            |
 | :---------------------: | :----------------------------------------------------------: |
@@ -32,7 +32,7 @@ title:サーバの歴史
 |       2020/04/05        |         jao Super Achievement2が開発されることを発表         |
 |       2020/03/22        | [SandBox](https://wiki.jaoafa.com/SandBox)ワールドが、条件付きで復活 |
 |       2020/03/12        | 新型コロナウイルスによる社会状況を考慮し、[1.12.2以外のバージョンでもMincraftサーバにログインできるように](https://jaoafa.com/blog/tomachi/202003_covid-19) |
-|       2020/02/22        |   運営の一部メンバーにて、第一回リアル定期総会が開催される   |
+|       2020/02/22        |   運営の一部メンバーにて、第1回リアル定期総会が開催される   |
 |       2019/12/28        | [トライアスロン2019](https://jaoafa.com/blog/MinHero_exp/2019xmas_event)が実施される |
 |       2019/10/06        | 権限”[Limited Verified](https://jaoafa.com/blog/tomachi/limited-verified)“が新設される |
 |       2019/09/07        |            jaoアカウントのサービス提供が終了する             |
@@ -55,7 +55,7 @@ title:サーバの歴史
 |       2018/11/23        | [Default権限でもWorldEditが使用できるようになる。](https://jaoafa.com/blog/x4z/defaultwe) |
 |    2018/11/14 21:27     | [公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)にて、mine_book000が誤操作によって#generalチャンネルを削除する |
 |       2018/10/27        | [SandBoxワールド](https://wiki.jaoafa.com/SandBox)が[リセット](https://jaoafa.com/blog/tomachi/sandbox_reset)される |
-|       2018/10/04        | [公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)にて#freechat チャンネルが作成される |
+|       2018/10/04        | [公式Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)にて#freechatチャンネルが作成される |
 |       2018/08/26        | 期間限定設置中のサバイバルワールドにおいて、エンドへ行くためのポータルが設置される |
 |       2018/07/30        | 2018年8月イベントとして、[サバイバルワールド](https://jaoafa.com/blog/tomachi/201808event_summer2018)が期間限定で設置されることを告知 |
 |       2018/07/25        | [mine_book000](https://jaoafa.com/user/32ff7cdc-a1b4-450a-aa7e-6af75fe8c37c)による[サイトトップ画像投票イベント](https://jaoafa.com/blog/tomachi/201807_gallery_event)において、[入賞作品](https://jaoafa.com/blog/tomachi/201807_gallery_event#入賞情報(7/25追記))の発表がされる |
@@ -71,7 +71,7 @@ title:サーバの歴史
 |    2018/02/03 21:00     | [ReJao_Afaワールド](https://wiki.jaoafa.com/ReJao_Afa)のサービス終了を発表する |
 |       2017/12/29        |     ストーリー制作第一弾「『じゃおにっき』を作ろう」開始     |
 |       2017/12/18        |                   /cityコマンドを実装する                    |
-| 2017/12/10 – 2017/12/30 |                   第二回爆破大会を実施する                   |
+| 2017/12/10 – 2017/12/30 |                   第2回爆破大会を実施する                   |
 |       2017/10/09        |                ボョンジェネレーターを公開する                |
 | 2017/08/01 – 2017/08/31 |         8月イベントとして、サバイバルワールドを設置          |
 |       2017/04/09        |                  jao Minecraft Server 1周年                  |
