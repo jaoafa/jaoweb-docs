@@ -79,7 +79,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 - この処罰は「各種禁止処置」に含まれません。
 - `/testment`コマンドを利用することで遺言を記載することができます。遺言はユーザーページに表示されます。
-- jaoium所持を理由に自動的にJailが行われた場合、一定時間後に自動的に解除されます。
+- jaoium所持を理由に自動的にJailが行われた場合は1分の時間経過か、上記コマンドで遺言を残すことによって自動的に解除されます。
 
 ### jMS Eden Ban (EBan)
 
@@ -130,7 +130,7 @@ jao Minecraft Server MyMaid3プラグイン
 以下の用途で実施されます。
 
 - 悪意を持ってチャットを荒らす行為が見られた場合 ([方針に記載の内容](/server/management#チャットなどについて)もお読みください。)
-- jao Minecraft Serverの独自ルール([チャットなどに関するガイドライン](/server/guidelines/communication)等)への違反が見られた場合
+- jao Minecraft Serverの独自ルール([チャットなどに関するガイドライン](/rule/guidelines/communication)等)への違反が見られた場合
 
 #### 処罰実施・取消可能者
 
@@ -159,7 +159,7 @@ jao Minecraft Server MyMaid2プラグイン
 
 [公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
 
-### jMS Local Ban (VBan)
+### Minecraft Vanilla Ban (VBan)
 
 Minecraftの元々唯一のBan機能であるローカルBanのことを指します。
 
@@ -209,6 +209,7 @@ MCBansプラグインが提供するローカル的なBanです。
 
 この処罰を実施できるのは、以下の権限グループに所属する利用者のみです。
 
+- Moderator
 - Admin
 
 #### 処罰発行元
@@ -243,6 +244,7 @@ MCBansプラグインが提供するグローバル的なBanです。
 
 この処罰を実施できるのは、以下の権限グループに所属する利用者のみです。
 
+- Moderator
 - Admin
 
 #### 処罰発行元
@@ -260,10 +262,10 @@ MCBansプラグイン
 
 #### 処罰の変更・取消申請方法
 
-処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。
+処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。  
 その後は[公式Discordサーバ](/community/discord)の#supportチャンネルで受け付けます。
 
-#### 上記以外の各種禁止処置
+### 上記以外の各種禁止処置
 
 上記以外にも、以下の対応がとられる場合があります。
 
