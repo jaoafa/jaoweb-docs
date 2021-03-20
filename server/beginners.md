@@ -13,7 +13,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 ## サーバルール
 
-是非本来であれば[サーバルール](/rule)と、その他各種方針などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
+是非本来であれば[サーバルール](/server/rules)と、その他各種方針などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
 
 - 他人の建築物に無断編集をしない
 - 「迷惑行為」に当たる行為をしない
@@ -74,7 +74,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 当サーバには、Minecraftバニラの標準的なコマンドに加えて、独自プラグインによってたくさんの便利なコマンドが追加されています。
 
-詳しくは[コマンド一覧](/server/specifications/command)をご覧ください
+詳しくは[サーバ仕様](/server/specifications#コマンドについて)をご覧ください
 
 ## 権限について
 
@@ -92,8 +92,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 - **Admin**  
   jao Minecraft Serverの全管理・運営を行う管理部の所持する権限です。
 
-詳しくは[権限グループ](server/specifications/permission)をご覧ください。
-運営については[運営者情報](/server/staff)をご覧ください。
+運営については[運営者情報](/server/profiles)をご覧ください。
 
 ## 運営上の方針について
 
@@ -107,31 +106,31 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 また、トップであるサーバ管理者が決して強いわけではなく、モデレーターを含む運営全員がサービスの根本を変えることのできる発言権限とそれぞれの意見を持っています。
 
-その他、運営上の方針をご覧になりたい方は[方針](https://jaoafa.com/rule/management)をご覧ください。
+その他、運営上の方針をご覧になりたい方は[方針](/server/policies)をご覧ください。
 
 ## Discordサーバについて
 
 当サーバでは、Minecraftサーバ外でも他の住民と自由に交流できる場として公式Discordサーバを開設しています。
 
-詳細・参加方法は[Discordサーバ](/community/discord)をご覧ください。
+詳細・参加方法は[ブログ記事](/vote/join_discord)をご覧ください。
 
 ## Banされたとき
 
-当サーバでは[サーバルール](/rule)、[方針](/rule/management)に則り違反したユーザへ処罰を行います。
-もし、Banされた場合は[こちら](/rule/punishment)よりBanの種別、解除申請の方法をご確認ください。
+当サーバでは[サーバルール](/server/rules)などに則り違反したユーザへ処罰を行います。
+もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
 
 ## わからないことがあったら
 
 もしこのウェブサイトなどを調べてもわからないことがあれば、管理部・モデレータや常連に質問をしてみましょう。
 
 - [サービス仕様](/server/specifications)
-- [ルール](https://jaoafa.com/rule)
+- [ルール](/server/rules)
 - 公式[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)内#questionチャンネル
 
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
 
-- [公式Discordサーバ](/community/discord)内#supportチャンネル
+- [公式Discordサーバ](/blog/join_discord)内#supportチャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
 - 当サイトの[お問い合わせフォーム](/support/inquiry)

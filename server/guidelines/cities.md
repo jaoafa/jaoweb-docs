@@ -1,7 +1,7 @@
 ---
 title: 自治体に関するガイドライン
 description: Minecraftサーバ内における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
-Image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
 このページでは、Minecraftサーバ内における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
@@ -17,7 +17,7 @@ jao Minecraft Server（以下、「当サーバ」と言います）では、運
 
 自治体に関して以下の基本方針を設けます。
 
-- 自治体を作成できるのは[Verified権限](/server/specifications/permission#Verified)からです。  
+- 自治体を作成できるのはVerified権限からです。  
   (自治体管理者が公式Discordサーバから退出しVerified権限を失った場合、同時に所有している自治体の所有権が剥奪(取り消し)されます。)
 - 1利用者につき**3つまで**の自治体の管理・運営を許可します。
 - **Jao_Afaワールド(メインワールド)でのみ**自治体の登録を許可します。

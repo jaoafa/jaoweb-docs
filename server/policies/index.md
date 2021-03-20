@@ -1,6 +1,6 @@
 ---
 title: 方針
-description:  jao Minecraft Serverの方針を記載します。
+description: jao Minecraft Serverの運営方針を記載します。
 image: https://storage.jaoafa.com/4adcd454dc1c5294f6b71504eb5237b2.jpg
 ---
 
@@ -12,9 +12,9 @@ jao Minecraft Serverは、これからの新しい時代を生きる**クレイ�
 
 このページでは書ききれない細かい事項に関する方針については、以下の個別ページより必要に応じてご確認ください。  
 
-- [プライバシーポリシー](server/policys/privacy)
-- [各種処罰方針](/server/policys/bans)
-- [権限付与方針 (仮称)](/server/policys/permission)
+- [プライバシーポリシー](server/policies/privacy)
+- [各種処罰方針](/server/policies/bans)
+- [権限付与方針 (仮称)](/server/policies/permission)
 
 ## 上下格差について
 
