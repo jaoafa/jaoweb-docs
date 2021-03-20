@@ -68,7 +68,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 上記禁止事項などに違反した場合、運営から以下のいずれかの処罰を利用者に対して与えられる場合があります。上位になるほど厳しく、違反行為が悪質と判断されたということになります。
 
-- Minecraftサーバ側での処罰など、[各種処罰方針](/rule/policys/bans)に該当する処罰
+- Minecraftサーバ側での処罰など、[各種処罰方針](/server/policys/bans)に該当する処罰
 - 公式DiscordサーバからのBan
 - 公式Discordサーバからのキック
 - 一部チャンネルの閲覧・発言制限
