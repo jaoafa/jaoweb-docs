@@ -13,14 +13,14 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 
 ## 荒らされた箇所を見つけた場合
 
-Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分で修復等をせず**、`/feedback`(`/fb`)コマンドや[公式Discordサーバ](/community/discord)の#supportなどを用いて運営に「荒らされたこと」と「荒らされている座標」を報告し、放置してください。  
+Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分で修復等をせず**、`/feedback`(`/fb`)コマンドや公式Discordサーバ]の`#support`などを用いて運営に「荒らされたこと」と「荒らされている座標」を報告し、放置してください。  
 
 - 荒らされた箇所の修復等をされてしまうと、記録が上書きされてしまい、運営が荒らした利用者に対して処罰をすることができなくなり、さらに被害を被る可能性があります。
 - 報告以外の行動が行われ運営の処罰処理などができなくなった場合、**運営妨害として処罰されることがあります**のでご注意ください。
 
 ## 運営の処罰対応について
 
-運営は、上記の報告を受けて、運営が活動できる時間に荒らしたプレイヤーに対して適切な処罰を行います。
+運営は、上記の報告を受けて、運営が活動できる時間に荒らしたプレイヤーに対して適切な処罰を行います。  
 この処罰は、MCBansの過去にGBanされた履歴、当サーバ内でのEBan等の処罰、日頃の行いなどを総合的に運営が判断し、即時処罰もしくは運営内での会議の上、行われます。
 
 ## 運営上の免責事項
@@ -40,7 +40,7 @@ Minecraftサーバ内で荒らされた箇所を見つけた場合には**自分
 
 ### jMS Jail (Jail)
 
-※この処罰は「各種禁止処置」には含まれませんが、便宜上ここで解説しています。
+**※この処罰は「各種禁止処置」には含まれませんが、便宜上ここで解説しています。**
 
 #### 処罰条件
 
@@ -73,7 +73,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-基本的には処罰者に解除を求めてください。その上で解除がなされない場合は[公式Discordサーバ](/community/discord)内#supportチャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。[方針#トラブルについて](/server/management#トラブルについて)もお読みください。
+基本的には処罰者に解除を求めてください。その上で解除がなされない場合は公式Discordサーバ内#supportチャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。
 
 #### 備考
 
@@ -91,7 +91,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 - GBanの前段階として暫定的に行われる処罰
 - モデレーターが管理部の判断を仰ぐ際に一時的に行う処罰
-- jao Minecraft Serverの独自ルール([Modについて](/rule/mod)等)への違反が見られた場合
+- jao Minecraft Serverの独自ルールへの違反が見られた場合
 
 #### 処罰実施・取消可能者
 
@@ -119,7 +119,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
+公式Discordサーバの`#support`チャンネルでのみ受け付けます。
 
 ### jMS ChatJail (ChatJail)
 
@@ -129,8 +129,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 以下の用途で実施されます。
 
-- 悪意を持ってチャットを荒らす行為が見られた場合 ([方針に記載の内容](/server/management#チャットなどについて)もお読みください。)
-- jao Minecraft Serverの独自ルール([チャットなどに関するガイドライン](/rule/guidelines/communication)等)への違反が見られた場合
+- [チャットなどに関するガイドライン](/server/guidelines/communications)等への違反が見られた場合
 
 #### 処罰実施・取消可能者
 
@@ -157,7 +156,7 @@ jao Minecraft Server MyMaid2プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
+公式Discordサーバの`#support`チャンネルでのみ受け付けます。
 
 ### Minecraft Vanilla Ban (VBan)
 
@@ -192,7 +191,7 @@ Minecraft バニラ
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
+公式Discordサーバの`#support`チャンネルでのみ受け付けます。
 
 ### MCBans Local Ban (LBan)
 
@@ -228,7 +227,7 @@ MCBansプラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/community/discord)の#supportチャンネルでのみ受け付けます。
+公式Discordサーバの`#support`チャンネルでのみ受け付けます。
 
 ### MCBans Global Ban (GBan)
 
@@ -238,7 +237,7 @@ MCBansプラグインが提供するグローバル的なBanです。
 
 以下の用途で実施されます。
 
-- jao Minecraft Serverの[サーバルール](/rule)または個別規約に違反し、かつ[Global Ban Rules](https://forums.mcbans.com/wiki/global-ban-rules/)や[MCBans Terms of Service](https://www.mcbans.com/tos)に違反する場合
+- jao Minecraft Serverの[サーバルール](/server/rule)に違反し、かつ[Global Ban Rules](https://forums.mcbans.com/wiki/global-ban-rules/)や[MCBans Terms of Service](https://www.mcbans.com/tos)に違反する場合
 
 #### 処罰実施・取消可能者
 
@@ -263,7 +262,7 @@ MCBansプラグイン
 #### 処罰の変更・取消申請方法
 
 処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。  
-その後は[公式Discordサーバ](/community/discord)の#supportチャンネルで受け付けます。
+その後は公式Discordサーバの`#support`チャンネルで受け付けます。
 
 ### 上記以外の各種禁止処置
 
