@@ -30,14 +30,11 @@ Gitにはブランチという編集(開発)する場所を一時的に分ける
 ## 編集サポートについて
 
 執筆・読みやすさの手助けとなるよう、MarkdownLintとTextLintを導入しています。  
-それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)、TextLintは[.textlintrc](.textlintrc)で規定しています。
+それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)で規定しています。
 
 Visual Studio Codeの場合、以下の拡張機能でそれぞれのLintの恩恵を受けられます。他に良い拡張機能があるならそれでも構いません。
 
 - MarkdownLint: [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- TextLint: [taichi.vscode-textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)
-  - Node.jsが必要です。少し難易度高め
-  - 導入方法参考文献: [textlint と VS Code で始める文章校正 - Qiita](https://qiita.com/takasp/items/22f7f72b691fda30aea2)
 
 ## ナビゲーションバー（ファイル分け）
 
