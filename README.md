@@ -4,8 +4,7 @@
 
 ## プレビュー
 
-- mainブランチ: [https://main@jaoweb.tomacheese.com/](https://main@jaoweb.tomacheese.com/)
-- その他のブランチ: `https://<ブランチ名>@jaoweb.tomacheese.com/`
+- mainブランチ: [https://jaoweb.tomacheese.com/](https://jaoweb.tomacheese.com/)
 
 ## 編集の仕方
 
@@ -31,14 +30,82 @@ Gitにはブランチという編集(開発)する場所を一時的に分ける
 ## 編集サポートについて
 
 執筆・読みやすさの手助けとなるよう、MarkdownLintとTextLintを導入しています。  
-それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)、TextLintは[.textlintrc](.textlintrc)で規定しています。
+それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)で規定しています。
 
 Visual Studio Codeの場合、以下の拡張機能でそれぞれのLintの恩恵を受けられます。他に良い拡張機能があるならそれでも構いません。
 
 - MarkdownLint: [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- TextLint: [taichi.vscode-textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)
-  - Node.jsが必要です。少し難易度高め
-  - 導入方法参考文献: [textlint と VS Code で始める文章校正 - Qiita](https://qiita.com/takasp/items/22f7f72b691fda30aea2)
+
+## ナビゲーションバー（ファイル分け）
+
+### サーバ情報
+
+- はじめての方へ (`/server/beginners`)
+  - （適するプレイヤー・年齢）
+- 運営者情報 (`/server/profiles`)
+- サービス仕様 (`/server/specifications.md`)
+  - 一括破壊系 Mod + 使える Mod・使えない Mod
+  - ログイン関連: サーバアドレス、バージョン、ステータス
+  - ゲームモード
+  - プラグインによる独自仕様
+  - 時間による再起動
+  - 主なコマンドの一覧
+  - 権限・権限グループ
+  - 投票仕様（初ログイン・24 日制限）
+  - 日本オンリー
+  - Dynmap
+- サーバルール [ユーザーに対して・この鯖ではこれを守らなければなりませんよ] (`/server/rules/*`)
+  - サーバルール `index.md`
+    - 現行のサーバルールコピペ
+    - サービス再利用の禁止
+    - clubjaoafa
+    - Mod について
+      - Mod の使用可能・不可
+  - 公式 Discord サーバ利用ルール
+    - Discord サーバにおける利用条件・遵守事項・禁止事項・免責事項
+- ガイドライン [ユーザーに対して・サーバルールや利用規約を守るとこうなるよね] (`/server/guidelines/*`)
+  - チャットに関するガイドライン: 日本語入力 Mod・性的発言・宣伝
+  - 迷惑行為の対応に関するガイドライン: 荒らし等の対応
+  - 撮影・動画配信に関するガイドライン
+  - 鉄道・道路敷設に関するガイドライン
+  - 自治体に関するガイドライン
+  - トラブルについて
+- 方針 [運営として・運営がこれこれこうしたいという形を示したもの] (`/server/policys/*`)
+  - プライバシーポリシー
+  - 各種処罰方針: この場合にこういった処罰を行う・免責事項
+  - 権限 (名前検討)
+  - 運営業務と現実
+  - 不当に権力を扱う場合の阻止（議決関連含）
+  - 寄付受け付けない方針
+  - 運営にあたる免責事項
+
+### ブログ（説明記事とか）
+
+- Discord: 参加方法
+- Mod: 導入解説
+- 自治体: 各種申請方法
+- Minecraft 基本解説
+- 細かいコマンドの解説
+- 投票の方法解説
+
+### コミュニティ
+
+- ユーザー一覧
+- Wiki
+- Discord
+
+### お問い合わせ
+
+- お問い合わせ
+- よくあるご質問 FAQ
+
+### ※削除
+
+- サーバの歴史
+- 定期総会
+- 部活動概念自体（あくまで Admin・Moderator のみに）
+  - 公式からの概念公表は消す。Wiki での「こんな概念が昔ありましたよ」だけ
+- 非公式コミュニティ（書くなら利用規約）
 
 ## ライセンスについて / License
 
