@@ -13,7 +13,7 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 
 ## 迷惑なプレイヤーを見つけた場合
 
-[迷惑行為の対応に関するガイドライン](/server/guidelines/grifing)をご覧ください。
+[迷惑行為の対応に関するガイドライン](/server/guidelines/griefing)をご覧ください。
 
 ## 運営の処罰対応について
 
@@ -75,7 +75,7 @@ jao Minecraft Server MyMaid3プラグイン
 #### 備考
 
 - この処罰は「各種禁止処置」に含まれません。
-- `/testment`コマンドを利用することで遺言を記載することができます。遺言はユーザーページに表示されます。
+- `/testment`コマンドを利用することで遺言を記載することができます。遺言は[ユーザーページ](https://users.jaoafa.com)に表示されます。
 - jaoium所持を理由に自動的にJailが行われた場合は1分の時間経過か、上記コマンドで遺言を残すことによって自動的に解除されます。
 
 ### jMS Eden Ban (EBan)
@@ -234,7 +234,7 @@ MCBansプラグインが提供するグローバル的なBanです。
 
 以下の用途で実施されます。
 
-- jao Minecraft Serverの[サーバルール](/server/rule)に違反し、かつ[Global Ban Rules](https://forums.mcbans.com/wiki/global-ban-rules/)や[MCBans Terms of Service](https://www.mcbans.com/tos)に違反する場合
+- jao Minecraft Serverの[サーバルール](/server/rules)に違反し、かつ[Global Ban Rules](https://forums.mcbans.com/wiki/global-ban-rules/)や[MCBans Terms of Service](https://www.mcbans.com/tos)に違反する場合
 
 #### 処罰実施・取消可能者
 
