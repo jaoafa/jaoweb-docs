@@ -8,7 +8,7 @@ image: https://storage.jaoafa.com/af655f1c08ee5712fb9c5c3b9d71d3bc.png
 
 ## 参加方法
 
-公式Discordサーバへの参加方法については[こちらのブログ記事](/blog/join_discord)を御ごください。
+公式Discordサーバへの参加方法については[こちらのブログ記事](/blog/join_discord)をご覧ください。
 
 ## 利用条件・遵守事項
 

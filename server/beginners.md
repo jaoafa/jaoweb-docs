@@ -43,8 +43,6 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 ログインできるのは**Minecraft Java Edition(PC版)**の**Ver.1.12.2**のみです。
 
-[こちらの記事](/blog/multiplayer)でバージョンを変更して起動する方法と、マルチサーバに接続する方法を解説しています。
-
 ## 建築について
 
 初期スポーン地点である"鯖庁"周辺の**芝生エリアで建築**することができます。
@@ -84,7 +82,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 - **Default** (新規権限)  
   サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます。
 - **Verified**  
-  [Discordサーバ](https://wiki.jaoafa.com/jMS_Gamers_Club)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
+  [Discordサーバ](/blog/join_discord)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
 - **Regular** (常連権限)  
   運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
 - **Moderator**  
@@ -131,7 +129,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 当サーバでは、Minecraftサーバ外でも他の住民と自由に交流できる場として公式Discordサーバを開設しています。
 
-詳細・参加方法は[ブログ記事](/vote/join_discord)をご覧ください。
+詳細・参加方法は[ブログ記事](/blog/join_discord)をご覧ください。
 
 ## Banされたとき
 
@@ -144,7 +142,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 - [サービス仕様](/server/specifications)
 - [ルール](/server/rules)
-- 公式[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)内#questionチャンネル
+- 公式[Discord](/blog/join_discord)内#questionチャンネル
 
 ### 運営へのお問い合わせ先
 
