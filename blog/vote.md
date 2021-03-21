@@ -1,16 +1,16 @@
 ---
 title: 各サイトでの投票と投票特典
+category: tips
+author: ekipa
 description: minecraft.jpやmonocraft.netに登録・ログイン・投票したりする方法について解説します
 image: https://storage.jaoafa.com/5ea4cd5ca2788d53c455046d301834d6.png
+createdAt: 2021-3-21
+updatedAt: 2021-3-21
 ---
 
 jao Minecraft Serverでは、Minecraft JavaEditionサーバリストサービスサイトである[Japan Minecraft Servers](https://minecraft.jp)と[monocraft](https://monocraft.net)へ登録しており、それぞれのサイトでの投票を受け付けています。また、投票に対する投票特典も複数ご用意しております。
 
-なお、これらのサイトを利用したことによって発生したいかなる問題に対して、jao Minecraft Server 運営は責任を負いませんのでご注意ください。
-
-## 目次
-
-<!--contents-->
+なお、これらのサイトを利用したことによって発生したいかなる問題に対して、jao Minecraft Server 運営及び記事作成者は責任を負いませんのでご注意ください。
 
 ## Japan Minecraft Servers (minecraft.jp)
 
