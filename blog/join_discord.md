@@ -1,5 +1,5 @@
 ---
-title: jao鯖公式Discordサーバに参加する方法
+title: jMS公式Discordサーバに参加しましょう！
 category: tips
 author: ekipa
 description: jao Minecraft Serverの公式Discordサーバ「jMS Gamers Club」への参加方法を紹介します。
