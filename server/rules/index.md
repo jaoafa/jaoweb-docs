@@ -74,13 +74,10 @@ jao Minecraft Serverでは、違反行為による対応が適用されない他
 この他に、自治体に関する取り決めなど、特定の案件に限定したルールや方針(これらを個別規約と呼びます)がございます。  
 これらについてここに書き込むと非常に**長文化**してしまい、**聖書かなにかみたいな沙汰になってしまう**ため、それらについては鉄道・自治体など、各ページに分散しております。
 
-~~ルールが長すぎると運営も混乱してつらい。脱毛してしまう。(旧利用規約で既にした)~~
-
-- [ガイドライン](/guidelines)
-  - [自治体に関するガイドライン](/server/guidelines/cities)
-  - [鉄道・道路敷設に関するガイドライン](/server/guidelines/railways)
-  - [チャットなどに関するガイドライン](/server/guidelines/communications)
-  - [撮影などに関するガイドライン](/server/guidelines/broadcast)
+- [自治体に関するガイドライン](/server/guidelines/cities)
+- [鉄道・道路敷設に関するガイドライン](/server/guidelines/railways)
+- [チャットなどに関するガイドライン](/server/guidelines/communications)
+- [撮影などに関するガイドライン](/server/guidelines/broadcast)
 
 ## Modについて
 
