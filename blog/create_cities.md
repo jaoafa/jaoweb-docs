@@ -26,7 +26,7 @@ updatedAt: 2021-3-21
 
 ### 1. 「jao Minecraft Server Members Club」にアクセスします
 
-[jMS Minecraft Server Members Club](https://club.jaoafa.com/)にアクセスし、ログインしてください。初めての方は新規登録をしてください。
+[jao Minecraft Server Members Club](https://club.jaoafa.com/)にアクセスし、ログインしてください。初めての方は新規登録をしてください。
 
 - 新規登録の際に要求される「**認証コード**」は、Minecraftサーバ内で`/getuserkey`コマンドを実行して取得してください。
 - パスワードは他サービスで使いまわしたり、逆に他サービスで利用しているパスワードを使いまわさないでください。
@@ -55,7 +55,7 @@ updatedAt: 2021-3-21
 
 ### 1.「jao Minecraft Server Members Club」にアクセスします
 
-[jMS Minecraft Server Members Club](https://club.jaoafa.com/)にアクセスし、ログインしてください。
+[jao Minecraft Server Members Club](https://club.jaoafa.com/)にアクセスし、ログインしてください。
 ![ログインをしてください](https://storage.jaoafa.com/49fbbd86ac3c1ff9d97ac16df06765cc.png)
 
 ### 2. 左側にある「**自治体**」をクリックして、範囲を変更したい自治体「をクリックしてください

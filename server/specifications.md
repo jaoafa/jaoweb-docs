@@ -1,10 +1,10 @@
 ---
 title: サーバ仕様
 description: jao Minecraft Serverの様々な仕様を記載します。
-image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
+image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 ---
 
-ここではサーバのあんな情報やこんな仕様を掲示しています。
+ここではサーバの様々な仕様を掲示しています。
 
 ## ログインについて
 
