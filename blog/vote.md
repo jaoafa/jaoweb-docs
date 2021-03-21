@@ -3,7 +3,7 @@ title: 各サイトでの投票と投票特典
 category: tips
 author: ekipa
 description: minecraft.jpやmonocraft.netに登録・ログイン・投票したりする方法について解説します
-image: https://storage.jaoafa.com/5ea4cd5ca2788d53c455046d301834d6.png
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-3-21
 updatedAt: 2021-3-21
 ---

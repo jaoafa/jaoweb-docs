@@ -3,6 +3,7 @@ title: 自治体申請の方法
 category: tips
 author: ekipa
 description: jao Minecraft Serverで自治体をつくるのに必要な各種申請の方法を詳しく解説します。
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-3-21
 updatedAt: 2021-3-21
 ---
