@@ -1,5 +1,5 @@
 ---
-title:各種処罰方針
+title: 各種処罰方針
 description: 各種禁止処置(処罰・Ban)についての方針やその種類を記載します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 ---
