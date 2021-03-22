@@ -5,10 +5,10 @@ author: ekipa
 description: jao Minecraft Serverの公式Discordサーバ「jMS Gamers Club」への参加方法を紹介します。
 image: 	https://storage.jaoafa.com/af655f1c08ee5712fb9c5c3b9d71d3bc.png
 createdAt: 2021-3-21
-updatedAt: 2021-3-21
+updatedAt: 2021-3-22
 ---
 
-このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」への参加方法を解説します。
+この記事では、jao Minecraft Serverの公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
 
 ## Discordとは
 

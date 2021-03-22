@@ -5,7 +5,7 @@ author: ekipa
 description: minecraft.jpやmonocraft.netに登録・ログイン・投票したりする方法について解説します
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-3-21
-updatedAt: 2021-3-21
+updatedAt: 2021-3-22
 ---
 
 jao Minecraft Serverでは、Minecraft JavaEditionサーバリストサービスサイトである[Japan Minecraft Servers](https://minecraft.jp)と[monocraft](https://monocraft.net)へ登録しており、それぞれのサイトでの投票を受け付けています。また、投票に対する投票特典も複数ご用意しております。
@@ -18,13 +18,13 @@ jao Minecraft Serverでは、Minecraft JavaEditionサーバリストサービス
 
 ### 登録方法
 
-Japan Minecraft Serversで投票したりサービスを利用するためには、アカウントを作成する必要があります。
+Japan Minecraft Serversで投票したり一部機能を利用するためには、アカウントを作成する必要があります。
 
 ![minecraft.jpでアカウント登録をしましょう](https://storage.jaoafa.com/de396ccf36a2d575ca0ea419465abf30.png)
 
 [登録 | Japan Minecraft Servers](https://minecraft.jp/accounts/register)から、アカウント登録を行ってください。
 
-- 「認証コード」は、Minecraftを起動し「ダイレクト接続(Direct Connect)」から「`code.minecraft.jp`」に接続して取得してください。
+- 「認証コード」は、Minecraftを起動し「ダイレクト接続(Direct Connect)」から`code.minecraft.jp`に接続して取得してください。
 - 「メール」は、Mojangに登録してあるメールアドレスなど、メールを受信することのできるメールアドレスを入力してください。
 - 「パスワード」は、ログインする際に使用するパスワードですので、自身で決めて入力してください。なお、**Mojang登録時(Minecraft購入時)に入力したパスワードは使用しないでください。**
 
@@ -61,11 +61,11 @@ Japan Minecraft Serversで投票したりサービスを利用するためには
 
 投票ボタンをクリックする前に人間認証(正確には[Google reCAPTCHA](https://www.google.com/recaptcha/about/)と言います)をクリアしなければなりません。赤丸部分をクリックして、指示に従いチェックマークになるようにしてください。
 
-#### 5. 「ユーザー名を通知」にチェックを入れてください
+#### 3. 「ユーザー名を通知」にチェックを入れてください
 
 ![「ユーザー名を通知」にチェックを入れてください](https://storage.jaoafa.com/36677f94ee5c7d4930fdb7d042bb2bcf.PNG)
 
-通常であれば、既にチェックがついた状態になっていますが、チェックがついていないと**投票通知を受け取ることができなく**、**"最近の投票者"の部分にも表示されません。  
+通常であれば、既にチェックがついた状態になっていますが、チェックがついていないと**投票通知を受け取ることができなく**、「最近の投票者」の部分にも表示されません。  
 チェックがされていない(水色になっていない)場合は、緑色丸で囲まれたチェックボックスをクリックしてください。
 
 また、MinecraftIDを変更した際には、下の「ユーザー名が変わりましたか？」をクリックしてください。
@@ -83,7 +83,7 @@ Japan Minecraft Serversで投票したりサービスを利用するためには
 ページが変わったあと、上部に「**投票しました。明日、再度投票が可能です。**」と表示が出れば投票は完了です。
 
 - 投票は1日1回行うことができ、minecraft.jpでは"**午前9:00**"に投票がリセットされ、再投票が可能になります。
-- 投票が完了すると、Minecraftサーバ内チャットに"投票者" "投票元サイト" "投票回数"が表示されます。このメッセージは[公式Discordサーバ]((/community/discord))`#server-chat`からも見ることができます。
+- 投票が完了すると、Minecraftサーバ内チャットに"投票者" "投票元サイト" "投票回数"が表示されます。このメッセージは[公式Discordサーバ]((/blog/join_discord))`#server-chat`からも見ることができます。
 
 ### 投票特典
 
@@ -91,7 +91,7 @@ Japan Minecraft Serversで投票したりサービスを利用するためには
 
 #### ログインメッセージの変化
 
-ログイン時に表示されるメッセージの文字列が投票数によって増え、[ユーザーページ](/user)にも表示されます。  
+ログイン時に表示されるメッセージの文字列が投票数によって増え、[ユーザーページ](https://users.jaoafa.com)にも表示されます。  
 条件は以下の通りです。`<Player>`はプレイヤー名に置き換えられます。
 
 - 19投票までは通常のログインメッセージ「<span style="color: #FF5;background: silver;font-weight: bold;">&lt;Player&gt; joined the game.</span>」が表示されます。
@@ -189,12 +189,12 @@ Japan Minecraft Serversで投票したりサービスを利用するためには
 |<span class="colorbox" style="color: #0AA;">■</span>|48 ～ 61|DARK_AQUA|<span class="colorbox" style="color: #A0A;">■</span>|146 ～ 159|DARK_PURPLE|
 |<span class="colorbox" style="color: #0A0;">■</span>|62 ～ 75|DARK_GREEN|<span class="colorbox" style="color: #F5F;">■</span>|160 ～|LIGHT_PURPLE|
 
-- [EBan](/rule/management/punishment#jMSEdenBan(EBan))されているプレイヤーはどの投票数かに限らず「<span class="colorboxtext" style="color: #555;">■</span>DARK_GRAY」になります。
+- [EBan](/server/policies/bans)されているプレイヤーはどの投票数かに限らず「<span class="colorboxtext" style="color: #555;">■</span>DARK_GRAY」になります。
 
 #### 200回以上投票で自由に四角色変更
 
 200回以上投票をすると、投票数に応じて変更されるチャットでのプレイヤー名の隣にある四角(■)の色を自由に変更することができます。
-変更には、`/color <Color>`コマンドで行なえます。`<Color>`には表の「色名」を入力してください。(大文字小文字は区別しません)
+変更は、`/color <Color>`コマンドで行なえます。`<Color>`には表の「色名」を入力してください。(大文字小文字は区別しません) 例: 「/color red」
 
 ### その他
 
@@ -231,13 +231,12 @@ Twitterアカウントを連携する場合、ユーザーネームまたはメ�
 
 登録前に必ず[利用規約/プライバシーポリシー](https://www.notion.so/13389c891f7e485488956016093d27ce)を確認し同意してください。(登録した時点で、規約に同意したとみなされます)
 
-#### Minecraftアカウントを連携させる
+#### Minecraftアカウントと連携する
 
-GoogleまたはTwitterアカウントとの連携が済むと[ダッシュボード](https://monocraft.net/dashboard)ページへ飛びます。
-左側にある「アカウント」項目の真ん中にある「Minecraft認証」をクリックして[Minecraftアカウント連携ページ](https://monocraft.net/dashboard/authminecraft)へ飛んでください。
+GoogleまたはTwitterアカウントとの連携が済むと[管理画面](https://monocraft.net/dashboard)へ飛びます。
+左側にある「アカウント」項目の真ん中にある「Minecraft認証」をクリックして[Minecraftと連携](https://monocraft.net/dashboard/authminecraft)へ飛んでください。
 
 ![Minecraftアカウントを連携させる](https://storage.jaoafa.com/8b7c54eea8c82dd9fcce2502091dc306.PNG)
-
 
 「認証コード」は、Minecraftを起動し「ダイレクト接続(Direct Connect)」から、アドレス「`srv.mc-oauth.net`」に接続して取得してください。
 
@@ -263,7 +262,7 @@ https://storage.jaoafa.com/2fc14fff72c8b32b9d5566dbbf8e541c.PNG)
 「投票処理中…」と表示され、画面中央に「**投票できました！**」と表示されれば成功です。
 
 - 投票は1日1回行うことができ、monocraft.netでは"**深夜0:00**"に投票がリセットされ、再投票が可能になります。
-- 投票が完了すると、Minecraftサーバ内チャットに"投票者" "投票元サイト" "投票回数"が表示されます。このメッセージは[Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)#server-chatからも見ることができます。
+- 投票が完了すると、Minecraftサーバ内チャットに"投票者" "投票元サイト" "投票回数"が表示されます。このメッセージは[公式Discordサーバ](/blog/join_discord)`#server-chat`からも見ることができます。
 
 ### 投票特典
 
@@ -276,50 +275,50 @@ https://storage.jaoafa.com/2fc14fff72c8b32b9d5566dbbf8e541c.PNG)
 
 なお、イメージ画像はあくまでイメージであり、実際とは異なる場合があります。
 また、~~撮影がめんどいので~~多忙のため、全ての画像が登録できているわけではありません。
-解放投票数|パーティクル|イメージ画像|
+解放投票数|パーティクル名|和訳|
 |:-:|:-:|:-:|
-|0|FLAME|<img src="https://jaoafa.com/wp-content/uploads/2020/06/FLAME.png">|
-|20|LAVA|<img src="https://jaoafa.com/wp-content/uploads/2020/06/LAVA.png">|
-|24|VILLAGER_ANGRY|<img src="https://jaoafa.com/wp-content/uploads/2020/06/VILLAGER_ANGRY.png">|
-|28|HEART|<img src="https://jaoafa.com/wp-content/uploads/2020/06/HEART.png">|
-|32|EXPLOSION_HUGE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/EXPLOSION_HUGE.png">|
-|36|EXPLOSION_LARGE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/EXPLOSION_LARGE.png">|
-|40|SMOKE_LARGE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SMOKE_LARGE.png">|
-|44|NOTE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/NOTE.png">|
-|48|DAMAGE_INDICATOR|<img src="https://jaoafa.com/wp-content/uploads/2020/06/DAMAGE_INDICATOR.png">|
-|52|SWEEP_ATTACK|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SWEEP_ATTACK.png">|
-|56|FIREWORKS_SPARK|<img src="https://jaoafa.com/wp-content/uploads/2020/06/FIREWORKS_SPARK.png">|
-|60|CRIT_MAGIC|<img src="https://jaoafa.com/wp-content/uploads/2020/06/CRIT_MAGIC.png">|
-|64|VILLAGER_HAPPY|<img src="https://jaoafa.com/wp-content/uploads/2020/06/VILLAGER_HAPPY.png">|
-|68|END_ROD|<img src="https://jaoafa.com/wp-content/uploads/2020/06/END_ROD.png">|
-|72|DRIP_WATER|<img src="https://jaoafa.com/wp-content/uploads/2020/06/DRIP_WATER.png">|
-|76|DRIP_LAVA|<img src="https://jaoafa.com/wp-content/uploads/2020/06/DRIP_LAVA.png">|
-|80|SPELL_INSTANT|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPELL_INSTANT.png">|
-|84|SPELL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPELL.png">|
-|88|PORTAL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/PORTAL.png">|
-|92|DRAGON_BREATH|<img src="https://jaoafa.com/wp-content/uploads/2020/06/DRAGON_BREATH.png">|
-|96|CLOUD|<img src="https://jaoafa.com/wp-content/uploads/2020/06/CLOUD.png">|
-|100|ENCHANTMENT_TABLE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/ENCHANTMENT_TABLE.png">|
-|104|SPELL_WITCH|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPELL_WITCH.png">|
-|108|TOTEM|<img src="https://jaoafa.com/wp-content/uploads/2020/06/TOTEM.png">|
-|112|EXPLOSION_NORMAL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/EXPLOSION_NORMAL.png">|
-|116|CRIT|<img src="https://jaoafa.com/wp-content/uploads/2020/06/CRIT.png">|
-|120|SPELL_MOB_AMBIENT|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPELL_MOB_AMBIENT.png">|
-|124|REDSTONE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/REDSTONE.png">|
-|128|WATER_BUBBLE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/WATER_BUBBLE.png">|
-|132|FOOTSTEP|<img src="https://jaoafa.com/wp-content/uploads/2020/06/FOOTSTEP.png">|
-|136|SPIT|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPIT.png">|
-|140|SPELL_MOB|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SPELL_MOB.png">|
-|144|SNOWBALL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SNOWBALL.png">|
-|148|WATER_WAKE|<img src="https://jaoafa.com/wp-content/uploads/2020/06/WATER_WAKE.png">|
-|152|WATER_DROP|<img src="https://jaoafa.com/wp-content/uploads/2020/06/WATER_DROP.png">|
-|156|SLIME|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SLIME.png">|
-|160|SNOW_SHOVEL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SNOW_SHOVEL.png">|
-|164|SUSPENDED_DEPTH|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SUSPENDED_DEPTH.png">|
-|168|TOWN_AURA|<img src="https://jaoafa.com/wp-content/uploads/2020/06/TOWN_AURA.png">|
-|172|WATER_SPLASH|<img src="https://jaoafa.com/wp-content/uploads/2020/06/WATER_SPLASH.png">|
-|176|SMOKE_NORMAL|<img src="https://jaoafa.com/wp-content/uploads/2020/06/SMOKE_NORMAL.png">|
-|180|BARRIER|<img src="https://jaoafa.com/wp-content/uploads/2020/06/BARRIER.png">|
+|0 (デフォルト)|FLAME|かまどから出る炎|
+|20|LAVA|溶岩から出る炎|
+|24|VILLAGER_ANGRY|村人を殴った時に出る雷雲|
+|28|HEART|繁殖の時に出るハート|
+|32|EXPLOSION_HUGE|大きな爆破|
+|36|EXPLOSION_LARGE|小さな爆破|
+|40|SMOKE_LARGE|かまどから出る煙|
+|44|NOTE|音符ブロックから出るカラフルな音符|
+|48|DAMAGE_INDICATOR|ダメージ時に出る黒いハート|
+|52|SWEEP_ATTACK|剣での攻撃の時に出るエフェクト|
+|56|FIREWORKS_SPARK|花火から出るエフェクト|
+|60|CRIT_MAGIC|魔法のクリティカルヒット時に出る|
+|64|VILLAGER_HAPPY|村人との貿易時にでる緑色のエフェクト|
+|68|END_ROD|エンドロットから出るエフェクト|
+|72|DRIP_WATER|ブロックから滴る水滴(ここでは雨のように頭上から降ってくる)|
+|76|DRIP_LAVA|ブロックから滴る溶岩(ここでは雨のように頭上から降るてくる)|
+|80|SPELL_INSTANT|ポーションの破片？|
+|84|SPELL|白いモヤモヤ|
+|88|PORTAL|ネザーポータルなどから出る紫のエフェクト|
+|92|DRAGON_BREATH|エンダードラゴンが吐くブレス|
+|96|CLOUD|煙|
+|100|ENCHANTMENT_TABLE|エンチャントテーブルから出る文字|
+|104|SPELL_WITCH|ウィッチから出る紫色のエフェクト|
+|108|TOTEM|不死のトーテム仕様時に出るエフェクト|
+|112|EXPLOSION_NORMAL|周りに拡散する煙|
+|116|CRIT|クリティカルヒット時に出る|
+|120|SPELL_MOB_AMBIENT|ビーコンの効果|
+|124|REDSTONE|動力が通っているレッドストーンから出るエフェクト|
+|128|WATER_BUBBLE|水中で見られる泡|
+|132|FOOTSTEP|足跡|
+|136|SPIT|ラマが吐く唾|
+|140|SPELL_MOB|Mobから出る黒いエフェクト|
+|144|SNOWBALL|雪玉の破片|
+|148|WATER_WAKE|地面に当たる雨|
+|152|WATER_DROP|地面に当たる雨(強め)|
+|156|SLIME|スライムから出るエフェクト|
+|160|SNOW_SHOVEL|細かい煙|
+|164|SUSPENDED_DEPTH|不明|
+|168|TOWN_AURA|不明|
+|172|WATER_SPLASH|地面に当たる雨(弱め)|
+|176|SMOKE_NORMAL|黒い煙(弱め)|
+|180|BARRIER|バリアブロック|
 
 たとえば、30回投票している場合は`FLAME, LAVA, VILLAGER_ANGRY, HEART`が利用できます。
 
