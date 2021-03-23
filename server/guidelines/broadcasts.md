@@ -9,13 +9,13 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 
 この項では、YouTube、ニコニコ動画・生放送、Twitch、ツイキャス、OPENRECなどの動画配信サービスへの「**配信**」(ここでは**動画投稿も含む**)、それらの閲覧・視聴について記載いたします。
 
-但し、jao Minecraft Serverの公式Discordサーバ(jMS Gamers Club)のボイスチャットチャンネルにおける配信(GoLive)は例外とします。
+但し、jao Minecraft Serverの[公式Discordサーバ](/blog/join_discord)のボイスチャットチャンネルにおける配信(GoLive)は例外とします。
 
 ### 基本方針
 
 - 配信を行えるのは、**Verified以上の権限**からです。
 - Minecraftサーバ内において**何かしらの建築経験**がない場合は配信を行えません。
-- Regular以上の権限を所持していない場合(Verified権限)は、`#support`で運営へ申請し、許可をもらってください。  
+- **Regular以上の権限を所持していない場合**(Verified権限)は、`#support`で**運営へ申請**し、許可をもらってください。  
 申請には次の項目が必要です。
 
 1. 配信を行う利用者のMinecraftID
@@ -29,7 +29,7 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 1. `jao Minecraft Server`
 2. `https://jaoafa.com/`
 3. `#jaoafa`  
-タグ等の設定可能な項目がある場合には、「jaoafa」などのわかりやすいタグ付けをおねがいします。
+タグ等の設定可能な項目がある場合には、「`jaoafa`」などのわかりやすいタグ付けをおねがいします。
 
 ## SNSへ投稿する場合
 
@@ -38,8 +38,8 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 ### 基本方針
 
 - SNSへの投稿については、投稿者の**制限を特に設けません。**
-- 投稿時には、(ハッシュタグ)「**#jaoafa**」を付与してください。  
-  Twitterにて`#jaoafa`のハッシュタグをつけると、公開アカウントであれば[jao Minecraft Serverの公式アカウントである@jaoafa](https://twitter.com/jaoafa)リツイートされます。
+- 投稿時には、(ハッシュタグ)「`#jaoafa`」を付与してください。  
+  Twitterにて`#jaoafa`のハッシュタグをつけると、公開アカウントであればjao Minecraft Serverの公式アカウントである[@jaoafa](https://twitter.com/jaoafa)にリツイートされます。
 
 ## 撮影する場合
 

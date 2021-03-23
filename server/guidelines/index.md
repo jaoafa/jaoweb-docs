@@ -10,6 +10,6 @@ jao Minecraft Server（以下「当サーバ」と呼びます）の各サービ
 
 - [鉄道・道路敷設に関するガイドライン](/server/guidelines/railways)
 - [自治体に関するガイドライン](/server/guidelines/cities)
-- [撮影・動画配信に関するガイドライン](/server/guidelines/broadcasts)
+- [撮影などに関するガイドライン](/server/guidelines/broadcasts)
 - [チャットに関するガイドライン](/server/guidelines/ommunications)
 - [迷惑行為の対応に関するガイドライン](/server/guidelines/griefing)

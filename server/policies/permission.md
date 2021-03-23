@@ -1,5 +1,5 @@
 ---
-title: 権限付与方針 (仮称)
+title: 権限付与方針
 description: 権限の付与についての方針やその種類について記載します。
 image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 ---
@@ -8,7 +8,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 
 ## 権限の種類
 
-jao Minecraft Serverの権限(権限グループ)は大きく次の5つに分けられています。
+当サーバの権限(権限グループ)は大きく次の5つに分けられています。
 
 - Admin
 - Moderator
@@ -22,7 +22,7 @@ jao Minecraft Serverの権限(権限グループ)は大きく次の5つに分け
 
 ## Default
 
-jao Minecraft Serverに初めてログインした際に、自動的に付与されます。
+サーバに初めてログインした際に、自動的に付与されます。
 
 ## Verified
 

@@ -4,8 +4,7 @@ description: サーバに参加する上で知ってほしいことや、様々�
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 ---
 
-**jao Minecraft Serverへようこそ！**
-当ページでは、サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。参加前にぜひ目を通しておいてください！
+**jao Minecraft Serverへようこそ！** このページでは、サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。参加前にぜひ目を通しておいてください！
 
 ## サーバルール
 
@@ -67,6 +66,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 - [AntiAlts3](https://github.com/jaoafa/AntiAlts3): サブアカウントによるログインを制限する独自プラグインです。
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/): ブロックの設置・破壊など編集を記録するプラグインです。
 - [ImageOnMap](https://dev.bukkit.org/projects/imageonmap): サーバ内で画像を設置することができるプラグインです。
+- [WorldEdit](https://dev.bukkit.org/projects/worldedit): 建築を補助するプラグインです。Discordサーバでアカウント連携さえすれば誰でも使用することができます。
 
 ### コマンドについて
 
@@ -78,7 +78,7 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 当サーバのプレイヤー権限グループは以下のページで解説されています。ぜひお読みください。
 
-[サーバ仕様](/server/specifications#権限について)
+- [サーバ仕様](/server/specifications#権限グループについて)
 
 ## 運営上の方針について
 
@@ -118,16 +118,16 @@ image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 
 ## わからないことがあったら
 
-もしこのウェブサイトなどを調べてもわからないことがあれば、管理部・モデレータや常連に質問をしてみましょう。
+もしこのウェブサイトなどを調べてもわからないことがあれば、運営や常連に質問をしてみましょう。
 
 - [サービス仕様](/server/specifications)
 - [ルール](/server/rules)
-- 公式[Discord](/blog/join_discord)内#questionチャンネル
+- 公式[Discord](/blog/join_discord)内`#question`チャンネル
 
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
 
-- [公式Discordサーバ](/blog/join_discord)内#supportチャンネル
+- [公式Discordサーバ](/blog/join_discord)内`#support`チャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
 - 当サイトの[お問い合わせフォーム](/support/inquiry)
