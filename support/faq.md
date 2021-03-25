@@ -1,7 +1,7 @@
 ---
 title: よくあるご質問
 description: 利用者から寄せられるよくある質問について、Q&A形式でまとめています。
-image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
+image: https://storage.jaoafa.com/1c1d94d9c886ee4565ba2627125b30ac.png
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  

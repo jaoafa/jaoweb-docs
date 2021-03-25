@@ -1,7 +1,7 @@
 ---
 title: 方針
 description: jao Minecraft Serverの運営方針を記載します。
-image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
+image: https://storage.jaoafa.com/7984d9c7b14b78ff425c777111e40586.png
 ---
 
 この方針は、我々の革新的な感性を爆発させたものになります。以下のような最高にクレイジーな奴らと共に笑い合いながら過ごせる空間を創っていくこと。これこそがjao Minecraft Serverが目指すべき姿であると確信しています。
