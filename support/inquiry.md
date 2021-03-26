@@ -1,7 +1,7 @@
 ---
 title: お問い合わせ
 description: jao Minecraft Serverへのお問い合わせ方法や注意事項を記載します。
-image: https://storage.jaoafa.com/3bdc26a4a935a5e45ccab117a79a0981.png
+image: https://storage.jaoafa.com/ae4f5a583fb45fa3e9ca486ee09e413c.png
 ---
 
 jao Minecraft Serverへのお問い合わせは、以下の方法にて受け付けています。
@@ -14,7 +14,7 @@ jao Minecraft Serverへのお問い合わせは、以下の方法にて受け付
 
 ## お問い合わせの前に
 
-疑問や質問については、一度[サーバ仕様](/server/specifications)や、[サーバルール](/server/rules)、[方針](/server/policies)ページなどをご覧ください。
+一度[サーバ仕様](/server/specifications)や、[よくあるご質問](/support/faq)、[方針](/server/policies)ページなどをご覧になってからお問い合わせください。
 
 ## お願い
 
