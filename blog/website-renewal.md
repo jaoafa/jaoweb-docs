@@ -1,7 +1,7 @@
 ---
-title: "jao鯖ウェブサイトリニューアルのお知らせ"
-category: "news"
-author: "hiratake"
+title: jao鯖ウェブサイトリニューアルのお知らせ
+category: news
+author: hiratake
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-03-24
 updatedAt: 2021-03-24
