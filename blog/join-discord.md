@@ -1,74 +1,112 @@
 ---
-title: jMS公式Discordサーバに参加しましょう！
+title: jao Minecraft Server 公式Discordサーバへの参加方法
 category: tips
 author: ekipa
-description: jao Minecraft Serverの公式Discordサーバ「jMS Gamers Club」への参加方法を紹介します。
 image: 	https://storage.jaoafa.com/af655f1c08ee5712fb9c5c3b9d71d3bc.png
-createdAt: 2021-3-21
-updatedAt: 2021-3-22
+createdAt: 2021-03-21
+updatedAt: 2021-04-01
 ---
 
-この記事では、jao Minecraft Serverの公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
+この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
+
+<!--more-->
 
 ## Discordとは
 
-2015年にサービスが開始された、ゲーマー向けのチャットツールです。jMS公式Discordサーバ内では、運営からのお知らせから、何気ない雑談までいろいろな話が行えます。
+「[Discord](https://discord.com/)」は、2015年にサービスが開始されたチャットツールです。当初はゲーマー向けのツールとなっていましたが、2020年頃にブランディングイメージを変更し、「あらゆるコミュニティが使えるコミュニケーションツール」となっています。
+
+jMS Gamers Club では、何気ない雑談をしたり、分からないところを聞いたりと、jao鯖のメンバーとの交流が楽しめます。また、運営からのお知らせやイベント情報などをいち早く入手することもできます。
 
 ## 参加方法
 
-参加する前に、必ず[Discordサーバルール](/server/rules/discord)をお読みください。
+jMS Gamers Club へは、以下の招待URLからご参加いただけます。  
+招待URL： [https://discord.com/invite/YjwYEBk](https://discord.com/invite/YjwYEBk)
 
-### 1. Discord(招待画面)にアクセスする
+参加する前に、必ず [Discordサーバルール](/server/rules/discord) をお読みください。
 
-下のリンクをクリックしてjMS Gamers Clubの招待画面へ移動しましょう。  
-**永久不滅リンク**: [https://discord.com/invite/YjwYEBk](https://discord.com/invite/YjwYEBk)
+### Discordを初めて利用する方
 
-### 2. ニックネームを入力する
+Discordを初めて利用する場合は、Discordへの新規登録が必要になります。
 
-ニックネームを入力してくださいの欄にニックネームを入力します。  MinecraftIDを入れると一目で誰なのかがわかるのでお勧めします。  
-入力が済んだたら「はい」をクリックしてください。
+招待URLをクリックすると、ユーザ名を入力する画面になります。ここに、MinecraftのIDや、普段SNS等でつかっているニックネームなどを入力します。  
+ここで入力した名前は、他の利用者から見ることが出来ます。人を不快にさせるような単語をいれたり、個人情報を入力してしまわないよう気をつけましょう。
 
-![Discordの招待画面](https://storage.jaoafa.com/e06021ffa4a4d21cba3c9f3a322610c6.png)
+![Discordの招待画面](https://storage.jaoafa.com/37177be39e1cda1a1ec5aa13c3cf812a.png)
 
-### 3. メールアドレス、パスワードを設定する
+入力が完了したら、「はい」ボタンをクリックしてください。
 
-後からアクセスできるように"メールアドレス"と"パスワード"を設定しておきましょう。  
-また、jMS Gamers Clubに参加するには**メール認証が必須**となります。
+以下のような、本当に人間かどうかを確認する表示が出た場合は、「私は人間です」の左横をクリックしてチェックをいれてください。
 
-![Discordのアカウント登録画面](https://storage.jaoafa.com/1800d9656d8a06b94aa231e4acee562c.png)
+![Captcha画面](https://storage.jaoafa.com/87e88043ab2ecb0366dd5c8068f1253a.png)
 
-### 4. 指示された内容を読む
+「DISCORDへようこそ！」という表示が出たら、無事サーバへ参加することができています。
 
-きちんとサーバに入ることができると、jaotanというBotからリプライが送られてきます。よく読んで理解しましょう。
+ただし、このままでは「仮アカウント」の状態なので、ブラウザやアプリを閉じてしまうともう一度アカウントを作り直さなければならなくなってしまいます。  
+また、 jMS Gamers Club ではメール認証が必須となっているため、ご利用いただくことができません。
 
-![jMSGCの参加メッセージ](https://storage.jaoafa.com/af02de2227b7ee13716c9aa9d82c4283.png)
+画面の指示に従いアカウント登録をすることで、後からメールアドレスとパスワードを用いて同じアカウントへログインしたり、 jMS Gamers Club で他のユーザと交流したりできるようになります。
 
-### 5. #greetingで「jao」「afa」挨拶をする
+![Discordのアカウント登録画面](https://storage.jaoafa.com/84847fa0c22f44d9dcc05234ffbf9dda.png)
 
-`#greeting`にてjao afaと発言しましょう(jaoとafaは分けて両方発言しましょう)すると、`@MailVerified`権限が自動で付与され見えるチャンネルが増えます。  
-この挨拶が無いまま10分経過すると、自動的にサーバからキックされるのでご注意ください。(再参加は可能です)
+### Discordを利用したことがある方
 
-![Discordで挨拶](https://storage.jaoafa.com/ad005500de5779191ada81f78d81cd12.PNG)
+既にDiscordを利用したことがあり、Discordにログインしている場合は、招待URLをクリックするとDiscordの画面に移動します。
 
-### 6. #generalで「/link」と実行する(Minecraftアカウントと連携)
+「あなたに招待が来ています」というメッセージの下に表示される「参加する」ボタンをクリックすると、サーバに参加することができます。
 
-挨拶をしたチャンネルとは別の`#general`にて「`/link`」コマンドを実行しましょう。するとjaotan(Bot)からリプライが来るのでその指示に従いましょう。  
-初参加から3週間以内にアカウント連携がされないと、自動的にサーバからキックされるのでご注意ください。(再参加は可能です)
+## 参加後の手順
+
+jMS Gamers Club では、荒らし対策のため他のDiscordサーバにはない機能があります。お手数おかけしますが、以下の説明をお読みいただき、ご対応をおねがいいたします！
+
+### あいさつをする
+
+jMS Gamers Club では、運営方針により、参加から10分以内に発言がない場合に自動的にサーバからキックされる（強制的に追い出される）仕様となっております。
+
+サーバへ参加すると、「jaotan」というBOTからメンションが届きます。
+
+![参加メッセージ](https://storage.jaoafa.com/af02de2227b7ee13716c9aa9d82c4283.png)
+
+指示に従い、「jao」「afa」とあいさつをしましょう！  
+（「jao」「afa」は、 jao Minecraft Server での一般的なあいさつです。詳しくは [こちら](https://wiki.jaoafa.com/jao_afa) 。）
+
+あいさつをすると、見ることができるチャンネルが増えます。  
+
+![Discordであいさつ](https://storage.jaoafa.com/ad005500de5779191ada81f78d81cd12.PNG)
+
+### Minecraftアカウントと連携する
+
+jMS Gamers Club では、 jao Minecraft Server へ参加したMinecraftのアカウントとDiscordアカウントを連携することができます。
+
+サーバに参加してから3週間以内にアカウント連携が行われない場合、運営方針により自動的にサーバからキックされる仕様となっております。
+
+アカウント連携をするには、まず `#general` チャンネルで、 `/link` コマンドを実行します。  
+すると、「jaotan」というBOTからメンションが届きます。
 
 ![/linkを実行する](https://storage.jaoafa.com/01912f04a310ec5faa8a7e1f56bab973.png)
 
-### 7. 個人チャットを確認する
+個人宛にダイレクトメッセージが「jaotan」から届きますので、確認しましょう。  
+もし届いていない場合は、Discordの設定で受信できないようになっている場合がありますので、設定をご確認ください。
 
-jaotanというBotとの個人チャットを確認すると、コマンド(`/discordlink`から始まるコマンド)が発行されています。
+「jaotan」からのダイレクトメッセージを確認すると、以下のようなコマンド（ `/discordlink` から始まる文字列）が記載されております。
 
 ![発行されたdiscordlinkコマンド](https://storage.jaoafa.com/76cfce9dc977aad923aa737f728ea831.png)
 
-### 8. Minecraftサーバに入ってコマンドを実行
+この、記載されている `/discordlink` コマンドを**jao Minecraft Server 内で**実行しましょう。  
+（Discordサーバ内で実行することはできませんのでご注意ください！）
 
-さっき確認した`/discordlink`から始まるコマンドを**Minecraftサーバ内で**実行しょう。  
 以下のように表示されれば完了です。
 
 ![リンク完了メッセージ](
 https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
 
-アカウント連携が完了した後、**3ヶ月間Minecraftサーバへのログインがなかった場合、自動的に連携は解除**され、権限もDefaultに降格します。(再連携は可能)ご注意ください。(連携解除1ヶ月前に`#general`より通知が届きます。)
+アカウント連携が完了した後、**3ヶ月間 jao Minecraft Server へのログインがなかった場合、自動的に連携は解除**されますのでご注意ください。  
+（連携解除1ヶ月前に`#general`より通知が届きます。）
+
+---
+
+jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法について解説しました。
+
+Discordは現在非常に多くの方が利用しているサービスなので、わからないことがあっても検索すればたくさん情報がでてくると思います。  
+また、 jMS Gamers Club へ参加した後であれば、 `#support` チャンネルや `#question` チャンネルなどで質問すると他のメンバーが答えてくれると思います。
+
+ぜひ、 jMS Gamers Club へ遊びにきてください！
