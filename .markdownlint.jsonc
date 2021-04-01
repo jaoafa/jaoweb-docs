@@ -1,0 +1,6 @@
+{
+    "MD013": false, // line-length Line length
+    "MD024": false, // no-duplicate-heading/no-duplicate-header
+    "MD026": false, // no-trailing-punctuation
+    "MD033": false // no-inline-html
+}

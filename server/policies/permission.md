@@ -81,6 +81,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 - 運営・管理部の判断により、Moderator権限を付与し続けるべきではないと判断された場合。(Regularに降格)
 
 ## Admin
+
 プレイヤーが所持できる権限の中でトップの権限です。
 
 ### 昇格基準
