@@ -38,7 +38,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 
 次の項目のいずれかに該当すると、指定権限まで降格されます。
 
-- [公式Discordサーバ](/blog/join_discord)から退出する、または連携を解除する。(Defaultに降格)
+- [公式Discordサーバ](/blog/join-discord)から退出する、または連携を解除する。(Defaultに降格)
 
 ## Regular
 
@@ -55,7 +55,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 
 次の項目のいずれかに該当すると、指定権限まで降格されます。
 
-- [公式Discordサーバ](/blog/join_discord)から退出する、または連携を解除する。(Defaultに降格)
+- [公式Discordサーバ](/blog/join-discord)から退出する、または連携を解除する。(Defaultに降格)
 - 最終ログインから3ヶ月を経過し、運営がその理由を把握していない場合。(Verifiedに降格)
 - 運営の判断により、Regular権限を付与し続けるべきではないと判断された場合。(Verifiedに降格)
 

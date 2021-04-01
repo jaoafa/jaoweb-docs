@@ -9,7 +9,7 @@ image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 
 この項では、YouTube、ニコニコ動画・生放送、Twitch、ツイキャス、OPENRECなどの動画配信サービスへの「**配信**」(ここでは**動画投稿も含む**)、それらの閲覧・視聴について記載いたします。
 
-但し、jao Minecraft Serverの[公式Discordサーバ](/blog/join_discord)のボイスチャットチャンネルにおける配信(GoLive)は例外とします。
+但し、jao Minecraft Serverの[公式Discordサーバ](/blog/join-discord)のボイスチャットチャンネルにおける配信(GoLive)は例外とします。
 
 ### 基本方針
 

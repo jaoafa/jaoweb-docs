@@ -5,7 +5,7 @@ image: https://storage.jaoafa.com/1c1d94d9c886ee4565ba2627125b30ac.png
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  
-もし、このページをご覧になっても問題が解決しない場合は[公式Discordサーバ](/blog/join_discord)の`#question`などで他の利用者に質問してみましょう！
+もし、このページをご覧になっても問題が解決しない場合は[公式Discordサーバ](/blog/join-discord)の`#question`などで他の利用者に質問してみましょう！
 
 ## Q. サーバにログインできない
 

@@ -109,7 +109,7 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 
 当サーバでは、Minecraftサーバ外でも他の住民と自由に交流できる場として公式Discordサーバを開設しています。
 
-詳細・参加方法は[ブログ記事](/blog/join_discord)をご覧ください。
+詳細・参加方法は[ブログ記事](/blog/join-discord)をご覧ください。
 
 ## Banされたとき
 
@@ -122,12 +122,12 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 
 - [サービス仕様](/server/specifications)
 - [ルール](/server/rules)
-- 公式[Discord](/blog/join_discord)内`#question`チャンネル
+- 公式[Discord](/blog/join-discord)内`#question`チャンネル
 
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
 
-- [公式Discordサーバ](/blog/join_discord)内`#support`チャンネル
+- [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
 - 当サイトの[お問い合わせフォーム](/support/inquiry)

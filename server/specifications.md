@@ -63,7 +63,7 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
 投票特典については、[こちら](/blog/vote)からご覧ください。
 
-稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join_discord)`#support`へお越しください。  
+稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join-discord)`#support`へお越しください。  
 (サーバに一度もログインしたことのない状態、サーバがオフラインの状態での投票は補填できませんのでご注意ください。)
 
 ## コマンドについて
@@ -106,7 +106,7 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 - **Default** (新規権限)  
   サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます。
 - **Verified**  
-  [Discordサーバ](/blog/join_discord)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
+  [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
 - **Regular** (常連権限)  
   運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
 - **Moderator**  

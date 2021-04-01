@@ -6,7 +6,7 @@ image: https://storage.jaoafa.com/ae4f5a583fb45fa3e9ca486ee09e413c.png
 
 jao Minecraft Serverへのお問い合わせは、以下の方法にて受け付けています。
 
-- [公式Discordサーバ](/blog/join_discord)`#support`チャンネル
+- [公式Discordサーバ](/blog/join-discord)`#support`チャンネル
 - [公式Twitterアカウント](https://twitter.com/jaoafa) `@jaoafa`
 - [お問い合わせフォーム](https://forms.gle/Rpj1ZV76p2NsdWMK6)
 

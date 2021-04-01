@@ -49,7 +49,7 @@ updatedAt: 2021-3-21
 
 申請に成功・失敗するとその旨を示す右上にポップアップが表示されます。
 
-申請処理が正常に行われると、[公式Discordサーバ](/blog/join_discord)のLoggerカテゴリ`#city_request`チャンネルからリプライが送信されます！
+申請処理が正常に行われると、[公式Discordサーバ](/blog/join-discord)のLoggerカテゴリ`#city_request`チャンネルからリプライが送信されます！
 
 ## 範囲変更申請
 
@@ -71,7 +71,7 @@ updatedAt: 2021-3-21
 
 申請に成功・失敗するとその旨を示す右上にポップアップが表示されます。
 
-申請処理が正常に行われると、[公式Discordサーバ](/blog/join_discord)のLoggerカテゴリ`#city_request`チャンネルからリプライが送信されます！
+申請処理が正常に行われると、[公式Discordサーバ](/blog/join-discord)のLoggerカテゴリ`#city_request`チャンネルからリプライが送信されます！
 
 ## jao Minecraft Server Member Club(clubjaoafa)について
 

@@ -70,7 +70,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-基本的には処罰者に解除を求めてください。その上で解除がなされない場合は[公式Discordサーバ](/blog/join_discord)内`#support`チャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。
+基本的には処罰者に解除を求めてください。その上で解除がなされない場合は[公式Discordサーバ](/blog/join-discord)内`#support`チャンネルにて「トラブル扱い」として運営が仲介し変更・取消の検討をいたします。
 
 #### 備考
 
@@ -116,7 +116,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/blog/join_discord)の`#support`チャンネルでのみ受け付けます。
+[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
 
 ### jMS ChatJail (ChatJail)
 
@@ -153,7 +153,7 @@ jao Minecraft Server MyMaid2プラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/blog/join_discord)の`#support`チャンネルでのみ受け付けます。
+[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
 
 ### Minecraft Vanilla Ban (VBan)
 
@@ -188,7 +188,7 @@ Minecraft バニラ
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/blog/join_discord)の`#support`チャンネルでのみ受け付けます。
+[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
 
 ### MCBans Local Ban (LBan)
 
@@ -224,7 +224,7 @@ MCBansプラグイン
 
 #### 処罰の変更・取消申請方法
 
-[公式Discordサーバ](/blog/join_discord)の`#support`チャンネルでのみ受け付けます。
+[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
 
 ### MCBans Global Ban (GBan)
 
@@ -259,7 +259,7 @@ MCBansプラグイン
 #### 処罰の変更・取消申請方法
 
 処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。  
-その後は[公式Discordサーバ](/blog/join_discord)の`#support`チャンネルで受け付けます。
+その後は[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルで受け付けます。
 
 ### 上記以外の各種禁止処置
 
