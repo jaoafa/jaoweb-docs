@@ -15,9 +15,9 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 
 ### バージョン
 
-当サーバでは、以下のバージョンでのみログインを行うことができます。
+当サーバのバージョンは<big>**1.16.5**</big>ですが、以下のバージョンでもログインが可能です。
 
-- Minecraft Java Edition: 1.12.**2**
+- Minecraft Java Edition: 1.9.x ～ 1.16.x
 
 ### 規制されるログイン
 
