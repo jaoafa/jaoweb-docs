@@ -131,4 +131,4 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 
 - [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
 - [Twitter @jaoafa](https://twitter.com/jaoafa)
-- 当サイトの[お問い合わせフォーム](/support/inquiry)
+- [お問い合わせフォーム](https://forms.gle/Rpj1ZV76p2NsdWMK6)

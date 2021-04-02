@@ -172,29 +172,9 @@ Japan Minecraft Serversで投票したり一部機能を利用するためには
 |296|Sacred|神聖|
 |300|Omnipotent|全能|
 
-#### チャット四角の色変化
+#### 200回以上投票でログインメッセージ末尾に自由にテキスト設定可能
 
-![Minecraftサーバ内でのチャット表示例](https://storage.jaoafa.com/75a510a1c1b110df0d38e08cbae61dd7.png)
-
-チャットでのプレイヤー名の隣にある四角の色が投票数によって変わります。Tabキーを押したときに表示されるプレイヤーリストにも同様に表示されます。  
-条件は以下の通りです。
-
-|色|投票数|色名|色|投票数|色名|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<span class="colorbox" style="color: #AAA;">■</span>|0|GRAY|<span class="colorbox" style="color: #5F5;">■</span>|76 ～ 89|GREEN|
-|<span class="colorbox" style="color: #FFF;">■</span>|1 ～ 5|WHITE|<span class="colorbox" style="color: #FF5;">■</span>|90 ～ 103|YELLOW|
-|<span class="colorbox" style="color: #00A;">■</span>|6 ～ 19|DARK_BLUE|<span class="colorbox" style="color: #FA0;">■</span>|104 ～ 117|GOLD|
-|<span class="colorbox" style="color: #55F;">■</span>|20 ～ 33|BLUE|<span class="colorbox" style="color: #F55;">■</span>|118 ～ 131|RED|
-|<span class="colorbox" style="color: #5FF;">■</span>|34 ～ 47|AQUA|<span class="colorbox" style="color: #A00;">■</span>|132 ～ 145|DARK_RED|
-|<span class="colorbox" style="color: #0AA;">■</span>|48 ～ 61|DARK_AQUA|<span class="colorbox" style="color: #A0A;">■</span>|146 ～ 159|DARK_PURPLE|
-|<span class="colorbox" style="color: #0A0;">■</span>|62 ～ 75|DARK_GREEN|<span class="colorbox" style="color: #F5F;">■</span>|160 ～|LIGHT_PURPLE|
-
-- [EBan](/server/policies/bans)されているプレイヤーはどの投票数かに限らず「<span class="colorboxtext" style="color: #555;">■</span>DARK_GRAY」になります。
-
-#### 200回以上投票で自由に四角色変更
-
-200回以上投票をすると、投票数に応じて変更されるチャットでのプレイヤー名の隣にある四角(■)の色を自由に変更することができます。
-変更は、`/color <Color>`コマンドで行なえます。`<Color>`には表の「色名」を入力してください。(大文字小文字は区別しません) 例: 「/color red」
+200回以上投票すると`/logintext <Text>`で自由にメッセージを追加できるようになります。全角/半角スペースを含めることはできず、30文字以内という制限を設けています。
 
 ### その他
 
@@ -268,6 +248,30 @@ https://storage.jaoafa.com/2fc14fff72c8b32b9d5566dbbf8e541c.PNG)
 
 上記の方法で投票をすると、以下の投票特典が付与されます。
 
+#### チャット四角の色変化
+
+![Minecraftサーバ内でのチャット表示例](https://storage.jaoafa.com/75a510a1c1b110df0d38e08cbae61dd7.png)
+
+チャットでのプレイヤー名の隣にある四角の色が投票数によって変わります。Tabキーを押したときに表示されるプレイヤーリストにも同様に表示されます。  
+条件は以下の通りです。
+
+|色|投票数|色名|色|投票数|色名|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<span class="colorbox" style="color: #AAA;">■</span>|0|GRAY|<span class="colorbox" style="color: #5F5;">■</span>|76 ～ 89|GREEN|
+|<span class="colorbox" style="color: #FFF;">■</span>|1 ～ 5|WHITE|<span class="colorbox" style="color: #FF5;">■</span>|90 ～ 103|YELLOW|
+|<span class="colorbox" style="color: #00A;">■</span>|6 ～ 19|DARK_BLUE|<span class="colorbox" style="color: #FA0;">■</span>|104 ～ 117|GOLD|
+|<span class="colorbox" style="color: #55F;">■</span>|20 ～ 33|BLUE|<span class="colorbox" style="color: #F55;">■</span>|118 ～ 131|RED|
+|<span class="colorbox" style="color: #5FF;">■</span>|34 ～ 47|AQUA|<span class="colorbox" style="color: #A00;">■</span>|132 ～ 145|DARK_RED|
+|<span class="colorbox" style="color: #0AA;">■</span>|48 ～ 61|DARK_AQUA|<span class="colorbox" style="color: #A0A;">■</span>|146 ～ 159|DARK_PURPLE|
+|<span class="colorbox" style="color: #0A0;">■</span>|62 ～ 75|DARK_GREEN|<span class="colorbox" style="color: #F5F;">■</span>|160 ～|LIGHT_PURPLE|
+
+- [EBan](/server/policies/bans)されているプレイヤーはどの投票数かに限らず「<span class="colorboxtext" style="color: #555;">■</span>DARK_GRAY」になります。
+
+#### 200回以上投票で自由に四角色変更
+
+200回以上投票をすると、投票数に応じて変更されるチャットでのプレイヤー名の隣にある四角(■)の色を自由に変更することができます。
+変更は、`/color <Color>`コマンドで行なえます。`<Color>`には表の「色名」を入力してください。(大文字小文字は区別しません) 例: 「/color red」
+
 #### 投票数によるAFK時パーティクルの変更
 
 投票数に応じ、解放方式でAFK時パーティクルを選択できるようになります。
@@ -321,10 +325,6 @@ https://storage.jaoafa.com/2fc14fff72c8b32b9d5566dbbf8e541c.PNG)
 たとえば、30回投票している場合は`FLAME, LAVA, VILLAGER_ANGRY, HEART`が利用できます。
 
 パーティクルの変更は`/afkparticle <Particle>`コマンドで変更できます。`<Particle>`には表の「パーティクル」を入力してください。
-
-#### 200回以上投票でログインメッセージ末尾に自由にテキスト設定可能 (予定)
-
-まだ未実装で予定ですが、200回以上投票すると`/logintext <Text>`で自由にメッセージを追加できるようになります。全角/半角スペースを含めることはできず、30文字以内という制限を設けます。
 
 ### その他
 

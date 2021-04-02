@@ -30,7 +30,7 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 当サーバでは「禁止処置」として以下の5つが存在します。
 
 - EdenBan (EBan)
-- ChatJail
+- ChatBan
 - VanillaBan (VBan)
 - LocalBan (LBan)
 - GlobalBan (GBan)
@@ -118,7 +118,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 [公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
 
-### jMS ChatJail (ChatJail)
+### jMS ChatBan (ChatBan)
 
 他サーバにおけるmuteと同様に、チャットに対して制限を行います。
 
