@@ -34,7 +34,7 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 
 ## サーバに入ってみる
 
-ログインできるのは**Minecraft Java Edition(PC版)**の**Ver.1.19.x ～ 1.16.x**です。  
+ログインできるのは**Minecraft Java Edition(PC版)**の**Ver.1.9.x ～ 1.16.x**です。  
 サーバ自体のバージョンは**1.16.5**ですのでこちらのバージョンでのログインをおすすめします。
 
 ## 建築について
