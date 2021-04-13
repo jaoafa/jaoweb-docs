@@ -3,7 +3,7 @@ title: WorldGuardの利用解説
 description: 建物を保護したり、細く設定をいじれる「WorldGuard」プラグインの利用方法を解説します。
 category: modification
 Image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
-author: Tomachi
+author: tomachi
 createdAt: 2018-10-9
 updatedAt: 2021-1-3
 ---
