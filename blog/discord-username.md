@@ -1,5 +1,6 @@
 ---
 title: Discordでのユーザ名の変更方法
+category: tips
 author: tomachi
 createdAt: 2018-04-22
 updatedAt: 2020-12-21
