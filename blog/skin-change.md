@@ -5,7 +5,7 @@ category: tips
 Image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 author: EKipa
 createdAt: 2021-1-1
-updatedAt: 2021-1-3
+updatedAt: 2021-4-14
 ---
 
 この記事では、最近新しくなったJava版(PC版)のランチャー・公式サイトからスキンを変更したり作ったりする方法を解説します。
@@ -13,9 +13,6 @@ updatedAt: 2021-1-3
 ## スキンとは？
 
 スキンとはMinecraftでは"プレイヤーの見た目"のようなものです。Minecraftでは自分の見た目を自由に変更することができます。  
-画像はデフォルトスキンのスティーブです。
-
-![スティーブ(デフォルト)のスキン](https://storage.jaoafa.com/ddd4c990a4a2d65e9af45408cbaea155.png)
 
 ## スキンを用意する
 
@@ -30,7 +27,7 @@ updatedAt: 2021-1-3
 
 **スキン自作できるほどのセンスがない！！めんどくさい！！** と思う方もいるでしょう。大丈夫です。  
 様々なところで無料でスキンが配布されています。  
-[「Minecraft スキン配布」などとGoogleで検索](https://google.com/search?q=Minecraft+スキン配布)してみると良いでしょう。
+[「Minecraft スキン配布」](https://google.com/search?q=Minecraft+スキン配布)などとGoogleで検索してみると良いでしょう。
 
 ## スキンの変更
 
@@ -101,4 +98,4 @@ updatedAt: 2021-1-3
 
 - ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に。
 - また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです。
-- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の`#question`チャンネルにて質問してみましょう。
+- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](/blog/join-discord)の`#question`チャンネルにて質問してみましょう。

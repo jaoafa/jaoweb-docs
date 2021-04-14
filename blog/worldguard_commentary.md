@@ -12,10 +12,6 @@ updatedAt: 2021-1-3
 
 爆新地や各自治体などで、自身が建てた建築物が荒らされたりしないための一つの機能ですから、ぜひ覚えて利用してみてください。
 
-## 目次
-
-<!--contents-->
-
 ## 初めに
 
 この記事で解説する内容には、WorldEditで複雑な範囲を選択する方法も含まれています。  
@@ -33,7 +29,7 @@ updatedAt: 2021-1-3
 ## 対象読者・事前習得が必要なもの
 
 - WorldEditを用いて簡単・複雑な範囲選択ができること(保護範囲の指定ができること)
-- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/specifications/permission#Verified)以上)
+- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/specifications#権限グループについて)以上)
 
 ## 必ず覚えておくべきコマンド
 
@@ -105,7 +101,7 @@ WorldEditで広げたあとの保護範囲を選択し、`/rg redefine <保護�
 
 フラグの一覧や、フラグについての解説は別記事で行っております。
 
-- [WorldGuardのフラグ一覧](https://jaoafa.com/blog/minhero_exp/worldguard_flag-list)
+- <del>[WorldGuardのフラグ一覧](https://jaoafa.com/blog/minhero_exp/worldguard_flag-list)
 
 ### 保護にメンバーを追加する
 
@@ -137,4 +133,4 @@ WorldEditが前提プラグインになります。
 
 - ブログ記事作成者及び当サービス「jao Minecraft Server」では、この記事に記載された内容を行ったことによる問題への**一切の責任を負いません。** 何かを試したり、やってみたりするときには必ず「**自己責任**」を念頭に。
 - また、多くの記事は時間を追うことに情報が古くなります。仕様が変わっていたり、そもそも無くなっている可能性もありえるということを覚えておいてほしいです。
-- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](community/discord)の`#question`チャンネルにて質問してみましょう。
+- 「どうしたらいいのだろう？」などと疑問が発生した場合は[Discord](/blog/join-discord)の`#question`チャンネルにて質問してみましょう。

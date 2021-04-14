@@ -14,7 +14,7 @@ jao Minecraft Server（以下、「当サーバ」と呼びます）は、これ
 
 - [プライバシーポリシー](server/policies/privacy)
 - [各種処罰方針](/server/policies/bans)
-- [権限付与方針](/server/policies/permission)
+- [権限付与方針](/server/policies/permissions)
 
 ## 上下格差について
 

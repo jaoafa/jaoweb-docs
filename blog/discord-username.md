@@ -1,13 +1,14 @@
 ---
 title: Discordでのユーザ名の変更方法
 author: tomachi
+image: https://storage.jaoafa.com/627a0c2dcd566aead789c9c866b39642.png
 createdAt: 2018-04-22
 updatedAt: 2020-12-21
 ---
 
 今回は、Discordにおける「ユーザ名」と「ニックネーム」について解説いたします。
 
-※Discordのデザインが新しくなり、2020年11月7日に最新のものに更新しました。当記事はTomachi氏が筆記したものですが、画像は更新者のMinHero\_expのものになっています。ご注意ください。
+<span style="color: #999999;">※Discordのデザインが新しくなり、2020年11月7日に最新のものに更新しました。当記事はTomachi氏が筆記したものですが、画像は更新者のMinHero_expのものになっています。ご注意ください。</span>
 
 ## ユーザ名とニックネームについて
 
@@ -31,19 +32,19 @@ Discord内では「ユーザ名」と「ニックネーム」というものが�
 
 ### 1.「ユーザー設定」を開きます
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/reneme_1.png)
+![設定を開く](https://storage.jaoafa.com/44d0f3d9c4f397585eb9c9b18a8d8819.PNG)
 
 左下にある、歯車マークの「ユーザ設定」をクリックして開きます。
 
 ### 2.「マイアカウント」の「編集」をクリックします
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/reneme_2-1024x460.png)
+![編集をクリック](https://storage.jaoafa.com/657a6ff2740e60d79eeb66064f45d1e5.PNG)
 
 アカウントの編集をするので、「マイアカウント」の「編集」をクリックしてください。
 
 ### 3.「ユーザー名」の欄を変更します
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/reneme_3-300x246.png)
+![ユーザー名を更新](https://storage.jaoafa.com/1c7c9d910a7c15ff6cc05711ba7afb4e.PNG)
 
 「ユーザー名」の欄を設定したいユーザ名に変更します。
 ユーザー名を更新する際は、パスワードの入力が必須ですので入力してください。
@@ -53,13 +54,13 @@ Discord内では「ユーザ名」と「ニックネーム」というものが�
 
 ### 1. サーバ名をクリックし開きます
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/rename_4-203x300.png)
+![サーバ名をクリック](https://storage.jaoafa.com/0cf5e5cad575ab421a498a103c62894e.png)
 
 左上のサーバ名をクリックし、ドロップダウンメニューを開きます。
 
 ### 2.「ニックネームの変更」をクリックし、「ニックネーム」の欄を変更します
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/rename_5.png)  
+![ニックネームを変更](https://storage.jaoafa.com/0ae456b024907a80382b2c5319c5fcdb.PNG)
 
 ドロップダウンメニューから「ニックネームの変更」をクリックし、「ニックネーム」を変更します。
 ここに入力されていない(ニックネームが設定されていない)場合はユーザ名が表示されます。
@@ -67,19 +68,19 @@ Discord内では「ユーザ名」と「ニックネーム」というものが�
 
 ユーザ名やニックネームを変更すると、他人からは以下のように表示され、確認することができます。
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/rename_6-300x191.png) 
-![](https://jaoafa.com/wp-content/uploads/2018/04/rename_7-300x56.png)
+![プロフィール画面](https://storage.jaoafa.com/866d91cdfba97d68847637f7d5194562.PNG)
+![メッセージの見え方](https://storage.jaoafa.com/fcbb399c25ff3553215cf0980830abaa.PNG)
 
 ユーザ名やニックネームを正しく設定し、他人にきちんと認識してもらえるようなアカウントにしましょう！
 
 ## 技術的なお話
 
-ユーザを判断する際、決してユーザ名やDiscriminator(例:#3751)で判断してはいけません。
-なぜかというと、ユーザ名は上記の変更方法で変更できますし、DiscriminatorはアカウントをNitroにすることで変更できてしまいます。
+ユーザを判断する際、決してユーザ名やDiscriminator(例: #3751)で判断してはいけません。  
+なぜかというと、ユーザ名は上記の変更方法で変更できますし、DiscriminatorはアカウントをNitroにすることで変更できてしまいます。  
 では、どれで判断したらよいかというとDiscordのAPIを使用しないと確認できません。
 
 詳しいことは割愛しますが、[Discord – Developer Documentation](https://discord.com/developers/docs/resources/user)のGet Current UserやGet Userなどで取得できるユーザオブジェクトのidを取得することで確認できます。また、これはint型では管理できない点をよく確認してほしいです。私はこれで数十分を無駄にした経験があります。
 
-[jMS Gamers Club](https://wiki.jaoafa.com/jMS_Gamers_Club)にいるjaotanの機能を使用して、チャンネルで「/recid」と入力することであなたのIDを取得することができます。私(更新者)の場合は「310570792691826688」でした。
+[jMS Gamers Club](/blog/join-discord)にいるjaotanの機能を使用して、チャンネルで「`/recid`」と入力することであなたのIDを取得することができます。私(更新者)の場合は「`310570792691826688`」でした。
 
-![](https://jaoafa.com/wp-content/uploads/2018/04/rename_8-1024x254.png)
+![recidコマンドでID取得](https://storage.jaoafa.com/c5d9d40060053387b9ef655b897e1bf1.PNG)
