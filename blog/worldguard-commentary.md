@@ -29,11 +29,7 @@ updatedAt: 2021-1-3
 ## 対象読者・事前習得が必要なもの
 
 - WorldEditを用いて簡単・複雑な範囲選択ができること(保護範囲の指定ができること)
-<<<<<<< HEAD:blog/worldguard_commentary.md
-- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/specifications#権限グループについて)以上)
-=======
 - WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/policies/permissions)以上)
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldguard-commentary.md
 
 ## 必ず覚えておくべきコマンド
 

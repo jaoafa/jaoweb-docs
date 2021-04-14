@@ -30,11 +30,7 @@ updatedAt: 2021-1-3
 
 **※Forgeを導入している場合はこの項は必要ありません。**
 
-<<<<<<< HEAD:blog/worldeditcui_commentary.md
 - <del>[Forgeの導入解説](/blog/forge_commentary)</del>
-=======
-- [Forgeの導入解説](/blog/forge-commentary)
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
 
 上記解説を見ながら、Forgeを導入しましょう。
 
@@ -42,11 +38,7 @@ updatedAt: 2021-1-3
 
 **※LiteLoaderを導入している場合はこの項は必要ありません。**
 
-<<<<<<< HEAD:blog/worldeditcui_commentary.md
-- <del>[LiteLoaderの導入解説](/blog/liteloader_commentary)</del>
-=======
-- [LiteLoaderの導入解説](/blog/liteloader-commentary)
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
+- <del>[LiteLoaderの導入解説](/blog/liteloader-commentary)</del>
 
 上記解説を見ながら、LiteLoaderを導入しましょう。
 
@@ -74,11 +66,7 @@ LiteLoaderの情報画面を開き、きちんと**WorldEditCUIがActive**にな
 
 ## 実際に使ってみましょう
 
-<<<<<<< HEAD:blog/worldeditcui_commentary.md
-当サーバで、WorldEditの使用は[Verified権限](/server/specifications#権限グループについて)からとなっています。
-=======
 当サーバで、WorldEditの使用は[Verified権限](/server/policies/permissions)からとなっています。
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
 
 今回の解説では、**疑似的にクリック動作をする部分を各種コンクリートブロックにしていますが、実際に使用する場合はコンクリートブロックを置く必要はなく、既存のブロックを木の斧でクリックするだけで動作します。**
 

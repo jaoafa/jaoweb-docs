@@ -11,11 +11,7 @@ updatedAt: 2021-1-3
 この記事では、建築をサポートするプラグイン「**WorldEdit**」の解説をします。  
 プラグイン「WorldEdit」に関するコマンドの使用方法や、当サーバで使用する上で注意する点などを記載します。
 
-<<<<<<< HEAD:blog/worldedit_commentary.md
-当サーバでは、[Verified権限](/server/specifications#権限グループについて)以上を所持しているユーザーにWorldEditを公開しています。つまり、Discordアカウントさえあれば誰でも利用可能です。
-=======
 当サーバでは、[Verified権限](/server/policies/permissions)以上を所持しているユーザーにWorldEditを公開しています。つまり、Discordアカウントさえあれば誰でも利用可能です。
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldedit-commentary.md
 
 ## 解説環境
 
@@ -28,7 +24,7 @@ WorldEditは、基本的に「**木の斧で範囲選択 + コマンド実行**�
 
 ## 範囲選択の方法
 
-1. 「`//wand`」または通常のクリエイティブインベントリ(Eキーで開く)から「**木の斧**>」を取り出します。
+1. 「`//wand`」または通常のクリエイティブインベントリ(Eキーで開く)から「**木の斧**」を取り出します。
 2. 木の斧を持って、(以下の画像の通りであれば)緑のブロックを「**左クリック**」、赤のブロックを「**右クリック**」して、範囲を確定させます。当サーバではWorldEditCUIを導入していなくても、選択した範囲が可視化されます。
 3. コマンドを実行します。ここで「`//set stone`」と実行すると、範囲内が石ブロックに置き換えられます。<span style="color: #999999;">(コマンドは後で解説します)</span>
 
@@ -193,15 +189,11 @@ WorldEditは、可能性を広げてくれる一方で、一歩間違えると[�
 
 ## 選択範囲可視化について
 
-<<<<<<< HEAD:blog/worldedit_commentary.md
-当サーバでは、プラグインによって選択された範囲が可視化されますが、範囲が大きすぎると表示されなかったり、見にくかったりと不便な面もありますので、[WorldEditCUI](/blog/worldeditcui_commentary)というModを導入することをお勧めします。  
-=======
-当サーバでは、プラグインによって選択された範囲が可視化されますが、範囲が大きすぎると表示されなかったり、見にくかったりと不便な面もありますので、[WorldEditCUI](/blog/worldeditcui-commentary)というModを導入することをお勧めします。
->>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldedit-commentary.md
+当サーバでは、プラグインによって選択された範囲が可視化されますが、範囲が大きすぎると表示されなかったり、見にくかったりと不便な面もありますので、[WorldEditCUI](/blog/worldeditcui-commentary)というModを導入することをお勧めします。  
 複雑な形の範囲指定(以下の画像のようなもの)の方法なども解説されています。
 
 ![WorldEditの範囲指定(ポリゴン選択式)](https://storage.jaoafa.com/834faf45b98fdb6178ca9d357a557b99.jpg)
 
 ## 解説記事
 
-- [WorldEditCUIの導入解説](/blog/worldeditcui_commentary)
+- [WorldEditCUIの導入解説](/blog/worldeditcui-commentary)
