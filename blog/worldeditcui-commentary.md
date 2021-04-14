@@ -8,7 +8,7 @@ createdAt: 2018-5-2
 updatedAt: 2021-1-3
 ---
 
-当サーバでは、[WorldEdit](/blog/worldedit_commentary)の使用時に選択範囲をミスらないようにするためにWorldEditCUIの導入をお勧めしています。  
+当サーバでは、[WorldEdit](/blog/worldedit-commentary)の使用時に選択範囲をミスらないようにするためにWorldEditCUIの導入をお勧めしています。  
 この記事ではその「**WorldEditCUI**」の導入方法を解説します。
 
 ## 目次
@@ -34,7 +34,7 @@ updatedAt: 2021-1-3
 
 **※Forgeを導入している場合はこの項は必要ありません。**
 
-- [Forgeの導入解説](/blog/forge_commentary)
+- [Forgeの導入解説](/blog/forge-commentary)
 
 上記解説を見ながら、Forgeを導入しましょう。
 
@@ -42,7 +42,7 @@ updatedAt: 2021-1-3
 
 **※LiteLoaderを導入している場合はこの項は必要ありません。**
 
-- [LiteLoaderの導入解説](/blog/liteloader_commentary)
+- [LiteLoaderの導入解説](/blog/liteloader-commentary)
 
 上記解説を見ながら、LiteLoaderを導入しましょう。
 
@@ -70,7 +70,7 @@ LiteLoaderの情報画面を開き、きちんと**WorldEditCUIがActive**にな
 
 ## 実際に使ってみましょう
 
-当サーバで、WorldEditの使用は[Verified権限](/server/specifications/permission#Verified)からとなっています。
+当サーバで、WorldEditの使用は[Verified権限](/server/policies/permissions)からとなっています。
 
 今回の解説では、**疑似的にクリック動作をする部分を各種コンクリートブロックにしていますが、実際に使用する場合はコンクリートブロックを置く必要はなく、既存のブロックを木の斧でクリックするだけで動作します。**
 
