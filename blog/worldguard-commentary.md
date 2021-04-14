@@ -21,7 +21,7 @@ updatedAt: 2021-1-3
 この記事で解説する内容には、WorldEditで複雑な範囲を選択する方法も含まれています。  
 単純な範囲を選択する場合でも、誤って範囲を選択することを防ぐために必ずLiteLoaderのMod「WorldEditCUI」を導入しましょう。
 
-- [WorldEditCUIの導入解説](/blog/worldeditcui_commentary)
+- [WorldEditCUIの導入解説](/blog/worldeditcui-commentary)
 
 この記事では、WorldGuardのリージョン短縮コマンド「`/rg`」を主に使用します。他の関連コマンド「`/region`」・「`/regions`」も使用できますので、必要に応じて読み替えてください。
 
@@ -33,7 +33,7 @@ updatedAt: 2021-1-3
 ## 対象読者・事前習得が必要なもの
 
 - WorldEditを用いて簡単・複雑な範囲選択ができること(保護範囲の指定ができること)
-- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/specifications/permission#Verified)以上)
+- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/policies/permissions)以上)
 
 ## 必ず覚えておくべきコマンド
 
@@ -47,7 +47,7 @@ defineの場合は保護数とブロック数制限がないみたいです。
 使い方としては以下のような感じです。
 
 1. WorldEditで保護する範囲を指定します。`//expand vert`を実行することで、Y値0～255をすべて選択できます。  
-(範囲指定のやり方などは[こちら](/blog/worldedit_commentary)のWorldEdit解説記事で解説しています)
+(範囲指定のやり方などは[こちら](/blog/worldedit-commentary)のWorldEdit解説記事で解説しています)
 2. 保護名を決めましょう。市の名前、自分の名前、建物の名前など、わかりやすい名前にするのが良いでしょう。
 3. 範囲をきちんと指定したことを確認して、コマンド「`/rg claim <保護名>`」と入力し、実行しましょう。保護名に日本語を指定することは出来ません。
 4. 「`A new region has been claimed named '保護名'.`」(黄色)と表示されれば成功です。
