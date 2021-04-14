@@ -3,12 +3,12 @@ title: WorldEditCUIの導入解説
 description: WorldEditの選択範囲を可視化する「WorldEditCUI」Modの導入方法と、簡単な使用方法を解説しています。
 category: modification
 Image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
-author: Tomachi
+author: tomachi
 createdAt: 2018-5-2
 updatedAt: 2021-1-3
 ---
 
-当サーバでは、[WorldEdit](/blog/worldedit_commentary)の使用時に選択範囲をミスらないようにするためにWorldEditCUIの導入をお勧めしています。  
+当サーバでは、[WorldEdit](/blog/worldedit-commentary)の使用時に選択範囲をミスらないようにするためにWorldEditCUIの導入をお勧めしています。  
 この記事ではその「**WorldEditCUI**」の導入方法を解説します。
 
 ## 解説環境
@@ -30,7 +30,11 @@ updatedAt: 2021-1-3
 
 **※Forgeを導入している場合はこの項は必要ありません。**
 
+<<<<<<< HEAD:blog/worldeditcui_commentary.md
 - <del>[Forgeの導入解説](/blog/forge_commentary)</del>
+=======
+- [Forgeの導入解説](/blog/forge-commentary)
+>>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
 
 上記解説を見ながら、Forgeを導入しましょう。
 
@@ -38,7 +42,11 @@ updatedAt: 2021-1-3
 
 **※LiteLoaderを導入している場合はこの項は必要ありません。**
 
+<<<<<<< HEAD:blog/worldeditcui_commentary.md
 - <del>[LiteLoaderの導入解説](/blog/liteloader_commentary)</del>
+=======
+- [LiteLoaderの導入解説](/blog/liteloader-commentary)
+>>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
 
 上記解説を見ながら、LiteLoaderを導入しましょう。
 
@@ -66,7 +74,11 @@ LiteLoaderの情報画面を開き、きちんと**WorldEditCUIがActive**にな
 
 ## 実際に使ってみましょう
 
+<<<<<<< HEAD:blog/worldeditcui_commentary.md
 当サーバで、WorldEditの使用は[Verified権限](/server/specifications#権限グループについて)からとなっています。
+=======
+当サーバで、WorldEditの使用は[Verified権限](/server/policies/permissions)からとなっています。
+>>>>>>> 0209f9957cf78d0b1da5978a820738fa667e96e5:blog/worldeditcui-commentary.md
 
 今回の解説では、**疑似的にクリック動作をする部分を各種コンクリートブロックにしていますが、実際に使用する場合はコンクリートブロックを置く必要はなく、既存のブロックを木の斧でクリックするだけで動作します。**
 

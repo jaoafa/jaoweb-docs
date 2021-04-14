@@ -2,9 +2,8 @@
 title: jao鯖ウェブサイトリニューアルのお知らせ
 category: news
 author: hiratake
-image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
-createdAt: 2021-03-24
-updatedAt: 2021-03-24
+createdAt: 2021-04-14
+updatedAt: 2021-04-14
 ---
 
 jao鯖を楽しんでくださっているみなさま、こんにちは！副管理人なのに運営業務サボりがちな[ひらたけ](https://twitter.com/Hirotaisou2012)です。
