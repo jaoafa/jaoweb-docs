@@ -251,8 +251,8 @@ jao Minecraft Server にログインしたことがない状態で投票した�
 |<span class="colorbox" style="color: #A0A;">■</span>|146 ～ 159|DARK_PURPLE|
 |<span class="colorbox" style="color: #F5F;">■</span>|160 ～|LIGHT_PURPLE|
 
-また、200回以上投票すると、 `/color <color>` コマンドで色を自由に変更することができるようになります。  
-`<color>` には表にある「色名」をいれてください。
+また、200回以上投票すると、 `/skkcolor <color>` コマンドで色を自由に変更することができるようになります。  
+`<color>` には表にある「色名」をいれてください。また、`<color>` 内にはRGBカラーコードを指定することができ、その種類は約1700万色にもなります。自分らしい色を選択してみましょう！
 
 [EBan](/server/policies/bans) されているプレイヤーはどの投票数かに限らず「DARK_GRAY」になります。
 
