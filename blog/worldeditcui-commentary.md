@@ -2,7 +2,6 @@
 title: WorldEditCUIの導入解説
 description: WorldEditの選択範囲を可視化する「WorldEditCUI」Modの導入方法と、簡単な使用方法を解説しています。
 category: modification
-Image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 author: tomachi
 createdAt: 2018-5-2
 updatedAt: 2021-1-3

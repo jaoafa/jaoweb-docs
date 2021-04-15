@@ -2,10 +2,10 @@
 title: WorldEditの利用解説
 description: 建築をサーポートする「WorldEdit」プラグインの使用方法などを解説します。
 category: modification
-Image: https://storage.jaoafa.com/9378a565e1c0cbe80336dcee0e38ebaf.png
 author: ekipa
+image: https://storage.jaoafa.com/9378a565e1c0cbe80336dcee0e38ebaf.png
 createdAt: 2020-11-23
-updatedAt: 2021-1-3
+updatedAt: 2021-01-03
 ---
 
 この記事では、建築をサポートするプラグイン「**WorldEdit**」の解説をします。  
