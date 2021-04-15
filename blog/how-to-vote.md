@@ -12,8 +12,6 @@ jao Minecraft Server では、Minecraftのサーバリストサービスであ�
 
 なお、これらのサービスを利用したことによって発生したいかなる問題に対して、jao Minecraft Server は責任を負いませんのでご注意ください。
 
-<!--more-->
-
 ## Japan Minecraft Servers
 
 Japan Minecraft Servers は、主に日本国内のMinecraftサーバの一覧を見ることができるサービスです。

@@ -1,6 +1,5 @@
 ---
 title: MinecraftJEでスキンを変更する方法【2021年版】
-description: Minecraft Java Edition(PC版)の新しくなったランチャーや公式サイトから、スキンを変更する方法を解説します。
 category: tips
 author: ekipa
 image: https://storage.jaoafa.com/4f8370213af279e558decb672b5e7148.png
@@ -9,6 +8,8 @@ updatedAt: 2021-4-14
 ---
 
 この記事では、最近新しくなったJava版(PC版)のランチャー・公式サイトからスキンを変更したり作ったりする方法を解説します。
+
+<!--more-->
 
 ## スキンとは？
 

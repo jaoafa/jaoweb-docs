@@ -1,6 +1,5 @@
 ---
 title: WorldEditCUIの導入解説
-description: WorldEditの選択範囲を可視化する「WorldEditCUI」Modの導入方法と、簡単な使用方法を解説しています。
 category: modification
 author: tomachi
 createdAt: 2018-5-2
@@ -9,6 +8,8 @@ updatedAt: 2021-1-3
 
 当サーバでは、[WorldEdit](/blog/worldedit-commentary)の使用時に選択範囲をミスらないようにするためにWorldEditCUIの導入をお勧めしています。  
 この記事ではその「**WorldEditCUI**」の導入方法を解説します。
+
+<!--more-->
 
 ## 解説環境
 

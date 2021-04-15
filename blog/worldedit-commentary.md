@@ -1,6 +1,5 @@
 ---
 title: WorldEditの利用解説
-description: 建築をサーポートする「WorldEdit」プラグインの使用方法などを解説します。
 category: modification
 author: ekipa
 image: https://storage.jaoafa.com/9378a565e1c0cbe80336dcee0e38ebaf.png
@@ -12,6 +11,8 @@ updatedAt: 2021-01-03
 プラグイン「WorldEdit」に関するコマンドの使用方法や、当サーバで使用する上で注意する点などを記載します。
 
 当サーバでは、[Verified権限](/server/policies/permissions)以上を所持しているユーザーにWorldEditを公開しています。つまり、Discordアカウントさえあれば誰でも利用可能です。
+
+<!--more-->
 
 ## 解説環境
 
