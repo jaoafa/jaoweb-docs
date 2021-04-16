@@ -3,9 +3,9 @@ title: WorldGuardの利用解説
 description: 建物を保護したり、細く設定をいじれる「WorldGuard」プラグインの利用方法を解説します。
 category: modification
 author: tomachi
-image: https://storage.jaoafa.com/55359ac92f510ba2de7760aae53c2f77.png
+image: https://storage.jaoafa.com/7c4f32739133a00d22e277db615250b1.png
 createdAt: 2018-10-9
-updatedAt: 2021-1-3
+updatedAt: 2021-01-03
 ---
 
 この記事では、建築物を保護したり、その範囲に入ったときにメッセージを表示したりするプラグイン、「**WorldGuard**」の解説をします。

@@ -2,7 +2,7 @@
 title: WorldEditの利用解説
 category: modification
 author: ekipa
-image: https://storage.jaoafa.com/9378a565e1c0cbe80336dcee0e38ebaf.png
+image: https://storage.jaoafa.com/769015da82c26c08e1835fa1e9bb04fb.png
 createdAt: 2020-11-23
 updatedAt: 2021-01-03
 ---
