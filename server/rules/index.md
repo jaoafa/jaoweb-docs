@@ -78,7 +78,7 @@ jao Minecraft Serverでは、違反行為による対応が適用されない他
   - [自治体に関するガイドライン](/server/guidelines/cities)
   - [鉄道・道路敷設に関するガイドライン](/server/guidelines/railways)
   - [チャットなどに関するガイドライン](/server/guidelines/communications)
-  - [撮影などに関するガイドライン](/server/guidelines/broadcasts)
+  - [撮影・動画配信に関するガイドライン](/server/guidelines/broadcasts)
   - [迷惑行為の対応に関するガイドライン](/server/guidelines/griefing)
 
 ## Modについて
@@ -89,7 +89,7 @@ jao Minecraft Serverでは、違反行為による対応が適用されない他
 
 ここに記載されているものでも、後述の禁止事項に違反する場合は禁止とします。
 
-- 「Minecraft Forge」や「LiteLoader」など、様々な他のModを導入・使用するための前提Modの導入・使用
+- 「Minecraft Forge」や「Fabric Loader」など、様々な他のModを導入・使用するための前提Modの導入・使用
 - 「OptiFine」など、クライアントの動作を軽快にするModの導入・使用
 - 「IntelliInput」など、日本語などの言語を入力することを補助するModの導入・使用
 - 「Xaero`s Minimap」など、ワールド内のマップを表示することのできるModの導入・使用

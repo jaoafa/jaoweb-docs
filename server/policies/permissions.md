@@ -18,7 +18,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 
 自身の権限グループを調べるには、サーバ内で「`/player`」と実行してください。
 
-詳細は[サーバ仕様](/server/specifications)をご覧ください。
+詳細は[サーバ仕様](/server/specifications#権限グループについて)をご覧ください。
 
 ## Default
 
@@ -78,7 +78,7 @@ image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 次の項目のいずれかに該当すると、指定権限まで降格されます。
 
 - 本人が希望する (Regularに降格)
-- 運営・管理部の判断により、Moderator権限を付与し続けるべきではないと判断された場合。(Regularに降格)
+- 運営の判断により、Moderator権限を付与し続けるべきではないと判断された場合。(Regularに降格)
 
 ## Admin
 

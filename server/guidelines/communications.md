@@ -4,7 +4,7 @@ description: jao Minecraft Serverと、関連するサービスにおいての�
 image: https://storage.jaoafa.com/e0f581f933acf45a270d444183cde942.png 
 ---
 
-このページでは、jao Minecraft Serverに関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなど（以下、「関連サービス」と呼びます）においての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
+このページでは、jao Minecraft Server に関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなど（以下、「関連サービス」と呼びます）においての「チャット(発言)」などについて、運営側の方針と利用者のガイドラインを定義します。
 
 ## 基本方針
 
@@ -75,4 +75,4 @@ Discordが示す、[Discordコミュニティガイドライン](https://discord
 
 - **Verified以上の権限**を所持している。
 - 宣伝を行うサーバ・サービスにおいて、**このような行為が禁止されていない。**
-- jao Minecraft Serverの特色をよく理解している。
+- jao Minecraft Server の特色をよく理解している。

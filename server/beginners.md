@@ -67,19 +67,13 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 - [AntiAlts3](https://github.com/jaoafa/AntiAlts3): サブアカウントによるログインを制限する独自プラグインです。
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/): ブロックの設置・破壊など編集を記録するプラグインです。
 - [ImageOnMap](https://dev.bukkit.org/projects/imageonmap): サーバ内で画像を設置することができるプラグインです。
-- [WorldEdit](https://dev.bukkit.org/projects/worldedit): 建築を補助するプラグインです。Discordサーバでアカウント連携さえすれば誰でも使用することができます。
+- [WorldEdit](/blog/worldedit-commentary): 建築を補助するプラグインです。Discordサーバでアカウント連携さえすれば誰でも使用することができます。
 
 ### コマンドについて
 
 当サーバには、Minecraftバニラの標準的なコマンドに加えて、独自プラグインによってたくさんの便利なコマンドが追加されています。
 
 詳しくは[サーバ仕様](/server/specifications#コマンドについて)をご覧ください
-
-## 権限について
-
-当サーバのプレイヤー権限グループは以下のページで解説されています。ぜひお読みください。
-
-- [サーバ仕様](/server/specifications#権限グループについて)
 
 ## 運営上の方針について
 
@@ -130,5 +124,5 @@ image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
 
 - [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
-- [Twitter @jaoafa](https://twitter.com/jaoafa)
+- [公式Twitter](https://twitter.com/jaoafa)`@jaoafa`
 - [お問い合わせフォーム](https://forms.gle/Rpj1ZV76p2NsdWMK6)

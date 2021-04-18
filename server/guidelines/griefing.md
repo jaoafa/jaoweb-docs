@@ -4,7 +4,7 @@ description: jao Minecraft Serverにける「迷惑行為」について、利�
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 ---
 
-このページでは、jao Minecraft Serverに（以下、「当サーバ」と呼びます）における「迷惑行為」について、利用者側の対応ガイドラインを定義します。
+このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）における「迷惑行為」について、利用者側の対応ガイドラインを定義します。
 
 ## 迷惑行為を見つけた場合
 
@@ -20,7 +20,7 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 基本的に、Minecraftサーバ内のチャットはDiscordサーバの`#server-chat`からいつでも見れるようになっているので、運営もすぐ行為に気づくと思われますが、万が一運営が居ない場合は報告をお願いします。
 
 `/feedback`(省略形: `/fb`)コマンドや[公式Discordサーバ](/blog/join-discord)の`#support`などを用いて運営に「該当するプレイヤー名」を報告し、放置してください。
-Regular以上の方は、必要に応じてChatJailを実行して構いません。
+Regular以上の方は、必要に応じてChatBanを実行して構いません。
 
 ## 迷惑行為を行うプレイヤーに遭遇した場合
 

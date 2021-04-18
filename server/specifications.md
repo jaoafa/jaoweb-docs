@@ -1,6 +1,6 @@
 ---
 title: サーバ仕様
-description: jao Minecraft Serverの様々な仕様を記載します。
+description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 ---
 
@@ -21,11 +21,11 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 
 ### 規制されるログイン
 
-- 複数アカウントによるログイン
+- 複数アカウントによるログイン  
   当サーバでは、違反行為による対応が適用されない他、運営の負荷軽減などを理由にサブアカウントの利用を禁止しています。
   最初にログインしたアカウントをメインアカウントとして判定します。
-- 日本国外からのログイン
-  当サーバは、"Japanese Only"として運営しています。これは、サーバを運営するにあたり管理部やモデレーターで話し合った結果です。
+- 日本国外からのログイン  
+  当サーバは、"Japanese Only"として運営しています。これは、サーバを運営するにあたり運営内で話し合った結果です。
   システムによって日本国外からのアクセスと判断された場合はログインできません。
 
 ### その他ログインできない場合
@@ -37,7 +37,7 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 当サーバは初回ログイン時から**クリエイティブモード**となっています。クリエ鯖です。  
 `/gamemode`、`/g`コマンドなどを用いてサバイバル、アドベンチャーモードに変更することも可能です。
 
-スペクテイターモードについてはRegular(常連)権限以上のユーザーにのみ開放しています。
+スペクテイターモードについてはRegular(常連)権限以上のプレイヤーにのみ開放しています。
 
 ## 独自仕様について
 
@@ -49,7 +49,6 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 - 極端に遠い場所へのテレポートができません。
 - 権限によっては一部のポーションの使用を禁止しています。
 - PvP中の `/sit`, `/lay`,`/ded`使用を制限するため、サバイバル・アドベンチャーモードにおけるこれらコマンドの使用ができません。
-- 一部の権限においてはスペクテイターモードを使用できません。
 
 ## サーバの再起動について
 
@@ -61,24 +60,27 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票特典については、[こちら](/blog/vote)からご覧ください。
+投票方法や投票特典については、[こちら](/blog/how-to-vote)をご覧ください。
 
 稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join-discord)`#support`へお越しください。  
 (サーバに一度もログインしたことのない状態、サーバがオフラインの状態での投票は補填できませんのでご注意ください。)
 
 ## コマンドについて
 
-[独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に簡単に解説します。各コマンドの詳細な使い方は、「`/(コマンド) help`」で確認することができます。
+[独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に簡単に解説します。
+詳細は使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。
 
 また、`/tp`や`/gamemode`などといったMinecraftバニラの標準的なコマンドは、誰でも使用することができます。
 
+(1.16.5アップデートに伴い、一部コマンドはまだ実装が追いついていません。)
+
 |コマンド|説明|使用可能な権限|
 |:-:|:-:|:-:|
-|/dt|Dynmapのマーカーにワープしたりします|全権限|
-|/wt|各ワールドのスポーンへワープします|全権限|
+|[/dt](https://wiki.jaoafa.com/dt)|Dynmapのマーカーにワープしたりします|全権限|
+|[/wt](https://wiki.jaoafa.com/wt)|各ワールドのスポーンへワープします|全権限|
 |/untp|テレポートする前の場所へワープします|全権限|
 |/retp|/untpでワープする前の場所にワープします|全権限|
-|/home|ホーム(自分だけが使えるワープ)を設定します|全権限|
+|[/home](https://wiki.jaoafa.com/home)|ホーム(自分だけが使えるワープ)を設定します|全権限|
 |/head|プレイヤーの頭ブロックを入手します|全権限|
 |/dedbull|暗視の効果を付与します|全権限|
 |/elytra|エリトラとロケット花火を装備します|全権限|
@@ -86,17 +88,21 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 |/hat|手に持っているブロックを頭に装備します|全権限|
 |/sit|その場に座ります|全権限|
 |/lay|その場に寝ます(自分には立っているように見える)|全権限|
-|/afk|AFK(Away From Keyboard、放置)状態になります|全権限|
+|[/afk](https://wiki.jaoafa.com/AFK)|AFK(Away From Keyboard、放置)状態になります|全権限|
 |/player|自分の権限を確認します|全権限|
 |/jsa|jao Super Achievement(独自実績)の一覧と進捗を表示します|全権限|
 |/.|[ピリオドマッチ](https://wiki.jaoafa.com/ピリオドマッチ)を行います|全権限|
 |/itemedit|手に持っているアイテムの情報を編集します|全権限|
 |/bug|バグを報告します|全権限|
+|[/flyspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fflyspeed)|飛行速度を変更します|全権限|
+|[/walkspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fwalkspeed)|地上での移動速度を変更します|全権限|
 |/brb|バリアブロックを付与します|Verified～|
+|/debstick|デバッグ棒を付与します|Regular～|
+|/cmdb|コマンドブロックを付与します|Regular～|
 |/makecmd|手に持っているアイテムのgiveコマンドを生成します|Regular～|
 |/convloc|コマンドブロックのコマンドの座標指定を「絶対座標」と「相対座標」で相互変換します|Regular～|
 |/chat|偽のプレイヤーを喋らせます|Regular～|
-|/jail|お遊び投獄(Jail)をします|Regular～|
+|[/jail](https://wiki.jaoafa.com/Jail)|お遊び投獄(Jail)をします|Regular～|
 
 ## 権限グループについて
 
@@ -106,15 +112,15 @@ image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 - **Default** (新規権限)  
   サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます。
 - **Verified**  
-  [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。WorldEditの使用や自治体の作成ができます。
+  [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。[WorldEdit](/blog/worldedit-commentary)の使用や[自治体](/server/guidelines/cities)の作成ができます。
 - **Regular** (常連権限)  
   運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
 - **Moderator**  
   運営に含まれ、管理部の補助的な役割を担い、主に新規対応、荒らし対応、トラブル対応等を行います。
 - **Admin**  
-  jao Minecraft Serverの全管理・運営を行います。
+  サーバの全管理・運営を行います。
 
-運営については[運営者情報](/server/profiles)をご覧ください。
+運営についての詳細は[運営者情報](/server/profiles)をご覧ください。
 
 ## Dynmapについて
 
