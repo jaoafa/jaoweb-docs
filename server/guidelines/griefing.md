@@ -2,6 +2,8 @@
 title: 迷惑行為の対応に関するガイドライン
 description: jao Minecraft Serverにける「迷惑行為」について、利用者側の対応ガイドラインを定義します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
+createdAt: 2021-04-14
+updatedAt: 2021-04-18
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）における「迷惑行為」について、利用者側の対応ガイドラインを定義します。

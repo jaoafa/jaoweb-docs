@@ -1,6 +1,8 @@
 ---
 title: ガイドライン
 description: jao Minecraft Serverで定める「ガイドライン」の解説を一覧を記載します。
+createdAt: 2021-04-14
+updatedAt: 2021-04-18
 ---
 
 jao Minecraft Server（以下「当サーバ」と呼びます）の各サービスをご利用いただく際に、利用規約とあわせて適用されるルールとしてガイドラインを定めております。  

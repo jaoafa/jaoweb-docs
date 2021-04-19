@@ -2,6 +2,8 @@
 title: 各種処罰方針
 description: 各種禁止処置(処罰・Ban)についての方針やその種類を記載します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
+createdAt: 2018-01-03
+updatedAt: 2021-04-18
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」といいます）おける各種禁止処置(処罰・Ban)について記載します。
@@ -53,7 +55,7 @@ image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 
 #### 処罰発行元
 
-jao Minecraft Server MyMaid3プラグイン
+jao Minecraft Server MyMaid4プラグイン
 
 #### 違反者にかかる規制
 
@@ -99,7 +101,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰発行元
 
-jao Minecraft Server MyMaid3プラグイン
+jao Minecraft Server MyMaid4プラグイン
 
 #### 違反者にかかる規制
 
@@ -137,7 +139,7 @@ jao Minecraft Server MyMaid3プラグイン
 
 #### 処罰発行元
 
-jao Minecraft Server MyMaid2プラグイン
+jao Minecraft Server MyMaid4プラグイン
 
 #### 違反者にかかる規制
 
@@ -258,7 +260,7 @@ MCBansプラグイン
 
 #### 処罰の変更・取消申請方法
 
-処罰から90日間の間は、MCBansを通して異議を申し立てて頂く必要があります。  
+処罰から90日間の間は、[MCBans](https://www.mcbans.com/)を通して異議を申し立てて頂く必要があります。  
 その後は[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルで受け付けます。
 
 ### 上記以外の各種禁止処置

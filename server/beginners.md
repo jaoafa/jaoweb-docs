@@ -2,6 +2,8 @@
 title: はじめての方へ
 description: サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。
 image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
+createdAt: 2017-01-04
+updatedAt: 2021-04-18
 ---
 
 **jao Minecraft Serverへようこそ！** このページでは、サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。参加前にぜひ目を通しておいてください！

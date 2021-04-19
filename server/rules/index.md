@@ -2,6 +2,8 @@
 title: サーバルール
 description:  jao Minecraft Serverを楽しむためのサーバルールを記載します。
 image: https://storage.jaoafa.com/4adcd454dc1c5294f6b71504eb5237b2.jpg
+createdAt: 2019-09-03
+updatedAt: 2021-04-18
 ---
 ここに書かれているものは、jao Minecraft Serverで楽しむための基本的なルールです。
 
