@@ -17,7 +17,9 @@ jao Minecraft Server では、Modを導入していない方でも選択範囲�
 
 ## 解説環境
 
+- Windows10
 - Minecraft JavaEdition 1.16.5
+- Java 1.8.0_291
 - Minecraft Forge 1.16.5 36.0.58
 - WorldEditCUI Forge Edition 3 1.16.5 3.0.9
 
@@ -29,7 +31,7 @@ jao Minecraft Server では、Modを導入していない方でも選択範囲�
 
 前提ModとなるForgeの導入してください。詳しい導入方法は、以下の記事で解説しています。
 
-- <del>[Forgeの導入解説【1.16.5版】](/blog/forge-commentary)</del>  
+- ~~[Forgeの導入解説【1.16.5版】](/blog/forge-commentary)~~  
  申し訳ございませんが、記事は1.12版から1.16版への移行作業中のため閲覧できません。移行完了までもうしばらくお待ち下さい。
 
 ### 2. WorldEditCUIをダウンロードする
@@ -41,18 +43,17 @@ jao Minecraft Server では、Modを導入していない方でも選択範囲�
 ### 3. Minecraftのフォルダを開く
 
 「**Windowsキー**」(Windowsのロゴや"スタート"と書かれているキー)と「**Rキー**」を同時に押してください。  
-すると「ファイル名を指定して実行」と表示されるので「`%appdata%\\.minecraft/mods`」と入力して「OK」をクリックしてください。すると`.minecraft`の`mods`というフォルダーが表示されます。
+すると「ファイル名を指定して実行」と表示されるので「`%appdata%\.minecraft`」と入力して「OK」をクリックしてください。すると`.minecraft`というフォルダが表示されます。その中から自分がModを入れたいバージョンのファイル(ここでは`1.16.5`)を選び、その中にある「**mods**」を開いてください。
 
-![ファイル名を指定して実行する](https://storage.jaoafa.com/705bc625167835baf81b892e2a03aaea.png)
+ゲームディレクトリを分けていない場合は`.minecraft\mods`に配置することになりますが、ここにたくさんModを入れると不具合の原因となりますのでおすすめしません。~~ゲームデレクトリの分け方は[こちら](/blog/setting-gamedirectory)で解説しています。~~
+
+![ファイル名を指定して実行する](https://storage.jaoafa.com/eb9dc3e5262f98e8933f2331c1635d90.png)
 
 ### 4. ファイルを移動させる
 
 さっきの方法で開いたフォルダに、ダウンロードしたWorldEditCUIのファイルを移動させます。  
 
-![ダウンロードしたファイルを配置する](https://storage.jaoafa.com/2d2fbb1e49af69b26131289105698f83.png)
-
-ゲームディレクトリを設定している方は、対応する場所に配置してください。  
-(私の場合、普段は`.minecraft/1.16.5/mods`に配置していますが、当記事では`.minecraft/mods`に配置します。)
+![ダウンロードしたファイルを配置する](https://storage.jaoafa.com/0712b625bf6ad316b73485bf9b34e246.png)
 
 ### 5. 導入に成功しているか確認する
 
