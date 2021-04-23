@@ -4,7 +4,10 @@
 
 ## プレビュー
 
-- mainブランチ: [https://jaoweb.tomacheese.com/](https://jaoweb.tomacheese.com/)
+- mainブランチ: [https://dev.jaoafa.com/jaoafa/main/](https://dev.jaoafa.com/jaoafa/main/)
+- blog-contentsブランチ: [https://dev.jaoafa.com/jaoafa/blog-contents/](https://dev.jaoafa.com/jaoafa/blog-contents/)
+
+`https://dev.jaoafa.com/<USER>/<BRANCH>/` に配置されます。
 
 ## 編集の仕方
 
