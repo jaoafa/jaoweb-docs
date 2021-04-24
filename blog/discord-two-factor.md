@@ -29,7 +29,7 @@ Discordではパスワードに加えて、スマートフォンやタブレッ�
 ### 3. 表示された内容を確認する
 
 有効化ボタンをクリックすると、「3つのステップ」が表示されます。これに従って解説していきます。
-![3つのステップ](https://storage.jaoafa.com/a41a4aeb88749425880b52b150624993.PNG)
+![3つのステップ](https://storage.jaoafa.com/1f5db606ebb622bf96a4d838c67eec88.PNG)
 
 ### 4. アプリをダウンロードする
 
@@ -44,12 +44,15 @@ Discordではパスワードに加えて、スマートフォンやタブレッ�
 すると以下の画面が表示されるので、「**QRコードをスキャン**」をタップし、先程のQRコードを読み取ってください。
 
 ※QRコードが読み取れる環境がない場合はセットアップキーを入力してください。(先程の画面で「aaaa bbbb cccc dddd」と書かれていた部分がセットアップキーです)
-![QRコードをスキャンをタップ](https://storage.jaoafa.com/16b13f8392a36ea4024885111b6a332d.png)
+
+![QRコードをスキャンをタップ](https://storage.jaoafa.com/3c3a8b7d0de02e320d98eaec05be65f4.png)
 
 ### 6. 表示されたコードをDiscordに入力
 
 スキャンに成功すると以下のような画面になります。表示されている青色の数字をDiscordに入力し、「**有効にする**」をクリックしてください。
-![認証コードを確認](https://storage.jaoafa.com/2af6a3877152b3d4ccc72551d0440d1b.png)
+
+![認証コードを確認](https://storage.jaoafa.com/fa5b0fa87515df405017ca9572bcc891.png)
+
 ![認証コードをDiscordに入力](https://storage.jaoafa.com/83eb999255605aae6c3aff01adda03ca.PNG)
 
 ### 7. 指示に従う
@@ -57,18 +60,20 @@ Discordではパスワードに加えて、スマートフォンやタブレッ�
 以下のような画面が表示されたら認証は完了です！  
 **バックアップコードのダウンロード**をおすすめします。
 
-![認証完了メッセージ](https://storage.jaoafa.com/34eb6c529bd80751fc7816d6cadafe48.PNG)
+![認証完了メッセージ](https://storage.jaoafa.com/663de515f5eebf9dd473aeafd188307b.PNG)
 
 ## 二段階認証を解除する
 
 ### 1. 設定を開く
 
 画面左下の歯車をクリックして、設定を開きましょう。
+
 ![設定を開く](https://storage.jaoafa.com/44d0f3d9c4f397585eb9c9b18a8d8819.PNG)
 
 ### 2. 二段階認証を解除する
 
 設定を開くと「マイページ」という画面が最初に出てきます。その中の「**二要素認証を解除する**」をクリックしてください。
+
 ![連携解除をクリック](https://storage.jaoafa.com/ab2d41eea056a36f21c762ec65255d7b.png)
 
 ### 3. コードを入力する
