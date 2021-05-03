@@ -46,7 +46,7 @@ updatedAt: 2021-05-03
 
 すると、Forgeのインストーラーが起動するので「**Install client**」にチェックが入っていることを確認して「**OK**」をクリックしてください。
 
-![インストールを開始する](https://storage.jaoafa.com/dc0296142eedc4a6b0a0dd2a2b4188a6.png)
+![インストールを開始する](https://storage.jaoafa.com/090c0bd153ff1acc44d296a1540cc402.png)
 
 以下のように「**Successfully installed client profile forge for version forge...**」と表示されたら成功です。
 
