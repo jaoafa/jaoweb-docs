@@ -31,8 +31,7 @@ jao Minecraft Server では、Modを導入していない方でも選択範囲�
 
 前提ModとなるForgeの導入してください。詳しい導入方法は、以下の記事で解説しています。
 
-- ~~[Forgeの導入解説【1.16.5版】](/blog/forge-commentary)~~  
- 申し訳ございませんが、記事は1.12版から1.16版への移行作業中のため閲覧できません。移行完了までもうしばらくお待ち下さい。
+- [Forgeの導入解説【1.16.5版】](/blog/forge-commentary)
 
 ### 2. WorldEditCUIをダウンロードする
 
