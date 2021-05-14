@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2021-04-18
+updatedAt: 2021-05-14
 ---
 
 ここではサーバの様々な仕様を掲示しています。
@@ -51,6 +51,7 @@ updatedAt: 2021-04-18
 - 極端に遠い場所へのテレポートができません。
 - 権限によっては一部のポーションの使用を禁止しています。
 - PvP中の `/sit`, `/lay`,`/ded`使用を制限するため、サバイバル・アドベンチャーモードにおけるこれらコマンドの使用ができません。
+- バニラコマンドである `/time`, `/weather`による時間・天候の変更は実行者にのみ反映されます。
 
 ## サーバの再起動について
 
@@ -62,22 +63,21 @@ updatedAt: 2021-04-18
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票方法や投票特典については、[こちら](/blog/how-to-vote)をご覧ください。
+投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。
 
 稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join-discord)`#support`へお越しください。  
 (サーバに一度もログインしたことのない状態、サーバがオフラインの状態での投票は補填できませんのでご注意ください。)
 
 ## コマンドについて
 
-[独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に簡単に解説します。
-詳細は使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。
+[独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に簡単に解説します。  
+詳細は使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
 
 また、`/tp`や`/gamemode`などといったMinecraftバニラの標準的なコマンドは、誰でも使用することができます。
 
-(1.16.5アップデートに伴い、一部コマンドはまだ実装が追いついていません。)
-
 |コマンド|説明|使用可能な権限|
 |:-:|:-:|:-:|
+|/help|コマンドのヘルプブックを開きます|全権限|
 |[/dt](https://wiki.jaoafa.com/dt)|Dynmapのマーカーにワープしたりします|全権限|
 |[/wt](https://wiki.jaoafa.com/wt)|各ワールドのスポーンへワープします|全権限|
 |/untp|テレポートする前の場所へワープします|全権限|
@@ -91,7 +91,7 @@ updatedAt: 2021-04-18
 |/sit|その場に座ります|全権限|
 |/lay|その場に寝ます(自分には立っているように見える)|全権限|
 |[/afk](https://wiki.jaoafa.com/AFK)|AFK(Away From Keyboard、放置)状態になります|全権限|
-|/player|自分の権限を確認します|全権限|
+|/player|指定したプレイヤーの権限を確認します|全権限|
 |/jsa|jao Super Achievement(独自実績)の一覧と進捗を表示します|全権限|
 |/.|[ピリオドマッチ](https://wiki.jaoafa.com/ピリオドマッチ)を行います|全権限|
 |/itemedit|手に持っているアイテムの情報を編集します|全権限|
@@ -99,7 +99,7 @@ updatedAt: 2021-04-18
 |[/flyspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fflyspeed)|飛行速度を変更します|全権限|
 |[/walkspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fwalkspeed)|地上での移動速度を変更します|全権限|
 |/brb|バリアブロックを付与します|Verified～|
-|/debstick|デバッグ棒を付与します|Regular～|
+|/debstick|デバッグ棒を付与します|Verified～|
 |/cmdb|コマンドブロックを付与します|Regular～|
 |/makecmd|手に持っているアイテムのgiveコマンドを生成します|Regular～|
 |/convloc|コマンドブロックのコマンドの座標指定を「絶対座標」と「相対座標」で相互変換します|Regular～|
@@ -111,14 +111,14 @@ updatedAt: 2021-04-18
 当サーバのプレイヤー権限は、以下の5つに分かれています。
 自分の権限は「`/player`」コマンドで確認することができます。
 
-- **Default** (新規権限)  
-  サーバに参加すると初めに付与されます。基本のコマンドが実行でき、爆新地(スポーン)での建築ができます。
+- **Default**
+  サーバに参加すると初めに付与されます。基本的なコマンドが実行でき、爆新地(スポーン)での建築ができます。
 - **Verified**  
   [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。[WorldEdit](/blog/worldedit-commentary)の使用や[自治体](/server/guidelines/cities)の作成ができます。
-- **Regular** (常連権限)  
-  運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
+- **Regular**
+  常連権限と呼ばれる、運営の判断によって昇格できる権限です。OP権限が付与され、コマンドブロックなどが使用できます。
 - **Moderator**  
-  運営に含まれ、管理部の補助的な役割を担い、主に新規対応、荒らし対応、トラブル対応等を行います。
+  運営に含まれ、Adminの補助的な役割を担い、主に新規対応、荒らし対応、トラブル対応等を行います。
 - **Admin**  
   サーバの全管理・運営を行います。
 

@@ -3,7 +3,7 @@ title: 方針
 description: jao Minecraft Serverの運営方針を記載します。
 image: https://storage.jaoafa.com/7984d9c7b14b78ff425c777111e40586.png
 createdAt: 2016-11-14
-updatedAt: 2021-04-18
+updatedAt: 2021-05-14
 ---
 
 この方針は、我々の革新的な感性を爆発させたものになります。以下のような最高にクレイジーな奴らと共に笑い合いながら過ごせる空間を創っていくこと。これこそがjao Minecraft Serverが目指すべき姿であると確信しています。
@@ -43,7 +43,7 @@ jao Minecraft Server（以下、「当サーバ」と呼びます）は、これ
 以下のように判定が行われるようになっています。(文章内で定義している名称は実際にプログラム内で使用している変数名です。)
 
 1. 各種決定を確定する人数(過半数、ボーダー)を「VoteBorder」とします。
-2. 管理部・モデレーターを足した人数を「TeamJaoCount」とします。
+2. Admin・Moderatorを足した人数を「TeamJaoCount」とします。
 3. 「TeamJaoCount」を2で割り、小数点以下を切り上げた数を「VoteBorder」に代入します。
 4. 「TeamJaoCount」が2で割り切れる場合、「VoteBorder」から1つ増やします。(純過半数)
 5. 「白票」が1つ以上あり、「VoteBorder」を2で割り、余りが0である場合は「VoteBorder」と「白票」をマイナス1します。
