@@ -89,15 +89,13 @@ updatedAt: 2021-05-14
 |/g|ゲームモードを変更します|全権限|
 |/hat|手に持っているブロックを頭に装備します|全権限|
 |/sit|その場に座ります|全権限|
-|/lay|その場に寝ます(自分には立っているように見える)|全権限|
+|/lay|その場に寝ます|全権限|
 |[/afk](https://wiki.jaoafa.com/AFK)|AFK(Away From Keyboard、放置)状態になります|全権限|
-|/player|指定したプレイヤーの権限を確認します|全権限|
 |/jsa|jao Super Achievement(独自実績)の一覧と進捗を表示します|全権限|
 |/.|[ピリオドマッチ](https://wiki.jaoafa.com/ピリオドマッチ)を行います|全権限|
-|/itemedit|手に持っているアイテムの情報を編集します|全権限|
 |/bug|バグを報告します|全権限|
-|[/flyspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fflyspeed)|飛行速度を変更します|全権限|
-|[/walkspeed](https://wiki.jaoafa.com/jao_Minecraft_Serverのコマンド一覧#.2Fwalkspeed)|地上での移動速度を変更します|全権限|
+|/flyspeed|飛行速度を変更します|Verified～|
+|/walkspeed|地上での移動速度を変更します|Verified～|
 |/brb|バリアブロックを付与します|Verified～|
 |/debstick|デバッグ棒を付与します|Verified～|
 |/cmdb|コマンドブロックを付与します|Regular～|
@@ -108,10 +106,10 @@ updatedAt: 2021-05-14
 
 ## 権限グループについて
 
-当サーバのプレイヤー権限は、以下の5つに分かれています。
+当サーバのプレイヤー権限は、以下の5つに分かれています。  
 自分の権限は「`/player`」コマンドで確認することができます。
 
-- **Default**
+- **Default**  
   サーバに参加すると初めに付与されます。基本的なコマンドが実行でき、爆新地(スポーン)での建築ができます。
 - **Verified**  
   [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。[WorldEdit](/blog/worldedit-commentary)の使用や[自治体](/server/guidelines/cities)の作成ができます。
@@ -122,7 +120,7 @@ updatedAt: 2021-05-14
 - **Admin**  
   サーバの全管理・運営を行います。
 
-運営についての詳細は[運営者情報](/server/profiles)をご覧ください。
+運営についての詳細は[運営者情報](/server/profiles)を、権限付与に関する詳細は[権限付与方針](/server/policies/permissions)をご覧ください。
 
 ## Dynmapについて
 
