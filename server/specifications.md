@@ -94,7 +94,6 @@ updatedAt: 2021-05-14
 |/jsa|jao Super Achievement(独自実績)の一覧と進捗を表示します|全権限|
 |/.|[ピリオドマッチ](https://wiki.jaoafa.com/ピリオドマッチ)を行います|全権限|
 |/bug|バグを報告します|全権限|
-|/itemedit|手に持っているアイテムの情報を編集します|Verified～|
 |/flyspeed|飛行速度を変更します|Verified～|
 |/walkspeed|地上での移動速度を変更します|Verified～|
 |/brb|バリアブロックを付与します|Verified～|
