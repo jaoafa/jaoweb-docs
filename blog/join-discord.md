@@ -2,7 +2,7 @@
 title: jao Minecraft Server 公式Discordサーバへの参加方法
 category: tips
 author: ekipa
-image: 	https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
+image: https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
 updatedAt: 2021-06-06
 ---
