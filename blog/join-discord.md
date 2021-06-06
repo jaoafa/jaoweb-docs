@@ -2,9 +2,9 @@
 title: jao Minecraft Server 公式Discordサーバへの参加方法
 category: tips
 author: ekipa
-image: 	https://storage.jaoafa.com/af655f1c08ee5712fb9c5c3b9d71d3bc.png
+image: 	https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
-updatedAt: 2021-04-01
+updatedAt: 2021-06-06
 ---
 
 この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
@@ -20,7 +20,7 @@ jMS Gamers Club では、何気ない雑談をしたり、分からないとこ�
 ## 参加方法
 
 jMS Gamers Club へは、以下の招待URLからご参加いただけます。  
-招待URL： [https://discord.com/invite/YjwYEBk](https://discord.com/invite/YjwYEBk)
+**招待URL**： [https://discord.com/invite/YjwYEBk](https://discord.com/invite/YjwYEBk)
 
 参加する前に、必ず [Discordサーバルール](/server/rules/discord) をお読みください。
 
@@ -31,13 +31,13 @@ Discordを初めて利用する場合は、Discordへの新規登録が必要に
 招待URLをクリックすると、ユーザ名を入力する画面になります。ここに、MinecraftのIDや、普段SNS等でつかっているニックネームなどを入力します。  
 ここで入力した名前は、他の利用者から見ることが出来ます。人を不快にさせるような単語をいれたり、個人情報を入力してしまわないよう気をつけましょう。
 
-![Discordの招待画面](https://storage.jaoafa.com/37177be39e1cda1a1ec5aa13c3cf812a.png)
+![Discordの招待画面](https://storage.jaoafa.com/5cfef5691c05e43c0d88903c70be97a7.png)
 
 入力が完了したら、「はい」ボタンをクリックしてください。
 
 以下のような、本当に人間かどうかを確認する表示が出た場合は、「私は人間です」の左横をクリックしてチェックをいれてください。
 
-![Captcha画面](https://storage.jaoafa.com/87e88043ab2ecb0366dd5c8068f1253a.png)
+![Captcha画面](https://storage.jaoafa.com/8038b0463937ac7663821e344fa67508.png)
 
 「DISCORDへようこそ！」という表示が出たら、無事サーバへ参加することができています。
 
