@@ -6,7 +6,7 @@ createdAt: 2019-12-31
 updatedAt: 2021-06-06
 ---
 
-このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」（以下、「公式Discordサーバ」と呼ぶ）におけるルール・方針について記載します。
+このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」（以下、「公式Discordサーバ」と呼びます）におけるルール・方針について記載します。
 
 ## 参加方法
 

@@ -3,14 +3,14 @@ title: はじめての方へ
 description: サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。
 image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 createdAt: 2017-01-04
-updatedAt: 2021-05-14
+updatedAt: 2021-07-14
 ---
 
 **jao Minecraft Serverへようこそ！** このページでは、サーバに参加する上で知ってほしいことや、様々なページの要約を記載しています。参加前にぜひ目を通しておいてください！
 
 ## サーバルール
 
-是非本来であれば[サーバルール](/server/rules)と、その他各種方針などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
+是非本来であれば[サーバルール](/server/rules)などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
 
 - 他人の建築物に無断編集をしない
 - 「迷惑行為」に当たる行為をしない
@@ -41,20 +41,19 @@ updatedAt: 2021-05-14
 
 ## 建築について
 
-初期スポーン地点である"鯖庁"周辺の**芝生エリアで建築**することができます。
+初期スポーン地点である"鯖庁"周辺の**芝生エリアで建築**することができます。  
 以下の画像で「建築エリア」となっている場所以外の、鯖庁や道路上では建築することはできません。
 
 ![爆新地の建築エリア図](https://storage.jaoafa.com/63c8bfe2e680ffcb39cc5041ffc27951.png)
 
 ### 自治体・観光について
 
-自由建築エリアである爆新地の外には「自治体」と呼ばれる個人の領域を取得することができます。
+自由建築エリアである爆新地の外には「自治体」と呼ばれる個人の領域を取得することができます。  
 自治体は「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上で申請し、取得することができます。
 
 詳しくは[自治体に関するガイドライン](/server/guidelines/cities)をご覧ください。
 
-「`/dt CNS`」コマンドを実行すると、様々な自治体にワープできるワープセンターへ行けます。
-観光は自由にできるので、是非ワープセンターをご活用ください！
+「`/dt CNS`」コマンドを実行すると、様々な自治体にワープできるワープセンターへ行けます。観光は自由にできるので、是非ワープセンターをご活用ください！
 
 ## プラグイン・コマンドについて
 
@@ -64,7 +63,7 @@ updatedAt: 2021-05-14
 
 当サーバには、以下のようなプラグインが導入されています。
 
-- [MyMaid4](https://github.com/jaoafa/MyMaid4): jao Minecraft Server独自のプラグインです。Dynmapのマーカーにテレポートできる `dt` コマンドなどがあります。
+- [MyMaid4](https://github.com/jaoafa/MyMaid4): jao Minecraft Server独自のプラグインです。Dynmapのマーカーにテレポートできる `/dt` コマンドなどがあります。
 - [jao Super Achievement2](https://github.com/jaoafa/jao-Super-Achievement2): 独自の実績を追加するプラグインです。「はじめてのjao」といったこのサーバ独自の実績があります。
 - [AntiAlts3](https://github.com/jaoafa/AntiAlts3): サブアカウントによるログインを制限する独自プラグインです。
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/): ブロックの設置・破壊など編集を記録するプラグインです。
@@ -110,20 +109,20 @@ updatedAt: 2021-05-14
 
 ## Banされたとき
 
-当サーバでは[サーバルール](/server/rules)などに則り違反したユーザへ処罰を行います。
-もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
+当サーバでは[サーバルール](/server/rules)などに則り違反したユーザへ処罰を行います。もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
 
 ## わからないことがあったら
 
-もしこのウェブサイトなどを調べてもわからないことがあれば、運営や常連に質問をしてみましょう。
+もしこのWebサイトなどを調べてもわからないことがあれば、運営や常連に質問をしてみましょう。以下は参考になりそうなページです。
 
 - [サーバ仕様](/server/specifications)
 - [サーバルール](/server/rules)
-- 公式[Discord](/blog/join-discord)内`#question`チャンネル
+- [よくあるご質問](/support/faq)
+- [公式Discordサーバ](/blog/join-discord)内`#question`チャンネル
 
 ### 運営へのお問い合わせ先
 
-上にあるものほど返答が早いです。ですので、そちらのほうをお勧めします。
+上にあるものほど返答が早いですので、そちらのほうをおすすめします。
 
 - [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
 - [公式Twitter](https://twitter.com/jaoafa) `@jaoafa`
