@@ -18,8 +18,7 @@ jao Minecraft Server へのお問い合わせは、以下の方法にて受け�
 
 一度[サーバ仕様](/server/specifications)や、[よくあるご質問](/support/faq)、[方針](/server/policies)ページ、以下のお願いなどをご覧になってからお問い合わせください。
 
-また、上記の各種お問い合わせ先はMinecraft(Mojang)公式のお問い合わせ先ではありません。
-Minecraft(Mojang)公式へのお問い合わせを希望される場合は[こちらから](https://help.minecraft.net/hc/ja/requests/new)お願いいたします。
+また、上記の各種お問い合わせ先はMinecraft(Mojang)公式のお問い合わせ先ではありません。  Minecraft(Mojang)公式へのお問い合わせを希望される場合は[こちらから](https://help.minecraft.net/hc/ja/requests/new)お願いいたします。
 
 ### お願い
 
