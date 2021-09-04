@@ -100,6 +100,7 @@ jMS Gamers Club では、 jao Minecraft Server へ参加したMinecraftのアカ
 https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
 
 アカウント連携が完了した後、**3ヶ月間 jao Minecraft Server へのログインがなかった場合、自動的に連携は解除**されますのでご注意ください。  
+3ヶ月経過し連携が解除された場合は、上記の手順で再度連携をしてください。  
 （連携解除1ヶ月前に`#general`より通知が届きます。）
 
 ---
