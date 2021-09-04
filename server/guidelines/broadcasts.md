@@ -2,7 +2,7 @@
 title: 撮影・動画配信に関するガイドライン
 image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 createdAt: 2019-12-12
-updatedAt: 2021-04-08
+updatedAt: 2021-09-05
 ---
 
 このページでは、jao Minecraft Server 内で撮影されたスクリーンショットの外部サービスへの投稿および動画配信についてのガイドラインを定義します。
