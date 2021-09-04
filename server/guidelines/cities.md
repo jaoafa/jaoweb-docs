@@ -3,7 +3,7 @@ title: 自治体に関するガイドライン
 description: Minecraftサーバ内における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2018-11-22
-updatedAt: 2021-04-18
+updatedAt: 2021-09−05
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と言います）における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
