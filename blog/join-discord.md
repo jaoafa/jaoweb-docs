@@ -4,7 +4,7 @@ category: tips
 author: ekipa
 image: https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
-updatedAt: 2021-06-06
+updatedAt: 2021-09-05
 ---
 
 この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
@@ -29,7 +29,7 @@ jMS Gamers Club へは、以下の招待URLからご参加いただけます。
 Discordを初めて利用する場合は、Discordへの新規登録が必要になります。
 
 招待URLをクリックすると、ユーザ名を入力する画面になります。ここに、MinecraftのIDや、普段SNS等でつかっているニックネームなどを入力します。  
-ここで入力した名前は、他の利用者から見ることが出来ます。人を不快にさせるような単語をいれたり、個人情報を入力してしまわないよう気をつけましょう。
+ここで入力した名前は、他の利用者から見ることが出来ます。人を不快にさせるような単語や、個人情報を入力してしまわないよう気をつけましょう。
 
 ![Discordの招待画面](https://storage.jaoafa.com/5cfef5691c05e43c0d88903c70be97a7.png)
 
@@ -77,7 +77,7 @@ jMS Gamers Club では、運営方針により、参加から10分以内に発�
 
 jMS Gamers Club では、 jao Minecraft Server へ参加したMinecraftのアカウントとDiscordアカウントを連携することができます。
 
-サーバに参加してから3週間以内にアカウント連携が行われない場合、運営方針により自動的にサーバからキックされる仕様となっております。
+サーバに参加してから1週間以内にアカウント連携が行われない場合、運営方針により自動的にサーバからキックされる仕様となっております。
 
 アカウント連携をするには、まず `#general` チャンネルで、 `/link` コマンドを実行します。  
 すると、「jaotan」というBOTからメンションが届きます。
@@ -100,6 +100,7 @@ jMS Gamers Club では、 jao Minecraft Server へ参加したMinecraftのアカ
 https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
 
 アカウント連携が完了した後、**3ヶ月間 jao Minecraft Server へのログインがなかった場合、自動的に連携は解除**されますのでご注意ください。  
+3ヶ月経過し連携が解除された場合は、上記の手順で再度連携をしてください。  
 （連携解除1ヶ月前に`#general`より通知が届きます。）
 
 ---
