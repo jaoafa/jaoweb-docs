@@ -3,7 +3,7 @@ title: よくあるご質問
 description: 利用者から寄せられるよくある質問について、Q&A形式でまとめています。
 image: https://storage.jaoafa.com/1c1d94d9c886ee4565ba2627125b30ac.png
 createdAt: 2017-03-21
-updatedAt: 2021-05-14
+updatedAt: 2021-09-05
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  
@@ -62,7 +62,7 @@ MinecraftIDの変更によって問題が発生した場合は運営にお問い
 
 ## Q. Modは導入してもいいの？
 
-荒らし目的でないのであれば基本許可していますが、詳しくは [こちら](server/rules#Modについて) をご覧ください。
+荒らし目的でないのであれば、基本許可しています。詳しくは [こちら](server/rules#Modについて) をご覧ください。
 
 ## Q. プラグインの不具合(バグ)を見つけた
 
