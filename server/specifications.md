@@ -69,7 +69,6 @@ updatedAt: 2021-09-07
 サーバの稼働状況については[こちら](https://status.jaoafa.com)をご確認ください。
 またサーバが停止する際は、公式Discordサーバでも情報提供を行います。
 
-
 ## MCBansについて
 
 当サーバでは、Minecraftプラグイン`MCBans`を導入しています。  
