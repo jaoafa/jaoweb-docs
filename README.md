@@ -1,41 +1,41 @@
 # jaoweb-docs
 
-[jao Minecraft Server](https://jaoafa.com) articles repository.
+[jao Minecraft Server](https://jaoafa.com) で公開されているページ・記事を管理するリポジトリです。
 
 ## プレビュー
 
-- mainブランチ: [https://dev.jaoafa.com/jaoafa/main/](https://dev.jaoafa.com/jaoafa/main/)
-- blog-contentsブランチ: [https://dev.jaoafa.com/jaoafa/blog-contents/](https://dev.jaoafa.com/jaoafa/blog-contents/)
+- main ブランチ: [https://dev.jaoafa.com/jaoweb/jaoafa/main/](https://dev.jaoafa.com/jaoweb/jaoafa/main/)
 
-`https://dev.jaoafa.com/<USER>/<BRANCH>/` に配置されます。
+`https://dev.jaoafa.com/jaoweb/<USER>/<BRANCH>/` に配置されます。  
+プルリクエストの場合は `https://dev.jaoafa.com/jaoweb/jaoafa/pulls/<PR-NUM>` に配置されます。  
+コミットが作成されてプッシュされたとき・プルリクエストが作成されたときと更新されたときにプレビューが作成されます。
 
 ## 編集の仕方
 
-[運営向け解説記事はこちら](https://adminwiki.jaoafa.com/secret/website)
+[解説記事はこちら (運営向けですが一般ユーザも閲覧可能)](https://adminwiki.jaoafa.com/website)
 
-基本的には、ヒラタケが書いている[sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md)が非常に参考になるので是非参考にしてください。
+基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) が非常に参考になるので是非参考にしてください。
 
 ## 運用方針について
 
-運営メンバーの非開発者に掛かる負担をなるべく軽減し、活発的にWebサイトの編集に取り組んでもらうため、分かりやすく・簡単に編集できることを心掛けます。  
+運営メンバーの非開発者に掛かる負担をなるべく軽減し、活発的に Web サイトの編集に取り組んでもらうため、分かりやすく・簡単に編集できることを心掛けます。  
 このため、以下の軽い制約を設けます。
 
-### ブランチについて
+### フォーク・ブランチについて
 
-Gitにはブランチという編集(開発)する場所を一時的に分ける機能があります。  
-しかし、この機能はGitをあまり利用しないユーザには理解しにくい機能であるため、知識のあるユーザのみ利用してください。  
-もちろん、検索等し知識を得て利用する分にはなんら構いません。むしろコンフリクトなどのことを考えると本来は利用すべきであると考えます。
+運営メンバーを含め、リポジトリを自身のユーザー下にフォークし、作業ごとにブランチを作成することをお勧めします。
 
-### プルリクエスト・Issue・Discussionsについて
+### プルリクエスト・Issue・Discussions について
 
-プルリクエスト・Issue・Discussionsは随時受け付けています。ただし、必ず対応する保証はありません。
+プルリクエスト・Issue・Discussions は随時受け付けています。ただし、必ず対応する保証はありません。  
+コードオーナーである @Hiratake と @book000 のいずれかをレビュアーとして指定してください。なお、マージを行うには 1 人以上の承認レビューが必要です。
 
 ## 編集サポートについて
 
-執筆・読みやすさの手助けとなるよう、MarkdownLintとTextLintを導入しています。  
-それぞれMarkdownLintは[.markdownlint.json](.markdownlint.json)で規定しています。
+執筆・読みやすさの手助けとなるよう、MarkdownLint を導入しています。  
+MarkdownLint は [.markdownlint.json](.markdownlint.json) で規定しています。
 
-Visual Studio Codeの場合、以下の拡張機能でそれぞれのLintの恩恵を受けられます。他に良い拡張機能があるならそれでも構いません。
+Visual Studio Code の場合、以下の拡張機能でそれぞれの Lint の恩恵を受けられます。他に良い拡張機能があるならそれでも構いません。
 
 - MarkdownLint: [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
@@ -114,7 +114,7 @@ Visual Studio Codeの場合、以下の拡張機能でそれぞれのLintの恩�
 
 ©︎ 2020 jao Minecraft Server. All right reserved.
 
-基本的に、jao Minecraft Serverとして公開している記事・情報でありこれを無闇に転用・複製されることは妥当ではないとして、ForkなどGitHubの利用規約上制約のある一部を除き **「著作権者が全ての権利を留保する」、All rights reservedを適用します。**  
-つまり、jao Minecraft Server運営は当リポジトリおよび`jaoafa.com`上で公開している情報について、法的上の著作権利を全て保有するものとし、それ以外の利用者に対しては一部の例外を除き転用や複製などを全て禁止します。
+基本的に、jao Minecraft Server として公開している記事・情報でありこれを無闇に転用・複製されることは妥当ではないとして、Fork など GitHub の利用規約上制約のある一部を除き **「著作権者が全ての権利を留保する」、All rights reserved を適用します。**  
+つまり、jao Minecraft Server 運営は当リポジトリおよび `jaoafa.com` 上で公開している情報について、法的上の著作権利を全て保有するものとし、それ以外の利用者に対しては一部の例外を除き転用や複製などを全て禁止します。
 
-GitHubというオープンソースホスティングサイトというサービスである以上、この方針がそれにそぐわないことは理解しています。しかしながら、開発者、運営メンバー及び利用者の負担や使用利便性の観点から考えた際、これが現時点で妥当な策であり、このようなライセンスを設定してでも適当であると判断しました。
+GitHub というオープンソースホスティングサイトというサービスである以上、この方針がそれにそぐわないことは理解しています。しかしながら、開発者、運営メンバー及び利用者の負担や使用利便性の観点から考えた際、これが現時点で妥当な策であり、このようなライセンスを設定してでも適当であると判断しました。
