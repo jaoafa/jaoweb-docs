@@ -3,7 +3,7 @@ title: サーバリストサービスでの投票方法と投票特典
 category: tips
 author: hiratake
 createdAt: 2021-03-21
-updatedAt: 2021-04-03
+updatedAt: 2021-09-07
 ---
 
 jao Minecraft Server では、Minecraftのサーバリストサービスである [Japan Minecraft Servers](https://minecraft.jp) と [monocraft](https://monocraft.net) へ登録しており、それぞれのサイトでの投票を受け付けています。また、投票に対する投票特典も複数ご用意しております。
@@ -19,7 +19,7 @@ Japan Minecraft Servers は、主に日本国内のMinecraftサーバの一覧�
 こちらのサービスでは「投票」という機能があり、投票数が多いサーバをランキング形式で掲載しています。投票をしていただき順位が上がることで、より多くの方の目に触れサーバの活性化につながります。  
 Japan Minecraft Servers で jao Minecraft Server へ投票する際は、[こちら](https://minecraft.jp/servers/play.jaoafa.com) のページへアクセスをお願いいたします。
 
-**Japan Minecraft Servers は Mojang AB および jao Minecraft Server の運営サイトではありません。**
+**Japan Minecraft Servers は Mojang AB および jao Minecraft Server が運営するサイトではありません。**
 
 ### 登録方法
 
@@ -51,7 +51,7 @@ Japan Minecraft Serversで投票するには、アカウントを作成する必
 ### 投票方法
 
 jao Minecraft Server は、Japan Minecraft Servers に登録しております。もし気に入っていただけましたら、投票していただけると嬉しいです！  
-投票は1日1回行うことができ、**午前9時** に再投票が可能になります。
+投票は1日1回行うことができ、毎日**午前9時** に再投票が可能になります。
 
 投票するには、[jao Minecraft Server のページ](https://minecraft.jp/servers/play.jaoafa.com) にアクセスします。
 
@@ -173,7 +173,7 @@ monocraftは、Minecraftサーバの一覧を見ることができるサービ�
 こちらのサービスでは「投票」という機能があり、投票数が多いサーバをランキング形式で掲載しています。投票をしていただき順位が上がることで、より多くの方の目に触れサーバの活性化につながります。  
 monocraftで jao Minecraft Server へ投票する際は、[こちら](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7/) のページへアクセスをお願いいたします。
 
-**monocraftは Mojang AB および jao Minecraft Server の運営サイトではありません。**
+**monocraftは Mojang AB および jao Minecraft Server が運営するサイトではありません。**
 
 ### 登録方法
 
@@ -208,7 +208,7 @@ monocraftに登録するには、「Googleアカウント」もしくは「Twitt
 ### 投票方法
 
 jao Minecraft Server は、monocraftに登録しております。もし気に入っていただけましたら、投票していただけると嬉しいです！  
-投票は1日1回行うことができ、**午前0時**に再投票が可能になります。
+投票は1日1回行うことができ、毎日**午前0時**に再投票が可能になります。
 
 投票するには、[jao Minecraft Server のページ](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7/) にアクセスします。
 
