@@ -3,7 +3,7 @@ title: 迷惑行為の対応に関するガイドライン
 description: jao Minecraft Serverにおける「迷惑行為」について、利用者側の対応ガイドラインを定義します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 createdAt: 2021-04-14
-updatedAt: 2021-07-14
+updatedAt: 2021-09-07
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）における「迷惑行為」について、利用者側の対応ガイドラインを定義します。
@@ -23,10 +23,13 @@ updatedAt: 2021-07-14
 
 ### チャットスパム行為
 
-基本的に、Minecraftサーバ内のチャットはDiscordサーバからいつでも見れるようになっているので、運営もすぐに気付くと思われますが、万が一運営が居ない場合は報告をお願いします。
+基本的に、Minecraftサーバ内のチャットはDiscordサーバからいつでも見れるようになっています。  
+運営もすぐに気付くと思われますが、万が一運営が不在の場合は報告をお願いします。
 
 [公式Discordサーバ](/blog/join-discord)の`#support`などを用いて運営に「該当するプレイヤー名」を報告してください。  
-Regular権限以上の方は、必要に応じてChatBanを実行して構いません。
+Regular権限以上の方は、必要に応じてChatBanを実行して構いません。  
+
+具体的にどのようなチャットがスパム行為に該当するかは、[チャットに関するガイドライン](/server/guidelines/communications)を参考にしてください。
 
 ## 利用者間でのトラブルについて
 
