@@ -17,7 +17,8 @@ updatedAt: 2021-09−13
 
 次の項目のすべてをお守りください。
 
-1. 利用者は公式Discordサーバを利用する場合、必ず以下を理解し、同意しなければなりません。  同意できない場合、公式Discordサーバを利用することはできません。
+1. 利用者は公式Discordサーバを利用する場合、必ず以下を理解し、同意しなければなりません。  
+   同意できない場合、公式Discordサーバを利用することはできません。
    - 本ルール
    - jao Minecraft Serverの[各種方針](/server/policies)
    - [Discord サービス利用規約](https://discord.com/terms)
