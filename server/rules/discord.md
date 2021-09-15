@@ -3,7 +3,7 @@ title: Discordサーバルール
 description: jao Minecraft Serverの公式Discordサーバ「jMS Gamers Club」のルール・方針を記載します。
 image: https://storage.jaoafa.com/a47ae3b97382ac13d31cf37c690debb7.png
 createdAt: 2019-12-31
-updatedAt: 2021-09−13
+updatedAt: 2021-09−15
 ---
 
 このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」（以下、「公式Discordサーバ」と呼びます）におけるルール・方針について記載します。  
@@ -28,8 +28,8 @@ updatedAt: 2021-09−13
 
 ## 禁止事項
 
-次の項目のいずれかに当たる行為をしてはいけません。  
-なおここでの「他の利用者」には、運営も含みます。
+次に挙げられている事項をしてはいけません。
+なお、ここでの「他の利用者」には運営も含みます。
 
 1. 上記の「利用条件・遵守事項」をすべて満たさずに、公式Discordサーバへ参加すること  
    各種条件などを満たさず参加した場合、運営の判断でキック・Banされることがあります。
