@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as matter from 'gray-matter';
 import * as path from 'path';
+import { exit } from 'process';
 
 const getAllFiles = (searchPath: string) => {
     const files = fs.readdirSync(searchPath)
@@ -34,6 +35,7 @@ const requiredFields = {
     other: ['title', 'description', 'createdAt', 'updatedAt'],
 }
 
+let isValid = true
 // %f: %m
 for (const file of files) {
     const fields = getHeaderFields(file)
@@ -42,6 +44,9 @@ for (const file of files) {
     for (const field of requiredFieldsForFile) {
         if (!fields[field]) {
             console.log(`${file}: 必要なフィールド ${field} がありません。`)
+            isValid = false
         }
     }
 }
+
+exit(isValid ? 0 : 1)
