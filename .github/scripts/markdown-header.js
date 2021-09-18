@@ -26,6 +26,7 @@ var getHeaderFields = function (filePath) {
 var files = getAllFiles('.')
     .filter(function (x) { return x.endsWith('.md'); })
     .filter(function (x) { return !x.includes('README.md'); });
+console.log(files);
 var requiredFields = {
     blog: ['title', 'category', 'author', 'createdAt', 'updatedAt'],
     other: ['title', 'description', 'createdAt', 'updatedAt']

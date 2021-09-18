@@ -27,6 +27,7 @@ const getHeaderFields = (filePath: string) => {
 const files = getAllFiles('.')
     .filter(x => x.endsWith('.md'))
     .filter(x => !x.includes('README.md'))
+console.log(files)
 
 const requiredFields = {
     blog: ['title', 'category', 'author', 'createdAt', 'updatedAt'],
