@@ -23,7 +23,7 @@ var getHeaderFields = function (filePath) {
     var data = matter(content).data;
     return data;
 };
-var files = getAllFiles('../jaoafa/jaoweb-docs/')
+var files = getAllFiles('.')
     .filter(function (x) { return x.endsWith('.md'); })
     .filter(function (x) { return !x.includes('README.md'); });
 var requiredFields = {

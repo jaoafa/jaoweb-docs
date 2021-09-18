@@ -24,7 +24,7 @@ const getHeaderFields = (filePath: string) => {
     return data
 }
 
-const files = getAllFiles('../jaoafa/jaoweb-docs/')
+const files = getAllFiles('.')
     .filter(x => x.endsWith('.md'))
     .filter(x => !x.includes('README.md'))
 
