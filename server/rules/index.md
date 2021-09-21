@@ -3,7 +3,7 @@ title: サーバルール
 description:  jao Minecraft Serverを楽しむためのサーバルールを記載します。
 image: https://storage.jaoafa.com/4adcd454dc1c5294f6b71504eb5237b2.jpg
 createdAt: 2019-09-03
-updatedAt: 2021-04-18
+updatedAt: 2021-09-21
 ---
 ここに書かれているものは、jao Minecraft Serverで楽しむための基本的なルールです。
 
@@ -82,6 +82,14 @@ jao Minecraft Serverでは、違反行為による対応が適用されない他
   - [チャットなどに関するガイドライン](/server/guidelines/communications)
   - [撮影・動画配信に関するガイドライン](/server/guidelines/broadcasts)
   - [迷惑行為の対応に関するガイドライン](/server/guidelines/griefing)
+
+公式Discordサーバについては、以下の規約・ルールを適用します。
+
+- jao Minecraft Serverが定める[公式Discordサーバ利用ルール](/server/rules/discord)
+- プラットフォームであるDiscordが定める各種規約・ルール
+  - [Discord サービス利用規約](https://discord.com/terms)
+  - [Discordコミュニティガイドライン](https://discord.com/guidelines)
+  - その他Discord公式が規定する規約・関連規約
 
 ## Modについて
 
