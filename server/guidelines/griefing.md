@@ -3,7 +3,7 @@ title: 迷惑行為の対応に関するガイドライン
 description: jao Minecraft Serverにおける「迷惑行為」について、利用者側の対応ガイドラインを定義します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 createdAt: 2021-04-14
-updatedAt: 2021-09-07
+updatedAt: 2021-09-21
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）における「迷惑行為」について、利用者側の対応ガイドラインを定義します。
@@ -38,4 +38,4 @@ Regular権限以上の方は、必要に応じてChatBanを実行して構いま
 
 ## 運営側の対応
 
-[各種処罰方針](/server/policies/bans)をご覧ください。
+利用者の迷惑行為を確認した場合、運営は[各種処罰方針](/server/policies/bans)に基づき対処をします。
