@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2021-09-07
+updatedAt: 2021-09-21
 ---
 
 ここではサーバの様々な仕様を掲示しています。
@@ -76,9 +76,16 @@ updatedAt: 2021-09-07
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。
+投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。  
+なお上記2つのサイトは、jao Minecraft Server が運営するWebサイトではありませんのでご注意ください。
 
-稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join-discord)`#support`へお越しください。  
+稀に、投票特典が正常に付与されないことがあります。投票から3週間(24日)以内であれば、運営への補填申請を行っていただければ補填対応いたします。[公式Discordサーバ](/blog/join-discord)の`#support`へ、以下を送信ください。  
+
+- MinecraftID
+- どちらのサービスにて投票を行ったか
+- 具体的な投票日時
+- 投票したことを証明できるスクリーンショットなど
+
 (サーバに一度もログインしたことのない状態、サーバがオフラインの状態での投票は補填できませんのでご注意ください。)
 
 ## コマンドについて
