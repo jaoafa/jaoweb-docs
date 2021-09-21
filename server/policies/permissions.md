@@ -60,7 +60,7 @@ Minecraftサーバ内では<span style="color: red">Verifiedと同等</span>の�
 以下の項目に該当すると、指定権限まで降格されます。
 
 - [公式Discordサーバ](/blog/join-discord)から退出する、または連携を解除する。(Defaultに降格)
-- 最終ログインから3ヶ月が経過し、運営がその理由を把握していない場合。(Verifiedに降格)
+- 最終ログインから3ヶ月が経過し、運営がその理由を把握していない場合。(Defaultに降格)
 - 運営の判断により、Community Regular権限を付与し続けるべきではないとされた場合。(Verifiedに降格)
 
 ## Regular
