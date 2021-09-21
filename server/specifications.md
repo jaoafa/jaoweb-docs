@@ -76,9 +76,16 @@ updatedAt: 2021-09-07
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。
+投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。  
+なお上記2つのサイトについては、jao Minecraft Server とは別団体が運営を行っています。  
 
-稀に投票特典が正常に付与されないことがありますが、投票から3週間(24日)以内であれば、運営への補填申請の元、補填しますので[公式Discordサーバ](/blog/join-discord)`#support`へお越しください。  
+稀に、投票特典が正常に付与されないことがあります。投票から3週間(24日)以内であれば、運営への補填申請の元、補填します。[公式Discordサーバ](/blog/join-discord)`#support`へ、以下を送信ください。  
+
+- MinecraftID
+- どちらのサービスにて投票を行ったか
+- 具体的な投票日時
+- 投票したことを証明できるスクリーンショットなど
+
 (サーバに一度もログインしたことのない状態、サーバがオフラインの状態での投票は補填できませんのでご注意ください。)
 
 ## コマンドについて
