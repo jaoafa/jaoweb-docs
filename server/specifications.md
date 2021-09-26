@@ -6,7 +6,7 @@ createdAt: 2021-04-14
 updatedAt: 2021-09-21
 ---
 
-ここではサーバの様々な仕様を掲示しています。
+ここではサーバのさまざまな仕様を掲示しています。
 
 ## ログインについて
 
@@ -91,7 +91,7 @@ updatedAt: 2021-09-21
 ## コマンドについて
 
 [独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に簡単に解説します。  
-詳細は使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
+詳細な使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
 
 また、`/tp`や`/gamemode`などといったMinecraftバニラの標準的なコマンドは、誰でも使用することができます。
 
