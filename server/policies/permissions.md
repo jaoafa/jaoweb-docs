@@ -3,7 +3,7 @@ title: 権限付与方針
 description: 権限の付与についての方針や、その種類について記載します。
 image: https://storage.jaoafa.com/bf4f7d44454db36f1f85a229993ec588.png
 createdAt: 2021-04-14
-updatedAt: 2021-09-18
+updatedAt: 2021-09-27
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）おける権限の付与について記載します。
@@ -25,7 +25,7 @@ updatedAt: 2021-09-18
 
 ## Default
 
-サーバに初めてログインした際に、自動的に付与されます。
+サーバへはじめてログインした際に、自動的に付与されます。
 
 ## Verified
 
