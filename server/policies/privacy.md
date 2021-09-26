@@ -3,7 +3,7 @@ title: プライバシーポリシー
 description: 個人情報について、その収集や活用、管理、保護などに関する取り扱いの方針を記載します。
 image: https://storage.jaoafa.com/4c41a61904e2fe2924040ed16946e589.png
 createdAt: 2017-03-15
-updatedAt: 2021-09-05
+updatedAt: 2021-09-27
 ---
 
 近年のインターネットの普及により、私たちの生活は大きく変わりつつあります。そして、「情報」の持つ価値が高まり、適切な管理が不可欠となってきています。
@@ -64,7 +64,7 @@ jao Minecraft Serverおよび関連サービス（以下、「本サービス」
 
 当サイト内では、当サービスの充実のためにGoogle Analyticsやプログラムによってアクセス解析を行っています。
 
-Google Analyticsにより収集された情報はGoogle社のプライバシーポリシーに基づいて管理されます。Google Analytics利用規約及びGoogleプライバシーポリシーについては下記URLをご確認ください。
+Google Analyticsにより収集された情報はGoogle社のプライバシーポリシーに基づいて管理されます。Google Analytics利用規約およびGoogleプライバシーポリシーについては下記URLをご確認ください。
 
 - [Google アナリティクス利用規約](http://www.google.com/analytics/terms/jp.html)
 - [Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)
