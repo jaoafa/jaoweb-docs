@@ -4,7 +4,7 @@ category: tips
 author: ekipa
 image: https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
-updatedAt: 2021-09-05
+updatedAt: 2021-10-01
 ---
 
 この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
