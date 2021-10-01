@@ -4,7 +4,7 @@ category: tips
 author: ekipa
 image: https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
-updatedAt: 2021-09-05
+updatedAt: 2021-10-01
 ---
 
 この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
@@ -19,8 +19,7 @@ jMS Gamers Club では、何気ない雑談をしたり、分からないとこ�
 
 ## 参加方法
 
-jMS Gamers Club へは、以下の招待URLからご参加いただけます。  
-**招待URL**： [https://discord.com/invite/YjwYEBk](https://discord.com/invite/YjwYEBk)
+jMS Gamers Club へは、[こちら](https://discord.gg/KeJWma5UBu)からご参加いただけます。
 
 参加する前に、必ず [Discordサーバルール](/server/rules/discord) をお読みください。
 
