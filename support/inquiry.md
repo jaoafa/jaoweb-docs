@@ -3,7 +3,7 @@ title: お問い合わせ
 description: jao Minecraft Server へのお問い合わせ方法や注意事項を記載します。
 image: https://storage.jaoafa.com/ae4f5a583fb45fa3e9ca486ee09e413c.png
 createdAt: 2016-10-08
-updatedAt: 2021-09-27
+updatedAt: 2021-10-07
 ---
 
 jao Minecraft Server へのお問い合わせは、以下の方法にて受け付けています。
@@ -18,7 +18,7 @@ jao Minecraft Server へのお問い合わせは、以下の方法にて受け�
 
 一度[サーバ仕様](/server/specifications)や、[よくあるご質問](/support/faq)、[方針](/server/policies)ページ、以下のお願いなどをご覧になってからお問い合わせください。
 
-また、上記はMinecraft開発元(Mojang)のお問い合わせ先ではありません。jao Minecraft Serverに関わるお問い合わせについて対応いたします。  
+また、**上記はMinecraft開発元(Mojang)のお問い合わせ先ではありません。** jao Minecraft Serverに関わるお問い合わせについて対応いたします。  
 Minecraft開発元(Mojang)へのお問い合わせを希望される場合は[こちらから](https://help.minecraft.net/hc/ja/requests/new)お願いいたします。
 
 ### お願い
@@ -30,5 +30,5 @@ Minecraft開発元(Mojang)へのお問い合わせを希望される場合は[�
 
 ## 個人情報について
 
-ご記入いただきました個人情報は[プライバシーポリシー](/server/policies/privacy)にもとづき管理をします。  
+ご記入いただきました個人情報は[プライバシーポリシー](/server/policies/privacy)にもとづき管理をいたします。  
 なお住所やパスワードなどの、とくに重要な個人情報は送信しないでください。
