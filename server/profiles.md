@@ -33,4 +33,4 @@ Adminを補佐する役割を担います。
 |![MinHero_exp](https://storage.jaoafa.com/fb68e673c41ce79f66bd5b930f8be5d5.png)|EKipa|MinHero_exp|[@minhero_exp](https://twitter.com/minhero_exp)|[minhero_exp#3751](https://discord.com/users/310570792691826688)|爆新地の見回り・<br>コミュニティ管理・荒らし対応・Webサイト編集|
 |![Ekusas83](https://storage.jaoafa.com/b7e612706c25b7bb967dc6faa7ab63ce.png)|Ekusas|Ekusas83|[@ekusas55000](https://twitter.com/ekusas55000)|[ekusas#8352](https://discord.com/users/189377054955798528)|コミュニティ管理・開発補助|
 |![X5Z](https://storage.jaoafa.com/56f1b4514b6bcf5e98a58a18c2d2c27e.png)|Zozokasu|X5Z|[@Zozokasu](https://twitter.com/Zozokasu)|[Zokasu#8216](https://discord.com/users/189372008147058688)|コミュニティ管理・開発補助|
-|![yuuaHP](https://storage.jaoafa.com/d41d8cd98f00b204e9800998ecf8427e.png)|ゆうあ|yuuaHP|[@yuuaHP_dev](https://twitter.com/yuuaHP_dev)|[ゆうあ#0659](https://discord.com/users/492088741167366144)|プラグイン開発・システム開発・メンテナンス|
+|![yuuaHP](https://storage.jaoafa.com/d41d8cd98f00b204e9800998ecf8427e.png)|ゆうあ|yuuaHP|[@yuuaHP_dev](https://twitter.com/yuuaHP_dev)|[ゆうあ#0659](https://discord.com/users/492088741167366144)|プラグイン開発・システム開発・メンテナー|
