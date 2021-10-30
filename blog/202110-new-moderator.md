@@ -3,12 +3,13 @@ title: モデレーター新規加入のお知らせ
 category: news
 author: tomachi
 createdAt: 2021-10-26
-updatedAt: 2021-10-26
+updatedAt: 2021-10-31
 ---
 
 2021/10/26 付で、以下の通り jao Minecraft Server のモデレータに 1 名が新規加入することとなりました。
 
-- yuuaHP([ユーザーページ](https://users.jaoafa.com/13976d72-1389-4332-818e-9cecad363b12)) Regular(常連) → Moderator(モデレータ)
+- yuuaHP([ユーザーページ](https://users.jaoafa.com/13976d72-1389-4332-818e-9cecad363b12))  
+  Regular(常連) → Moderator(モデレータ)
 
 今後、モデレーターとして従来も行っていただいておりましたプラグイン開発・システム開発をメインに、既存システムのメンテナンスにも取り組んでいただく予定です。
 
