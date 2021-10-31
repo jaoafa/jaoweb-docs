@@ -20,7 +20,7 @@ updatedAt: 2021-10-31
 | Admin        | サーバ管理人   | X4Z            | zakuro#0514      | サーバ全体管理                                                               |
 | Admin        | サーバ副管理人 | Hirotaisou2012 | Hiratake#2012    | Web サイトデザイン・システム管理運用                                         |
 | Admin        | スタッフ       | mine_book000   | tomachi#0310     | Web サイト全般管理運用・システム管理運用・プラグイン制作管理・Discord 管理等 |
-| Admin        | スタッフ       | X9Z            | Omelet#8275      | お問い合わせ対応・運営業務全般                                               |
+| Admin        | スタッフ       | X9Z            | Omelet#4429      | お問い合わせ対応・運営業務全般                                               |
 | Moderator    | モデレータ     | Ekusas83       | ekusas#8352      | 闇光の創造                                                                   |
 | Moderator    | モデレータ     | X5Z            | Zokasu#8216      | 意見提案・各部補助                                                           |
 | Moderator    | モデレータ     | kohonayoshi    | kohonayoshi#0153 | プラグイン開発補助                                                           |
