@@ -3,7 +3,7 @@ title: モデレーター新規加入のお知らせ
 category: news
 author: tomachi
 createdAt: 2021-10-26
-updatedAt: 2021-10-31
+updatedAt: 2021-11-02
 ---
 
 2021/10/26 付で、以下の通り jao Minecraft Server のモデレータに 1 名が新規加入することとなりました。
@@ -28,4 +28,4 @@ updatedAt: 2021-10-31
 | Moderator    | モデレータ     | MinHero_exp    | minhero_e3p#3751 | お問い合わせ・荒らし等対応                                                   |
 | Moderator    | モデレータ     | yuuaHP         | ゆうあ#0659      | プラグイン開発・システム開発・メンテナー                                     |
 
-※役割等は変更される可能性があります。また、この記事は今後異動等があっても更新されません。最新の運営一覧は[運営者情報](/server/staff)をご覧ください。
+※役割等は変更される可能性があります。また、この記事は今後異動等があっても更新されません。最新の運営一覧は[運営者情報](/server/profiles)をご覧ください。
