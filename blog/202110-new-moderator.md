@@ -3,7 +3,7 @@ title: モデレーター新規加入のお知らせ
 category: news
 author: tomachi
 createdAt: 2021-10-26
-updatedAt: 2021-10-31
+updatedAt: 2021-11-02
 ---
 
 2021/10/26 付で、以下の通り jao Minecraft Server のモデレータに 1 名が新規加入することとなりました。
