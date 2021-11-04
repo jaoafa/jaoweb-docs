@@ -9,7 +9,10 @@ updatedAt: 2021-11-04
 Minecraft LauncherがMicrosoftアプリになったせいでプロファイル系が死んだので、被害者が増える前にプロファイルの移行の仕方を伝授します。
 ※一応自分が動作確認して問題はありませんでしたがこれでマイクラぶっ壊れても責任は負いません
 
-① `.minecraft` フォルダを開く
+## 1. `.minecraft` フォルダを開く
+
+`%appdata%\.minecraft` をエクスプローラーのアドレス欄に入力し、アクセスすると Minecraft のフォルダが開けます。
+
 ② `launcher_profiles.json`(旧ランチャー) と `launcher_profiles_microsoft_store.json`(新ランチャー) を開く
 ③ 以下のうち👈の絵文字で囲まれた範囲を、旧ランチャーからコピーし新ランチャーの該当する部分に貼り付けて置き換える
 ```json
