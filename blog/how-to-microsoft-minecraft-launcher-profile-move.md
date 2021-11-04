@@ -13,7 +13,10 @@ Minecraft LauncherがMicrosoftアプリになったせいでプロファイル�
 
 `%appdata%\.minecraft` をエクスプローラーのアドレス欄に入力し、アクセスすると Minecraft のフォルダが開けます。
 
-② `launcher_profiles.json`(旧ランチャー) と `launcher_profiles_microsoft_store.json`(新ランチャー) を開く
+## 2. `launcher_profiles.json`(旧ランチャー) と `launcher_profiles_microsoft_store.json`(新ランチャー) を開く
+
+`.minecraft` フォルダにある `launcher_profiles.json` と、`launcher_profiles_microsoft_store.json` の両方を適当なエディタで開きます。
+
 ③ 以下のうち👈の絵文字で囲まれた範囲を、旧ランチャーからコピーし新ランチャーの該当する部分に貼り付けて置き換える
 ```json
   "launcherVersion": {
