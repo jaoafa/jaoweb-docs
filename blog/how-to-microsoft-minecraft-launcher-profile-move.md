@@ -17,7 +17,8 @@ Minecraft LauncherがMicrosoftアプリになったせいでプロファイル�
 
 `.minecraft` フォルダにある `launcher_profiles.json` と、`launcher_profiles_microsoft_store.json` の両方を適当なエディタで開きます。
 
-③ 以下のうち👈の絵文字で囲まれた範囲を、旧ランチャーからコピーし新ランチャーの該当する部分に貼り付けて置き換える
+## 3. 以下のうち👈の絵文字で囲まれた範囲を、旧ランチャーからコピーし新ランチャーの該当する部分に貼り付けて置き換える
+
 ```json
   "launcherVersion": {
     "1a1b*******************1968": {
