@@ -8,6 +8,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request_target.head.sha }}
       - name: Setup reviewdog
         uses: reviewdog/action-setup@v1.0.0
         env:
