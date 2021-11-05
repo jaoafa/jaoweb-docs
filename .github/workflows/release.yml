@@ -4,8 +4,6 @@ on:
   pull_request_target:
     branches:
       - main
-      - dev
-      - feat/build-workflow
     types:
       - closed
 
