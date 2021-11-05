@@ -6,11 +6,13 @@ on:
       - main
       - dev
       - feat/build-workflow
+    types:
+      - closed
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.event.pull_request_target.merged == true
+    if: github.event.pull_request.merged == true
 
     steps:
       - name: Get current date
