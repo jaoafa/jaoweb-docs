@@ -10,7 +10,7 @@ on:
       - closed
 
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
 
@@ -80,7 +80,7 @@ jobs:
         run: echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
 
       - name: Create dist.tgz
-        run: tar -C dist cvf dist.tgz .
+        run: tar -C dist -cvf dist.tgz .
 
       - name: Create a Release
         id: create_release
