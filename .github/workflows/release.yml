@@ -60,7 +60,9 @@ jobs:
         run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
 
       - name: Check exists dist
-        run: test -f dist
+        run: |
+          ls -la
+          test -f dist
 
       - name: Set jaoweb SHORT_SHA
         id: jaoweb-vars
@@ -96,14 +98,3 @@ jobs:
           asset_path: dist.zip
           asset_name: dist.zip
           asset_content_type: application/zip
-
-      - name: Released comment
-        uses: actions/github-script@v4
-        with:
-          script: |
-            github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `# リリースが完了しました\n\n${{ steps.create_release.outputs.html_url }}`
-            })
