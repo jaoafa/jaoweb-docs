@@ -1,0 +1,120 @@
+name: Release
+
+on:
+  pull_request_target:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
+
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Clone jaoafa/jaoweb
+        uses: actions/checkout@v2
+        with:
+          repository: jaoafa/jaoweb
+
+      - name: Remove content
+        run: rm -rf content
+
+      - name: Clone jaoafa/jaoweb-docs
+        uses: actions/checkout@v2
+        with:
+          path: content
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Download authors.json & categories.json
+        run: |
+          wget -O content/blog/authors.json https://raw.githubusercontent.com/jaoafa/jaoweb/master/content/blog/authors.json
+          wget -O content/blog/categories.json https://raw.githubusercontent.com/jaoafa/jaoweb/master/content/blog/categories.json
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache node_modules
+        uses: actions/cache@v2
+        id: yarn-cache
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Nuxt build
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt build
+
+      - name: Nuxt generate
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
+
+      - name: Check exists dist
+        run: |
+          ls -la
+          test -d dist
+
+      - name: Set jaoweb SHORT_SHA
+        id: jaoweb-vars
+        run: |
+          echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
+
+      - name: Set jaoweb-docs SHORT_SHA
+        id: docs-vars
+        working-directory: ./content
+        run: echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
+
+      - name: Create dist.tgz
+        run: tar -C dist -cvf dist.tgz .
+
+      - name: Create a Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.docs-vars.outputs.SHORT_SHA }}
+          release_name: Release ${{ steps.date.outputs.date }} (${{ steps.docs-vars.outputs.SHORT_SHA }})
+          draft: false
+          prerelease: true
+          body: |
+            ```markdown
+            ${{ github.event.pull_request.body }}
+            ```
+
+            jaoweb sha: [${{ steps.jaoweb-vars.outputs.SHORT_SHA }}](https://github.com/jaoafa/jaoweb/commit/${{ steps.jaoweb-vars.outputs.SHORT_SHA }})
+            jaoweb-docs sha: ${{ steps.docs-vars.outputs.SHORT_SHA }}
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: dist.tgz
+          asset_name: dist.tgz
+          asset_content_type: application/zip
+
+      - name: Released comment
+        uses: actions/github-script@v4
+        with:
+          script: |
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `# リリースが完了しました\n\n${{ steps.create_release.outputs.html_url }}`
+            })
