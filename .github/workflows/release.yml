@@ -79,9 +79,8 @@ jobs:
         working-directory: ./content
         run: echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
 
-      - name: Create dist zip
-        working-directory: ./dist
-        run: zip dist.zip .
+      - name: Create dist.tgz
+        run: tar -C dist cvf dist.tgz .
 
       - name: Create a Release
         id: create_release
@@ -100,8 +99,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: dist.zip
-          asset_name: dist.zip
+          asset_path: dist.tgz
+          asset_name: dist.tgz
           asset_content_type: application/zip
 
       - name: Released comment
