@@ -78,7 +78,8 @@ jobs:
         run: echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
 
       - name: Create dist.tgz
-        run: tar -C dist -cvf dist.tgz $(ls -A)
+        working-directory: .dist
+        run: tar -cvf ../dist.tgz $(ls -A)
 
       - name: Create a Release
         id: create_release
