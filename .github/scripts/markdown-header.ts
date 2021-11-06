@@ -51,14 +51,14 @@ import { exit } from "process";
     // 執筆者の確認
     const author = fields["author"];
     if (authors.findIndex((x) => x.slug === author) === -1) {
-      console.error(`${file}: 執筆者が正しくありません (${author})`);
+      console.log(`${file}: 執筆者が正しくありません (${author})`);
       return false;
     }
 
     // カテゴリーの確認
     const category = fields["category"];
     if (categories.findIndex((x) => x.slug === category) === -1) {
-      console.error(`${file}: カテゴリが正しくありません (${category})`);
+      console.log(`${file}: カテゴリが正しくありません (${category})`);
       return false;
     }
 
@@ -79,13 +79,12 @@ import { exit } from "process";
   let isValid = true;
   // %f: %m
   for (const file of files) {
-    console.log(file);
     const fields = getHeaderFields(file);
     const fileType = file.includes("blog") ? "blog" : "other";
     const requiredFieldsForFile = requiredFields[fileType];
     for (const field of requiredFieldsForFile) {
       if (!fields[field]) {
-        console.error(`${file}: 必要なフィールド ${field} がありません。`);
+        console.log(`${file}: 必要なフィールド ${field} がありません。`);
         isValid = false;
       }
     }
