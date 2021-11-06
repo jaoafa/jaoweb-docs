@@ -6,7 +6,11 @@ createdAt: 2021-11-04
 updatedAt: 2021-11-04
 ---
 
-Minecraft LauncherがMicrosoftアプリになったせいでプロファイル系が死んだので、被害者が増える前にプロファイルの移行の仕方を伝授します。
+先日、 Minecraft Launcher の [Microsoft Store での配信](https://www.xbox.com/ja-JP/games/store/Minecraft-Launcher/9PGW18NPBZV5) が開始されました。この新しいランチャーでは、「Java Edition」「Bedrock Edition」の両方が利用可能になります。
+
+これまで Minecraft を遊んでこられた方は、今までのランチャーから切り替えを行うことになります。その際に、これまで遊んでいたデータなどを新しいランチャーへ移行したい！という方が多いのではないかと思います。
+
+この記事では、新しい Minecraft Launcher へプロファイルを移行する方法について解説します。
 ※一応自分が動作確認して問題はありませんでしたが、ご自身の責任のもと実行してください。
 
 ## 移行方法
