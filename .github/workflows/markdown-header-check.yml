@@ -36,7 +36,9 @@ jobs:
       - name: Install dependencies & Compile
         working-directory: ./.github/scripts/
         run: |
+          ls -la
           yarn
+          yarn add --dev gray-matter typescript axios @types/node
           tsc markdown-header.ts
 
       - name: Run markdown-header
