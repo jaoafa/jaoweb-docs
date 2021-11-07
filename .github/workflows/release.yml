@@ -92,9 +92,7 @@ jobs:
           draft: false
           prerelease: true
           body: |
-            ```markdown
             ${{ github.event.pull_request.body }}
-            ```
 
             jaoweb sha: [${{ steps.jaoweb-vars.outputs.SHORT_SHA }}](https://github.com/jaoafa/jaoweb/commit/${{ steps.jaoweb-vars.outputs.SHORT_SHA }})
             jaoweb-docs sha: ${{ steps.docs-vars.outputs.SHORT_SHA }}
