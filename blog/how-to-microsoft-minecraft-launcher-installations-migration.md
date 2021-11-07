@@ -2,8 +2,8 @@
 title: Windowsアプリ版Minecraft Launcherにプロファイルを移行する方法
 category: tips
 author: kohonayoshi
-createdAt: 2021-11-04
-updatedAt: 2021-11-04
+createdAt: 2021-11-07
+updatedAt: 2021-11-07
 ---
 
 先日、 Minecraft Launcher の [Microsoft Store での配信](https://www.xbox.com/ja-JP/games/store/Minecraft-Launcher/9PGW18NPBZV5) が開始されました。この新しいランチャーでは、「Java Edition」「Bedrock Edition」の両方が利用可能になります。
