@@ -46,6 +46,17 @@ jobs:
       - name: Install dependencies
         run: yarn
 
+      - name: Nuxt build
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt build
+
+      - name: Nuxt generate
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
+
+      - name: Check exists dist
+        run: |
+          ls -la
+          test -d dist
+
       - name: Install dependencies in gen-page-preview
         working-directory: ./content/.github/gen-page-preview/
         run: yarn
