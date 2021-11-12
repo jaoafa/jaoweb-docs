@@ -1,5 +1,5 @@
 import { Octokit } from "@octokit/rest";
-import { test } from "@playwright/test";
+import { Page, test } from "@playwright/test";
 import { execSync } from "child_process";
 import fs from "fs";
 import ImgurAnonymousUploader from "imgur-anonymous-uploader";
@@ -14,6 +14,24 @@ const OWNER = process.env.GITHUB_REPOSITORY!.split("/")[0];
 const REPO = process.env.GITHUB_REPOSITORY!.split("/")[1];
 const ISSUE_NUMBER = parseInt(process.env.ISSUE_NUMBER);
 const IMGUR_CLIENT_ID = process.env.IMGUR_CLIENT_ID;
+
+async function scrollFullPage(page: Page) {
+  await page.evaluate(async () => {
+    await new Promise<void>(resolve => {
+      let totalHeight = 0;
+      const distance = 100;
+      const timer = setInterval(() => {
+        const scrollHeight = document.body.scrollHeight;
+        window.scrollBy(0, distance);
+        totalHeight += distance;
+
+        if (totalHeight >= scrollHeight){
+          clearInterval(timer);
+          resolve();
+        }
+      }, 100);
+    });
+  });
 
 test("page screenshot", async ({ page }) => {
   const files = execSync(
@@ -42,6 +60,7 @@ test("page screenshot", async ({ page }) => {
     const url = "http://localhost:3000/" + filename;
     console.log("URL: " + url);
     await page.goto(url, { waitUntil: "networkidle" });
+    await scrollFullPage(page);
     await page.screenshot({
       path: "screenshots/" + file + ".png",
       fullPage: true,
