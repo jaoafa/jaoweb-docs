@@ -47,11 +47,11 @@ jobs:
         run: yarn
 
       - name: Install dependencies in gen-page-preview
-        working-directory: ./.github/gen-page-preview/
+        working-directory: ./content/.github/gen-page-preview/
         run: yarn
 
       - name: Generate page screenshots
-        working-directory: ./.github/gen-page-preview/
+        working-directory: ./content/.github/gen-page-preview/
         run: yarn playwright test --config=playwright.config.ts main.spec.ts
         env:
          ISSUE_NUMBER: ${{ github.event.number }}
