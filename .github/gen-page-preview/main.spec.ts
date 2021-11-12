@@ -16,7 +16,12 @@ const ISSUE_NUMBER = parseInt(process.env.ISSUE_NUMBER);
 const IMGUR_CLIENT_ID = process.env.IMGUR_CLIENT_ID;
 
 test("page screenshot", async ({ page }) => {
-  const files = execSync("git diff --diff-filter=ACMR --name-only HEAD^1 HEAD")
+  const files = execSync(
+    "git diff --diff-filter=ACMR --name-only HEAD^1 HEAD",
+    {
+      cwd: process.env.GITHUB_WORKSPACE + "/content/",
+    }
+  )
     .toString()
     .split("\n");
 

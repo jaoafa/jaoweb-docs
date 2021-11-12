@@ -20,6 +20,7 @@ jobs:
         with:
           path: content
           ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
 
       - name: Download authors.json & categories.json
         run: |
