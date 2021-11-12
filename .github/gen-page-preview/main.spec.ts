@@ -34,8 +34,8 @@ test("page screenshot", async ({ page }) => {
   const screenshot_files = [];
   for (const file of files.filter((s) => s.endsWith(".md"))) {
     console.log("File: " + file);
-    const filename = file.endsWith("/index.md")
-      ? file.slice(0, -10)
+    const filename = file.endsWith("index.md")
+      ? file.slice(0, -8)
       : file.endsWith(".md")
       ? file.slice(0, -3)
       : file;
