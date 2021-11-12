@@ -33,7 +33,15 @@ test("page screenshot", async ({ page }) => {
 
   const screenshot_files = [];
   for (const file of files.filter((s) => s.endsWith(".md"))) {
-    await page.goto("http://localhost:3000/" + file, { waitUntil: "load" });
+    console.log("File: " + file);
+    const filename = file.endsWith("/index.md")
+      ? file.slice(0, -10)
+      : file.endsWith(".md")
+      ? file.slice(0, -3)
+      : file;
+    const url = "http://localhost:3000/" + filename;
+    console.log("URL: " + url);
+    await page.goto(url, { waitUntil: "load" });
     await page.screenshot({
       path: "screenshots/" + file + ".png",
       fullPage: true,
