@@ -67,7 +67,7 @@ jobs:
 
       - name: Generate page screenshots
         working-directory: ./content/.github/gen-page-preview/
-        run: yarn playwright test --config=playwright.config.ts main.spec.ts
+        run: yarn playwright test --config=playwright.config.ts --browser=firefox main.spec.ts
         env:
          ISSUE_NUMBER: ${{ github.event.number }}
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
