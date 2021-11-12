@@ -41,7 +41,7 @@ test("page screenshot", async ({ page }) => {
       : file;
     const url = "http://localhost:3000/" + filename;
     console.log("URL: " + url);
-    await page.goto(url, { waitUntil: "load" });
+    await page.goto(url, { waitUntil: "networkidle" });
     await page.screenshot({
       path: "screenshots/" + file + ".png",
       fullPage: true,
