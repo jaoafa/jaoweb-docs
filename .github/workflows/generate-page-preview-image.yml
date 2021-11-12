@@ -46,17 +46,14 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Nuxt build
-        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt build
-
-      - name: Nuxt generate
-        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
-
-      - name: Check exists dist
-        run: |
-          ls -la
-          test -d dist
+      - name: Install dependencies in gen-page-preview
+        working-directory: ./.github/gen-page-preview/
+        run: yarn
 
       - name: Generate page screenshots
         working-directory: ./.github/gen-page-preview/
         run: yarn playwright test --config=playwright.config.ts main.spec.ts
+        env:
+         ISSUE_NUMBER: ${{ github.event.number }}
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
