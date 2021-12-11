@@ -8,12 +8,14 @@ import ImgurAnonymousUploader from "imgur-anonymous-uploader";
 // GITHUB_REPOSITORY: 所有者およびリポジトリの名前
 // ISSUE_NUMBER: プルリクの番号 (envでgithub.event.numberを渡す必要あり)
 // GITHUB_TOKEN: GitHub API トークン (envでsecrets.GITHUB_TOKENを渡す必要あり)
+// BASE_SHA: プルリクのベース SHA
 // IMGUR_CLIENT_ID: Imgur クライアント ID (オプション)
 
 const OWNER = process.env.GITHUB_REPOSITORY!.split("/")[0];
 const REPO = process.env.GITHUB_REPOSITORY!.split("/")[1];
 const ISSUE_NUMBER = parseInt(process.env.ISSUE_NUMBER);
 const IMGUR_CLIENT_ID = process.env.IMGUR_CLIENT_ID;
+const BASE_SHA = process.env.BASE_SHA;
 
 async function scrollFullPage(page: Page) {
   await page.evaluate(async () => {
@@ -36,7 +38,7 @@ async function scrollFullPage(page: Page) {
 
 test("page screenshot", async ({ page }) => {
   const files = execSync(
-    "git diff --diff-filter=ACMR --name-only master HEAD",
+    "git diff --diff-filter=ACMR --name-only " + BASE_SHA + " HEAD",
     {
       cwd: process.env.GITHUB_WORKSPACE + "/content/",
     }
