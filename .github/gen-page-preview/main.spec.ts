@@ -62,6 +62,9 @@ test("page screenshot", async ({ page }) => {
     console.log("URL: " + url);
     await page.goto(url, { waitUntil: "networkidle" });
     await scrollFullPage(page);
+    await page.evaluate(() => {
+      window.scrollBy(0, -document.body.scrollHeight);
+    });
     await page.screenshot({
       path: "screenshots/" + file + ".png",
       fullPage: true,
