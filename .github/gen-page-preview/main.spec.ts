@@ -36,7 +36,7 @@ async function scrollFullPage(page: Page) {
 
 test("page screenshot", async ({ page }) => {
   const files = execSync(
-    "git diff --diff-filter=ACMR --name-only master HEAD",
+    "git diff --diff-filter=ACMR --name-only main HEAD",
     {
       cwd: process.env.GITHUB_WORKSPACE + "/content/",
     }
