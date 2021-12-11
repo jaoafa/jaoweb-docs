@@ -20,7 +20,7 @@ jobs:
         with:
           path: content
           ref: ${{ github.event.pull_request.head.sha }}
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Download authors.json & categories.json
         run: |
@@ -71,4 +71,5 @@ jobs:
         env:
          ISSUE_NUMBER: ${{ github.event.number }}
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         BASE_SHA: ${{ github.event.pull_request.base.sha }}
          IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
