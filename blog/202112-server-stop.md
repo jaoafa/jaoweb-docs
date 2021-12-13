@@ -3,7 +3,7 @@ title: Minecraftサーバ停止のお知らせ
 category: news
 author: tomachi
 createdAt: 2021-12-11
-updatedAt: 2021-12-11
+updatedAt: 2021-12-13
 ---
 
 jao Minecraft Server では、Minecraft サーバのサービス提供を一時停止することとなりました。  
@@ -19,7 +19,8 @@ jao Minecraft Server では、Minecraft サーバのサービス提供を一時�
 
 - 2021年12月9日 10時58分より安全性が確認されるまでの間、Minecraft サーバにおけるサービス提供を一時停止いたします。この間、Minecraft サーバにログインすることはできません。
 - Minecraft サーバが停止している間、各種投票サイトにおける投票は行えません。また今回の事案に関して、投票の補填は行いません。
-- jao Minecraft Server の公式 Web サイト、及び公式 Discord サーバに関しては通常通りご利用いただけます。
+- jao Minecraft Server の公式 Web サイト、および公式 Discord サーバに関しては通常通りご利用いただけます。
+- Minecraft アカウントと公式 Discord サーバにおける[連携の自動切断](https://jaoafa.com/server/rules/discord/#免責事項)について、ログイン期限を一律で2022年1月31日 23時59分59秒まで延長しました。
 
 ## 参考記事
 
