@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=datetime::$(date +'+%Y%m%d-%H%M%S')"
+        run: echo "::set-output name=datetime::$(date +'%Y%m%d-%H%M%S')"
 
       - name: Clone jaoafa/jaoweb
         uses: actions/checkout@v2
