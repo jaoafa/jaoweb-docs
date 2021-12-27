@@ -1,6 +1,7 @@
 name: Release
 
 on:
+  workflow_dispatch:
   pull_request_target:
     branches:
       - main
@@ -10,12 +11,12 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true
 
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "::set-output name=datetime::$(date +'+%Y%m%d-%H%M%S')"
 
       - name: Clone jaoafa/jaoweb
         uses: actions/checkout@v2
@@ -29,7 +30,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: content
-          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Download authors.json & categories.json
         run: |
@@ -87,8 +87,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ steps.docs-vars.outputs.SHORT_SHA }}
-          release_name: Release ${{ steps.date.outputs.date }} (${{ steps.docs-vars.outputs.SHORT_SHA }})
+          tag_name: v${{ steps.date.outputs.datetime }}
+          release_name: Release v${{ steps.date.outputs.datetime }}
           draft: false
           prerelease: true
           body: |
