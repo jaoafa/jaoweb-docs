@@ -5,5 +5,6 @@ const config: PlaywrightTestConfig = {
     cwd: process.env.GITHUB_WORKSPACE,
     port: 3000,
   },
+  timeout: 0
 };
 export default config;
