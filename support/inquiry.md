@@ -23,7 +23,7 @@ Minecraft開発元(Mojang)へのお問い合わせを希望される場合は[�
 
 ### お願い
 
-- **GlobalBanなどの各種処罰の解除申請は[公式Discordサーバ](/blog/join-discord)の#supportチャンネルから行ってください。お問い合わせフォームでは原則として受け付けておりません。**
+- **VanillaBanなどの各種処罰の解除申請は[公式Discordサーバ](/blog/join-discord)の#supportチャンネルから行ってください。お問い合わせフォームでは原則として受け付けておりません。**
 - jao Minecraft Server はJavaEdition(PC版)向けのサーバです。Bedrock Edition(iOS, Android, Xbox, Nintendo Switch, Windows 10 Edition)等からはログインできませんのでご注意ください。
 - 回答内容の一部または全部を転用したり、二次利用することはご遠慮ください。
 - お問い合わせ内容によっては回答までにお時間を頂く場合や、お答えできない場合がございます。

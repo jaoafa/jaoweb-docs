@@ -40,7 +40,6 @@ updatedAt: 2021-09-27
 - EdenBan (EBan)
 - ChatBan
 - VanillaBan (VBan)
-- LocalBan (LBan)
 
 ### jMS Jail (Jail)
 
@@ -72,7 +71,6 @@ jao Minecraft Server MyMaid4プラグイン
 - Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>。
 - 公式Discordサーバの利用は<span style="color: green">可能です</span>。
 - ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
 - 他サーバに<span style="color: green">影響しません</span>。
 
 #### 処罰の変更・取消申請方法
@@ -118,7 +116,6 @@ jao Minecraft Server MyMaid4プラグイン
 - Minecraftサーバ内コマンド実行は<span style="color: red">不可能です</span>。
 - 公式Discordサーバの利用は<span style="color: green">可能です</span>。
 - ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
 - 他サーバに<span style="color: green">影響しません</span>。
 
 #### 処罰の変更・取消申請方法
@@ -155,7 +152,6 @@ jao Minecraft Server MyMaid4プラグイン
 - Minecraftサーバ内コマンド実行は<span style="color: green">可能です</span>。
 - 公式Discordサーバの利用は<span style="color: green">可能です</span>。
 - ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
 - 他サーバに<span style="color: green">影響しません</span>。
 
 #### 処罰の変更・取消申請方法
@@ -170,7 +166,6 @@ Minecraftの元々唯一のBan機能であるローカルBanのことを指し�
 
 以下の用途で実施されます。
 
-- LBanを実行するほどの迷惑行為ではない場合
 - 当サーバの独自ルール等への違反が見られた場合
 
 #### 処罰実施・取消可能者
@@ -190,53 +185,8 @@ Minecraft バニラ
 - 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>。
 - 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
 - ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: green">表示されません</span>。
 - 他サーバに<span style="color: green">影響しません</span>。
 
 #### 処罰の変更・取消申請方法
 
 [公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
-
-### MCBans Local Ban (LBan)
-
-MCBansプラグインが提供するローカル的なBanです。
-
-#### 処罰条件
-
-以下の用途で実施されます。
-
-- VBanを実行するほどの迷惑行為ではない場合
-- jao Minecraft Serverの独自ルール等への違反が見られた場合
-
-#### 処罰実施・取消可能者
-
-この処罰を実施できるのは、以下の権限グループに所属する利用者のみです。
-
-- Moderator
-- Admin
-
-#### 処罰発行元
-
-MCBansプラグイン
-
-#### 違反者にかかる規制
-
-- Minecraftサーバへのログインは<span style="color: red">不可能です</span>。
-- 対象利用者によるブロック設置破壊は<span style="color: red">ロールバックされます</span>。
-- Minecraftサーバ内チャットは<span style="color: red">不可能です</span>。
-- 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
-- ユーザーページに<span style="color: red">表示されます</span>。
-- MCBansに<span style="color: red">表示されます</span>。
-- 他サーバに<span style="color: green">影響しません</span>。
-
-#### 処罰の変更・取消申請方法
-
-[公式Discordサーバ](/blog/join-discord)の`#support`チャンネルでのみ受け付けます。
-
-### 上記以外の各種禁止処置
-
-上記以外に、以下の対応がとられる場合もあります。
-
-- 特定ブロックの設置・破壊権限の剥奪
-- 設置・破壊したブロックの全ロールバック(元に戻すこと)
-- コマンドの実行権限の剥奪
