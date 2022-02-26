@@ -68,11 +68,6 @@ updatedAt: 2021-09-27
 サーバの稼働状況については[こちら](https://status.jaoafa.com)をご確認ください。
 またサーバが停止する際は、公式Discordサーバでも情報提供を行います。
 
-## MCBansについて
-
-当サーバでは、Minecraftプラグイン`MCBans`を導入しています。  
-これにより他団体が運営するMinecraftサーバと、Ban情報の共有を行っています。
-
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
