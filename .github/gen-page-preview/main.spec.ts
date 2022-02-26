@@ -62,7 +62,7 @@ test("page screenshot", async ({ page }) => {
       : file;
     const url = "http://localhost:3000/" + filename;
     console.log("URL: " + url);
-    await page.goto(url, { waitUntil: "networkidle" });
+    await page.goto(url, { waitUntil: "domcontentloaded" });
     await scrollFullPage(page);
     await page.evaluate(() => {
       window.scrollBy(0, -document.body.scrollHeight);
