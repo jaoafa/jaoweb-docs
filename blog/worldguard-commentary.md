@@ -4,7 +4,7 @@ description: 建物を保護したり、細く設定をいじれる「WorldGuard
 category: modification
 author: tomachi
 image: https://storage.jaoafa.com/7c4f32739133a00d22e277db615250b1.png
-createdAt: 2018-10-9
+createdAt: 2018-10-09
 updatedAt: 2021-01-03
 ---
 
@@ -50,7 +50,7 @@ defineの場合は保護数とブロック数制限がないみたいです。
 3. 範囲をきちんと指定したことを確認して、コマンド「`/rg claim <保護名>`」と入力し、実行しましょう。保護名に日本語を指定することは出来ません。
 4. 「`A new region has been claimed named '保護名'.`」(黄色)と表示されれば成功です。
 
-なお、爆新地(スポーン周辺の自由建築エリア)で保護を新規に登録する場合は、「`/bakushinchi claim <保護名>`」をご利用ください。メンバーやフラグ等の設定は通常の「`/rg`」コマンドを用いて設定することができます。
+なお、中央市(スポーン周辺の自由建築エリア)で保護を新規に登録する場合は、「`/chuocity claim <保護名>`」をご利用ください。メンバーやフラグ等の設定は通常の「`/rg`」コマンドを用いて設定することができます。
 
 #### エラー概要
 
@@ -108,7 +108,7 @@ WorldEditで広げたあとの保護範囲を選択し、`/rg redefine <保護�
 ### 保護にメンバーを追加する
 
 基本的に、claimで保護を設定した場合、設定者以外はその中で建築等ができなくなります。  
-複数人で建築をする場合などは「`/rg addmember <保護名> <MinecraftID>`」と実行して保護にメンバーを追加してください。「`addmember`」以外にも「`rm`」などでも同等の機能を利用できます。  
+複数人で建築をする場合などは「`/rg addmember <保護名> <MinecraftID>`」と実行して保護にメンバーを追加してください。「`addmember`」以外にも「`am`」などでも同等の機能を利用できます。  
 「`Region '<保護名>' updated with new members.`」(黄色)と表示されれば、追加は成功です。
 
 `<MinecraftID>`に複数のプレイヤーを指定することもできます。例: `/rg addmember <保護名> X4Z mine_book000 Hirotaisou2012`
