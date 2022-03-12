@@ -96,7 +96,8 @@ test("page screenshot", async ({ page }) => {
   }
 
   const images = screenshot_urls.map(
-    (o) => `## ${o.file} \n\n![${o.file}](${o.url})\n`
+    (o) =>
+      `<details>\n<summary>${o.file}</summary>\n\n## ${o.file} \n\n![${o.file}](${o.url})\n</details>\n`
   );
   const comments = await octokit.issues.listComments({
     owner: OWNER,
