@@ -173,5 +173,5 @@ function getGrayMatter(content: string): {
     }
   }
 
-  exit(isValid ? 0 : 1);
+  process.exitCode = isValid ? 0 : 1;
 })();
