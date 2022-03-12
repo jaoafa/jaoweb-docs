@@ -1,11 +1,30 @@
 import axios from "axios";
+import * as crypto from "crypto";
 import * as fs from "fs";
 import * as matter from "gray-matter";
 import * as path from "path";
 import { exit } from "process";
 
+interface FileDetails {
+  filePath: string;
+  fields: {
+    [key: string]: any;
+  };
+  oldFile: string | null;
+  isChanged: boolean;
+}
+
+function getGrayMatter(content: string): {
+  data: {
+    [key: string]: any;
+  };
+} {
+  // @ts-ignore
+  return matter(content);
+}
+
 (async () => {
-  const getAllFiles = (searchPath: string) => {
+  function getAllFiles(searchPath: string) {
     const files = fs.readdirSync(searchPath);
     const results: string[] = [];
 
@@ -20,17 +39,28 @@ import { exit } from "process";
       }
     });
     return results;
-  };
-  const getHeaderFields = (filePath: string) => {
-    const content = fs.readFileSync(filePath, "utf8");
-    const { data } = matter(content);
-    return data;
-  };
+  }
 
-  const getHTTPContent = async (url: string) => {
-    const response = await axios.get(url);
-    return response.data;
-  };
+  function getHeaderFields(filePath: string): {
+    [key: string]: any;
+  } {
+    const content = fs.readFileSync(filePath, "utf8");
+    const { data } = getGrayMatter(content);
+    return data;
+  }
+
+  async function getHTTPContent(url: string): Promise<any | null> {
+    try {
+      const response = await axios.get(url);
+      if (response.status !== 200) {
+        return null;
+      }
+      return response.data;
+    } catch (error) {
+      console.warn(error);
+      return null;
+    }
+  }
 
   const files = getAllFiles(".")
     .filter((x) => x.endsWith(".md"))
@@ -42,32 +72,60 @@ import { exit } from "process";
     other: ["title", "description", "createdAt", "updatedAt"],
   };
 
-  const forBlog = async (
-    file: string,
-    fields: { [key: string]: any },
+  async function forBlog(
+    fileDetails: FileDetails,
     authors: [{ [key: string]: any }],
     categories: [{ [key: string]: any }]
-  ) => {
+  ) {
+    const file = fileDetails.filePath;
+    const oldFile = fileDetails.oldFile;
+    const fields = fileDetails.fields;
+    const isChanged = fileDetails.isChanged;
+
     // 執筆者の確認
     const author = fields["author"];
     if (authors.findIndex((x) => x.slug === author) === -1) {
-      console.log(`${file}: 執筆者が正しくありません (${author})`);
+      console.warn(`${file}: 執筆者が正しくありません (${author})`);
       return false;
     }
 
     // カテゴリーの確認
     const category = fields["category"];
     if (categories.findIndex((x) => x.slug === category) === -1) {
-      console.log(`${file}: カテゴリが正しくありません (${category})`);
+      console.warn(`${file}: カテゴリが正しくありません (${category})`);
       return false;
     }
 
-    return true;
-  };
+    if (oldFile !== null && isChanged) {
+      const oldFields = getGrayMatter(oldFile).data;
+      if (oldFields["updatedAt"] == fields["updatedAt"]) {
+        console.warn(
+          `${file}: 更新日時が変更されていません (${fields["updatedAt"]})`
+        );
+        return false;
+      }
+    }
 
-  const forOther = (file: string, fields: { [key: string]: any }) => {
     return true;
-  };
+  }
+
+  async function forOther(fileDetails: FileDetails) {
+    const file = fileDetails.filePath;
+    const oldFile = fileDetails.oldFile;
+    const fields = fileDetails.fields;
+    const isChanged = fileDetails.isChanged;
+
+    if (oldFile !== null && isChanged) {
+      const oldFields = getGrayMatter(oldFile).data;
+      if (oldFields["updatedAt"].toString() == fields["updatedAt"].toString()) {
+        console.warn(
+          `${file}: 更新日時が変更されていません (${fields["updatedAt"]})`
+        );
+        return false;
+      }
+    }
+    return true;
+  }
 
   const authors = await getHTTPContent(
     "https://raw.githubusercontent.com/jaoafa/jaoweb/master/content/blog/authors.json"
@@ -84,16 +142,33 @@ import { exit } from "process";
     const requiredFieldsForFile = requiredFields[fileType];
     for (const field of requiredFieldsForFile) {
       if (!fields[field]) {
-        console.log(`${file}: 必要なフィールド ${field} がありません。`);
+        console.warn(`${file}: 必要なフィールド ${field} がありません。`);
         isValid = false;
       }
     }
 
+    const oldFile = await getHTTPContent(
+      `https://raw.githubusercontent.com/jaoafa/jaoweb-docs/main/${file.replace(
+        /\\/g,
+        "/"
+      )}`
+    );
+    const content = fs.readFileSync(file, "utf8");
+
+    const fileDetails: FileDetails = {
+      filePath: file,
+      fields: fields,
+      oldFile: oldFile,
+      isChanged:
+        crypto.createHash("sha256").update(oldFile).digest("hex") !=
+        crypto.createHash("sha256").update(content).digest("hex"),
+    };
+
     if (fileType == "blog") {
-      const vaild = forBlog(file, fields, authors, categories);
+      const vaild = await forBlog(fileDetails, authors, categories);
       if (!vaild) isValid = false;
     } else {
-      const vaild = forOther(file, fields);
+      const vaild = await forOther(fileDetails);
       if (!vaild) isValid = false;
     }
   }

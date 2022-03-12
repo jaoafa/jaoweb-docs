@@ -43,7 +43,10 @@ jobs:
 
       - name: Run markdown-header
         run: |
-          node .github/markdown-header-check/markdown-header.js | tee markdown-header-output.txt
-          cat markdown-header-output.txt | reviewdog -efm="%f: %m" -name="markdown-header" -reporter=github-pr-review
+          node .github/markdown-header-check/markdown-header.js 2>&1 | tee markdown-header-output.txt
+          EXITCODE=$?
+          echo $EXITCODE
+          cat markdown-header-output.txt 1>&2 | reviewdog -efm="%f: %m" -name="markdown-header" -reporter=github-pr-review
+          if [ $EXITCODE -ne 0 ]; then exit 1; fi
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
