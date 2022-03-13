@@ -1,10 +1,10 @@
 ---
-title: WorldEditCUIの導入解説【1.16.5・Forge版】
+title: WorldEditCUIの導入解説【Forge版】
 description: WorldEditの選択範囲を可視化できる「WorldEditCUI」の導入方法と、簡単な使用方法を解説します。
 category: modification
 author: ekipa
 createdAt: 2018-05-02
-updatedAt: 2021-04-21
+updatedAt: 2022-03-13
 ---
 
 ## WorldEditCUIとは？
@@ -14,6 +14,11 @@ updatedAt: 2021-04-21
 ![範囲選択のイメージ画像](https://storage.jaoafa.com/5f16806d5de1fa1ff90bdd17557cac61.jpg)
 
 jao Minecraft Server では、Modを導入していない方でも選択範囲が表示されるように設定されていますが、一定のブロック数を超えると表示されなくなったりします。なので、Modの導入をおすすめしています。
+
+2022年3月現在、WorldEditCUIはバージョン1.16.5までにのみ対応しており、1.18などでは利用することはできません。  
+※WorldEditCUIの開発ページ (GitHub)にバージョン1.18.1の開発版があるようです。あくまでも開発版なので、使うのであれば**自己責任で**使って下さい。Forge版ではなく**Fabric版**のようです。
+
+- [WorldEditCUIの開発版](https://github.com/EngineHub/WorldEditCUI/actions/runs/1666058401)
 
 ## 解説環境
 
