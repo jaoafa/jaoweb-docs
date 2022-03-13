@@ -15,10 +15,10 @@ updatedAt: 2022-03-13
 
 jao Minecraft Server では、Modを導入していない方でも選択範囲が表示されるように設定されていますが、一定のブロック数を超えると表示されなくなったりします。なので、Modの導入をおすすめしています。
 
-2022年3月現在、WorldEditCUIはバージョン1.16.5までにのみ対応しており、1.18などでは利用することはできません。  
+2022年3月13日現在、WorldEditCUIはバージョン1.16.5までにのみ対応しており、1.18などでは利用することはできません。  
 ※WorldEditCUIの開発ページ (GitHub)にバージョン1.18.1の開発版があるようです。あくまでも開発版なので、使うのであれば**自己責任で**使って下さい。Forge版ではなく**Fabric版**のようです。
 
-- [WorldEditCUIの開発版](https://github.com/EngineHub/WorldEditCUI/actions/runs/1666058401)
+- [WorldEditCUIの開発版](https://github.com/EngineHub/WorldEditCUI/releases/tag/1.18.1%2B01)
 
 ## 解説環境
 
