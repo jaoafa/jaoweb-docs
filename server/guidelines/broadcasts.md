@@ -1,5 +1,6 @@
 ---
 title: 撮影・動画配信に関するガイドライン
+description: jao Minecraft Serverと、関連するサービスにおいての「撮影・動画配信」について、運営側の方針と利用者のガイドラインを定義します。
 image: https://storage.jaoafa.com/07602493134c9bf0a102c34304de2494.png
 createdAt: 2019-12-12
 updatedAt: 2021-09-27
