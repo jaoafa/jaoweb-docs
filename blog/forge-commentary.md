@@ -1,14 +1,16 @@
 ---
-title: Forgeの導入解説【1.16.5版】
-description: 様々なModの前提Modとなる「Minecraft Forge」の導入方法を1.16.5環境で解説します。
+title: Forgeの導入解説
+description: 様々なModの前提Modとなる「Minecraft Forge」の導入方法を解説します。
 category: modification
 author: ekipa
 image: https://storage.jaoafa.com/5aa42e5d871f5287311d4fe055c003d1.png
 createdAt: 2021-05-03
-updatedAt: 2021-05-03
+updatedAt: 2022-03-13
 ---
 
 この記事では、様々なModの前提Modとなる「**Minecraft Forge**」の導入方法などを解説します。
+
+バージョン1.16.5環境での解説になりますが、基本的にどのバージョンでもダウンロードの手順は変わりませんので、適宜読み替えてご覧ください。
 
 ## 解説環境
 
