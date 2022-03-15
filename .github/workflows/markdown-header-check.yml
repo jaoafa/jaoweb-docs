@@ -8,6 +8,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+           ref: ${{ github.event.pull_request.head.sha }}
 
       - uses: actions/setup-node@v2
         with:
@@ -31,13 +33,16 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - name: Install dependencies
+      - name: Install dependencies & Compile
+        working-directory: ./.github/markdown-header-check/
         run: |
-          yarn add gray-matter typescript
-          yarn add --dev @types/node
+          ls -la
+          yarn
+          yarn add --dev gray-matter typescript axios @types/node
+          tsc markdown-header.ts
 
       - name: Run markdown-header
         run: |
-          node .github/scripts/markdown-header.js | reviewdog -efm="%f: %m" -name="markdown-header" -reporter=github-pr-review
+          node .github/markdown-header-check/markdown-header.js
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}

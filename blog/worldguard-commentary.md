@@ -4,8 +4,8 @@ description: 建物を保護したり、細く設定をいじれる「WorldGuard
 category: modification
 author: tomachi
 image: https://storage.jaoafa.com/7c4f32739133a00d22e277db615250b1.png
-createdAt: 2018-10-9
-updatedAt: 2021-01-03
+createdAt: 2018-10-09
+updatedAt: 2022-03-13
 ---
 
 この記事では、建築物を保護したり、その範囲に入ったときにメッセージを表示したりするプラグイン、「**WorldGuard**」の解説をします。
@@ -25,13 +25,13 @@ updatedAt: 2021-01-03
 
 ## 解説環境
 
-- Spigot(Bukkit) 1.12.2
-- WorldGuard 6.2.1;84bc322
+- Paper 1.18.2
+- WorldGuard 7.0.7 216b061
 
 ## 対象読者・事前習得が必要なもの
 
-- WorldEditを用いて簡単・複雑な範囲選択ができること(保護範囲の指定ができること)
-- WorldEditの範囲選択権限があること(当サーバであれば[Verified権限](/server/policies/permissions)以上)
+- WorldEditを用いて簡単・複雑な範囲選択ができること (保護範囲の指定ができること)
+- WorldEditの範囲選択権限があること (当サーバであれば[Verified権限](/server/policies/permissions)以上)
 
 ## 必ず覚えておくべきコマンド
 
@@ -50,7 +50,7 @@ defineの場合は保護数とブロック数制限がないみたいです。
 3. 範囲をきちんと指定したことを確認して、コマンド「`/rg claim <保護名>`」と入力し、実行しましょう。保護名に日本語を指定することは出来ません。
 4. 「`A new region has been claimed named '保護名'.`」(黄色)と表示されれば成功です。
 
-なお、爆新地(スポーン周辺の自由建築エリア)で保護を新規に登録する場合は、「`/bakushinchi claim <保護名>`」をご利用ください。メンバーやフラグ等の設定は通常の「`/rg`」コマンドを用いて設定することができます。
+なお、中央市(スポーン周辺の自由建築エリア)で保護を新規に登録する場合は、「`/chuocity claim <保護名>`」をご利用ください。メンバーやフラグ等の設定は通常の「`/rg`」コマンドを用いて設定することができます。
 
 #### エラー概要
 
@@ -69,9 +69,9 @@ defineの場合は保護数とブロック数制限がないみたいです。
 
 ### いまいる場所の保護情報を確認する
 
-![保護範囲情報の例](https://storage.jaoafa.com/985fab5ddb9552c019ec92dfd40e55f4.PNG)
+![保護範囲情報の例](https://storage.jaoafa.com/0aae27ad26c4c135c5d53692648ff884.PNG)
 
-保護の範囲に居て、その保護の情報を確認したい場合は「`/rg info`」コマンドを使用しましょう。「`info`」以外にも「`i (/rg i)`」でも同様の機能を利用できます。
+保護の範囲に居て、その保護の情報を確認したい場合は「`/rg info`」コマンドを使用しましょう。「`info`」以外にも「`i` (`/rg i`)」でも同様の機能を利用できます。
 自分が保護内にいなくても「`/rg info <保護名>`」で情報を表示することが出来ます。  
 表示された「`Region Info`」の内容がその保護の情報です。
 
@@ -103,12 +103,12 @@ WorldEditで広げたあとの保護範囲を選択し、`/rg redefine <保護�
 
 フラグの一覧や、フラグについての解説は別記事で行っております。
 
-- <del>[WorldGuardのフラグ一覧](https://jaoafa.com/blog/minhero_exp/worldguard_flag-list)
+- [WorldGuardのフラグ一覧](https://wiki.jaoafa.com/WorldGuard%E3%81%AE%E3%83%95%E3%83%A9%E3%82%B0%E4%B8%80%E8%A6%A7)
 
 ### 保護にメンバーを追加する
 
 基本的に、claimで保護を設定した場合、設定者以外はその中で建築等ができなくなります。  
-複数人で建築をする場合などは「`/rg addmember <保護名> <MinecraftID>`」と実行して保護にメンバーを追加してください。「`addmember`」以外にも「`rm`」などでも同等の機能を利用できます。  
+複数人で建築をする場合などは「`/rg addmember <保護名> <MinecraftID>`」と実行して保護にメンバーを追加してください。「`addmember`」以外にも「`am`」などでも同等の機能を利用できます。  
 「`Region '<保護名>' updated with new members.`」(黄色)と表示されれば、追加は成功です。
 
 `<MinecraftID>`に複数のプレイヤーを指定することもできます。例: `/rg addmember <保護名> X4Z mine_book000 Hirotaisou2012`
