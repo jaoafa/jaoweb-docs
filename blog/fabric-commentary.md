@@ -3,6 +3,7 @@ title: Fabricの導入解説
 description: 様々なModの前提ローダーとなる「Fabric」と Fabric Mod「Fabric API」、「Mod Menu」の導入方法を解説します。
 category: modification
 author: tomachi
+image: https://storage.jaoafa.com/f4aa83380977d316c0f76e24da551d76.png
 createdAt: 2022-03-16
 updatedAt: 2022-03-16
 ---
