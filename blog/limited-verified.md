@@ -20,7 +20,7 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
 権限"Limited Verified"を取得するためには、以下の条件をすべて満たすことが必要となります。
 
 - [Discord](https://wiki.jaoafa.com/jMS_Gamers_Club)において次の理由によりアカウントを作成できない利用者であること
-    1. ユーザが13歳未満であり、[Discord社が定めるサービス利用規約](https://discord.com/terms#親および保護者の年齢の要件と責任)を根拠に Discordアカウントが作成できないため。
+    1. ユーザが13歳未満であり、[Discord公式が定めるサービス利用規約](https://discord.com/terms#親および保護者の年齢の要件と責任)を根拠に Discordアカウントが作成できないため。
     2. 保護者からの指導により、SNSの利用が禁じられているため。
     3. ファイヤーウォールなどにより、Discordに対するアクセスが遮断されるため。
     4. その他、運営が正当だと認める事由があるため。
