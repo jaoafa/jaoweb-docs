@@ -50,4 +50,4 @@ Discordに参加せずにVerified権限を取得することになるため、�
 
 - 申請内容をもとに、運営は権限付与の認否を検討します。
 - Limited Verified権限を付与された場合、`/player`などでの表記は`Verified`となります。
-- Limited Verified権限のプレイヤーは[Googleドライブのスプレッドシート](https://docs.google.com/spreadsheets/d/18bNo0br4VakY65N16DZEwNafUPRV9TtToSQNPgxfbGI/edit?usp=sharing)で管理しています。
+- Limited Verified権限のプレイヤーは[Googleドライブのスプレッドシート](https://docs.google.com/spreadsheets/d/18bNo0br4VakY65N16DZEwNafUPRV9TtToSQNPgxfbGI/edit?usp=sharing)で管理をしています。
