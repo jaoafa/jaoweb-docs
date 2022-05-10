@@ -122,7 +122,7 @@ Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用する
 その他の事由も含めDiscordが利用できないユーザがいることを鑑み、代替措置として別途申請を行ったユーザは、Verified権限と同じ権限を得ることができます。  
 詳しくは[個別記事](/blog/limited-verified)をご確認ください。
 
-## jao Minecraft Serverの運営と連絡を取りたい
+## Q. jao Minecraft Serverの運営と連絡を取りたい
 
 以下の手段を用いて、運営へ問い合わせをして頂くことが可能です。
 
