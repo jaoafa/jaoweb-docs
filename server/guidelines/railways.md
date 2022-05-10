@@ -3,7 +3,7 @@ title: 鉄道・道路敷設に関するガイドライン
 description: Minecraftサーバ内における「鉄道」「道路」について、運営側の方針と鉄道・道路管理者のガイドラインを定義します。
 image: https://storage.jaoafa.com/41121061c11a6f3f995f652257581cf1.png
 createdAt: 2018-07-13
-updatedAt: 2022-03-12
+updatedAt: 2022-05-11
 ---
 このページではMinecraftサーバ内における「鉄道」「道路」について、運営側の方針と鉄道・道路管理者に向けたガイドラインを定義します。
 
