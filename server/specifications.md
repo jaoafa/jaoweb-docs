@@ -34,7 +34,7 @@ updatedAt: 2022-05-10
 
 ### その他ログインできない場合
 
-サーバが何らかの理由で停止している可能性があります。[ステータスページ](https://status.jaoafa.com)や、公式Discordサーバ`#info``#announcement`をご確認ください。
+サーバが何らかの理由で停止している可能性があります。[ステータスページ](https://status.jaoafa.com)や、公式Discordサーバ`#info` `#announcement`をご確認ください。
 
 ## ゲームモードについて
 
