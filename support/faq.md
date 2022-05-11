@@ -23,7 +23,7 @@ jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用
   MCBansが導入されたサーバでGlobal Banされると、MCBansの評価値が「10」から下がっていきます。  
   この評価値が「3」未満だとサーバにログインすることができません。
 - **Java版(PC版)以外のMinecraft**でログインしようとしていませんか？  
-  Bedrock版のMinecraftで当サーバにログインすることはできません。Java版を購入しましょう。  
+  Bedrock版のMinecraftで当サーバにログインすることはできません。Java版を購入しましょう。
 
 ## Q. Minecraftサーバでは何をしたらいいの？
 
