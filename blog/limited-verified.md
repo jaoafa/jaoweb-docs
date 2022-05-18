@@ -3,7 +3,7 @@ title: Minecraftサーバ内の権限"Limited Verified"について
 category: news
 author: omelet
 createdAt: 2022-05-08
-updatedAt: 2022-05-08
+updatedAt: 2022-05-18
 ---
 
 jao Minecraft Server では、Minecraftサーバの提供に際してユーザの権限を設定しています。
