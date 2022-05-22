@@ -3,7 +3,7 @@ title: はじめての方へ
 description: サーバに参加する上で知ってほしいことや、さまざまなページの要約を記載しています。
 image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 createdAt: 2017-01-04
-updatedAt: 2021-09-27
+updatedAt: 2022-05-19
 ---
 
 **jao Minecraft Serverへようこそ！** このページでは、サーバに参加する上で知ってほしいことや、さまざまなページの要約を記載しています。参加前にぜひ目を通しておいてください！
@@ -49,7 +49,7 @@ updatedAt: 2021-09-27
 
 ### 自治体・観光について
 
-自由建築エリアである爆新地の外には「自治体」と呼ばれる個人の領域を取得することができます。  
+自由建築エリアである中央市の外には「自治体」と呼ばれる個人の領域を取得することができます。  
 自治体は「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上で申請し、取得することができます。
 
 詳しくは[自治体に関するガイドライン](/server/guidelines/cities)をご覧ください。
