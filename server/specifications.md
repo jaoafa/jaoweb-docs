@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-05-10
+updatedAt: 2022-05-19
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -126,7 +126,7 @@ updatedAt: 2022-05-10
 自分の権限は「`/player`」コマンドで確認することができます。
 
 - **Default**  
-  サーバに参加すると初めに付与されます。基本的なコマンドが実行でき、爆新地(自由建築エリア)での建築ができます。
+  サーバに参加すると初めに付与されます。基本的なコマンドが実行でき、中央市(自由建築エリア)での建築ができます。
 - **Verified**  
   [Discordサーバ](/blog/join-discord)でアカウント連携をすると付与されます。[WorldEdit](/blog/worldedit-commentary)の使用や[自治体](/server/guidelines/cities)の作成ができます。
 - **Regular**  
