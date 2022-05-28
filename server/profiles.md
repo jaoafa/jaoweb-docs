@@ -3,7 +3,7 @@ title: 運営者情報
 description: サーバで活動する運営(スタッフ)について紹介します。
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-04-14
-updatedAt: 2022-05-18
+updatedAt: 2022-05-23
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）の運営者(スタッフ)を紹介します。
@@ -30,7 +30,7 @@ Adminを補佐する役割を担います。
 |スキン|名前|MinecraftID|TwitterID|DiscordID|役割|
 |:-|:-|:-|:-|:-|:-|
 |![kohonayoshi](https://storage.jaoafa.com/d3c6d204dd7fea3d5efb77d4dc848e8b.png)|Kohona|kohonayoshi|[@kohona_poke](https://twitter.com/kohona_poke)|[kohonayoshi#0153](https://discord.com/users/315726390844719114)|鯖落とし,<br>開発の補助,<br>交通系管理の補助|
-|![MinHero_exp](https://storage.jaoafa.com/fb68e673c41ce79f66bd5b930f8be5d5.png)|EKipa|MinHero_exp|[@minhero_exp](https://twitter.com/minhero_exp)|[minhero_exp#3751](https://discord.com/users/310570792691826688)|爆新地の見回り,<br>コミュニティ管理,<br>荒らし対応,<br>Webサイト編集|
+|![MinHero_exp](https://storage.jaoafa.com/fb68e673c41ce79f66bd5b930f8be5d5.png)|EKipa|MinHero_exp|[@minhero_exp](https://twitter.com/minhero_exp)|[minhero_exp#3751](https://discord.com/users/310570792691826688)|中央市の管理,<br>コミュニティ管理,<br>荒らし対応,<br>Webサイト編集|
 |![Ekusas83](https://storage.jaoafa.com/b7e612706c25b7bb967dc6faa7ab63ce.png)|Ekusas|Ekusas83|[@ekusas55000](https://twitter.com/ekusas55000)|[ekusas#8352](https://discord.com/users/189377054955798528)|コミュニティ管理,<br>開発補助,<br>サスケ・ディナー|
 |![X5Z](https://storage.jaoafa.com/56f1b4514b6bcf5e98a58a18c2d2c27e.png)|Zozokasu|X5Z|[@Zozokasu](https://twitter.com/Zozokasu)|[Zokasu#8216](https://discord.com/users/189372008147058688)|コミュニティ管理,<br>開発補助|
 |![yuuaHP](https://crafatar.com/avatars/13976d72-1389-4332-818e-9cecad363b12?size=96)|ゆうあ|yuuaHP|[@yuuaHP_dev](https://twitter.com/yuuaHP_dev)|[ゆうあ#0659](https://discord.com/users/492088741167366144)|プラグイン開発,<br>システム開発,<br>メンテナー|
