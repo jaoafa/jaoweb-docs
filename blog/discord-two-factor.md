@@ -1,10 +1,11 @@
 ---
-title: Discordで二段階認証をする方法
+title: Discordで二段階認証を設定する方法
+description: Discordにおける二段階認証の設定方法について、画像を用いて解説します。
 category: tips
 author: ekipa
 image: 	https://storage.jaoafa.com/4c41a61904e2fe2924040ed16946e589.png
 createdAt: 2021-03-21
-updatedAt: 2022-05-19
+updatedAt: 2022-05-28
 ---
 
 ## 二段階認証って何？
