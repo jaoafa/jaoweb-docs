@@ -51,7 +51,7 @@ Discordに参加せずにVerified権限を取得することになるため、�
 
 上述の通りLV期間が終了すると、自動的にDefault権限に降格します。  
 ただし期限日から前後15日以内であれば、運営に対して期限の90日延長申請が行えます。  
-[権限グループ「Limited Verified」付与申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)へアクセスし、指定された項目を記述の上送信してください。  
+[権限グループ「Limited Verified」関連申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)へアクセスし、指定された項目を記述の上送信してください。  
 なお継続申請の際には、申請種別「Limited Verified 期間延長申請」を選択してください。  
 
 また[サーバルール](/server/rules)や[各種方針](/server/policies)に抵触するような言動があると運営が認めた場合、LV期間中であってもDefault権限に降格となることがあります。
