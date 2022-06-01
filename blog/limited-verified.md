@@ -34,7 +34,7 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
 
 1. 上記の「権限付与条件」をすべて満たしているかを確認しましょう。
 2. 権限付与条件に適合しているか確認できたら、jao Minecraft Serverにログインし、`/getuserkey`を実行、UserKeyを取得してください。
-3. [権限グループ「Limited Verified」付与申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)にアクセスしてください。
+3. [権限グループ「Limited Verified」関連申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)にアクセスしてください。
 4. 指定された項目を記述の上、送信してください。この際、申請種別は「Limited Verified 新規付与申請」を選択してください。
 5. 指定した連絡手段にて、随時運営よりご連絡いたします。
 
