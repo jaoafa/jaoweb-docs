@@ -1,9 +1,10 @@
 ---
 title: Minecraftサーバ内の権限"Limited Verified"について
+description: jao Minecraft Server における権限"Limited Verified"について、権限の概要と取得方法を解説します。
 category: news
 author: omelet
 createdAt: 2022-05-08
-updatedAt: 2022-05-18
+updatedAt: 2022-06-01
 ---
 
 jao Minecraft Server では、Minecraftサーバの提供に際してユーザの権限を設定しています。  
@@ -33,22 +34,32 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
 
 1. 上記の「権限付与条件」をすべて満たしているかを確認しましょう。
 2. 権限付与条件に適合しているか確認できたら、jao Minecraft Serverにログインし、`/getuserkey`を実行、UserKeyを取得してください。
-3. [権限グループ「Limited Verified」新規付与申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)にアクセスし、指定された項目を記述の上送信してください。
-4. 指定した連絡手段にて、随時運営よりご連絡いたします。
+3. [権限グループ「Limited Verified」付与申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)にアクセスしてください。
+4. 指定された項目を記述の上、送信してください。この際、申請種別は「Limited Verified 新規付与申請」を選択してください。
+5. 指定した連絡手段にて、随時運営よりご連絡いたします。
+
+## 権限の制限について
+
+Discordに参加せずにVerified権限を取得することになるため、付与に際し次の制限が設けられます。  
+運営からの各種お知らせ等は、基本的にDiscordにて配信されます。Discordに参加できない以上、そのようなお知らせを受け取ることができないためです。
+
+- Limited Verified権限の付与は、認可から90日間の期間限定(LV期間と呼びます)とします。  
+  その後は自動的にDefault権限に戻ります。
+- 自治体関連の申請などは現在専用フォームを制作しています。フォームが完成するまで、Limited Verified権限の利用者は自治体申請ができません。
 
 ## 権限の降格と、継続申請について
 
-Discordに参加せずにVerified権限を取得することになるため、付与に際し次の制限が設けられます。
+上述の通りLV期間が終了すると、自動的にDefault権限に降格します。  
+ただし期限日から前後15日以内であれば、運営に対して期限の90日延長申請が行えます。  
+[権限グループ「Limited Verified」付与申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)へアクセスし、指定された項目を記述の上送信してください。  
+なお継続申請の際には、申請種別「Limited Verified 期間延長申請」を選択してください。  
 
-- Limited Verified権限の付与は、認可から90日間の期間限定(LV期間と呼びます)とします。  
-  その後は自動的に権限が解除されDefault権限に戻ります。
-- 期限日から前後15日以内であれば、運営に対して期限の90日延長申請が行えます。
-- 期限日から15日以内に延長の申請がなかった場合には、所有されている自治体・鉄道などは運営の管理物となります。
-- 自治体関連の申請などは現在専用フォームを制作しています。フォームが完成するまで、Limited Verified権限の利用者は自治体申請ができません。
-- 各種お知らせ等は基本的にDiscordで行っているため、Discordに参加できない以上お知らせを知ることがあまりできません。
+また[サーバルール](/server/rules)や[各種方針](/server/policies)に抵触するような言動があると運営が認めた場合、LV期間中であってもDefault権限に降格となることがあります。
 
 ## 備考
 
-- 申請内容をもとに、運営は権限付与の認否を検討します。
+- 申請内容をもとに、運営は権限付与の認否を検討します。　　
+  申請内容によっては、権限の付与を行えない場合があることをご承知おきください。
 - Limited Verified権限を付与された場合、`/player`などでの表記は`Verified`となります。
 - Limited Verified権限のプレイヤーは[Googleドライブのスプレッドシート](https://docs.google.com/spreadsheets/d/18bNo0br4VakY65N16DZEwNafUPRV9TtToSQNPgxfbGI/edit?usp=sharing)で管理をしています。
+- 重要なお知らせは、Discordに加えて[公式ブログ](/blog)でも告知することがあります。適宜確認するようにお願いいたします。
