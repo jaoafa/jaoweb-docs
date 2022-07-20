@@ -90,7 +90,7 @@ updatedAt: 2022-07-20
 
 ## jMS Minecraft Server Members Club のパスワードを忘れてしまった場合
 
-[jMS Minecraft Server Members Club](https://club.jaoafa.com/)のログインパスワードを忘れてしまった場合は、[こちら](/support/faq/#jMS-Minecraft-Server-Members-Club-のパスワードを忘れてしまった)をご確認ください。
+[jMS Minecraft Server Members Club](https://club.jaoafa.com/)のログインパスワードを忘れてしまった場合は、[こちら](/support/faq/#q-jms-minecraft-server-members-club-のパスワードを忘れてしまった)をご確認ください。
 
 ---
 
