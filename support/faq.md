@@ -122,7 +122,7 @@ Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用する
 その他の事由も含めDiscordが利用できないユーザがいることを鑑み、代替措置として別途申請を行ったユーザは、Verified権限と同じ権限を得ることができます。  
 詳しくは[個別記事](/blog/limited-verified)をご確認ください。
 
-## jMS Minecraft Server Members Club のパスワードを忘れてしまった
+## Q. jMS Minecraft Server Members Club のパスワードを忘れてしまった
 
 [jMS Minecraft Server Members Club](https://club.jaoafa.com/)では現在、パスワードの再発行機能は提供しておりません。  
 したがってパスワードを忘れた場合は、運営によるアカウントの削除処理が必要となります（削除後に再登録していただきます）。  
