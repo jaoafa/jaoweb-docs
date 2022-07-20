@@ -125,8 +125,8 @@ Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用する
 ## jMS Minecraft Server Members Club のパスワードを忘れてしまった
 
 [jMS Minecraft Server Members Club](https://club.jaoafa.com/)では現在、パスワードの再発行機能は提供しておりません。  
-したがってパスワードを忘れた場合は、運営によるアカウントの復旧操作が必要となります。  
-アカウントの復旧を希望される方は、その旨とMinecraftIDを、[公式Discordサーバ](/blog/join-discord) `#support`チャンネルにてお知らせください。
+したがってパスワードを忘れた場合は、運営によるアカウントの削除処理が必要となります（削除後に再登録していただきます）。  
+アカウントの削除を希望される方は、その旨とMinecraftIDを、[公式Discordサーバ](/blog/join-discord) `#support`チャンネルにてお知らせください。
 
 ## Q. jao Minecraft Serverの運営と連絡を取りたい
 
