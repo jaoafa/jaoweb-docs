@@ -7,7 +7,7 @@ updatedAt: 2022-08-09
 ---
 
 このページでは、jao Minecraft Serverの公式Discordサーバである「jMS Gamers Club」（以下、「公式Discordサーバ」と呼びます）におけるルール・方針について記載します。  
-このページでの「運営」とは、 jao Minecraft Server での運営スタッフのことを指します。  
+このページでの「運営」とは、 jao Minecraft Server での運営スタッフのことを指します。
 
 なお、**このDiscordサーバルールはDiscord社が定めたものではありません。**  
 jao Minecraft Serverが公式Discordサーバを運用するにあたり定めたものです。  
