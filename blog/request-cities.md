@@ -3,7 +3,7 @@ title: 自治体申請の方法
 category: tips
 author: ekipa
 createdAt: 2020-05-11
-updatedAt: 2021-03-31
+updatedAt: 2022-07-20
 ---
 
 この記事では、 jao Minecraft Server で自治体をつくったり、変更するときに必要な申請の方法を解説いたします。  
@@ -87,6 +87,10 @@ updatedAt: 2021-03-31
 申請に成功もしくは失敗すると、その旨を示すポップアップが右上に表示されます。失敗した場合は、エラー内容を確認の上、修正後に再度「**申請する**」ボタンをクリックしてください。
 
 申請が正常に行われると、[公式Discordサーバ](/blog/join-discord) の `#city_request` チャンネルでメンションが届きます。
+
+## jMS Minecraft Server Members Club のパスワードを忘れてしまった場合
+
+[jMS Minecraft Server Members Club](https://club.jaoafa.com/)のログインパスワードを忘れてしまった場合は、[こちら](/support/faq/#q-jms-minecraft-server-members-club-のパスワードを忘れてしまった)をご確認ください。
 
 ---
 

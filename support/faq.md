@@ -3,7 +3,7 @@ title: よくあるご質問
 description: 利用者から寄せられるよくある質問について、Q&A形式でまとめています。
 image: https://storage.jaoafa.com/1c1d94d9c886ee4565ba2627125b30ac.png
 createdAt: 2017-03-21
-updatedAt: 2022-05−10
+updatedAt: 2022-07-20
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  
@@ -121,6 +121,12 @@ Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用する
 しかし[Discord公式が定めるサービス利用規約](https://discord.com/terms#親および保護者の年齢の要件と責任)を根拠に、13歳未満のユーザが公式Discordサーバを利用することを禁止しています。
 その他の事由も含めDiscordが利用できないユーザがいることを鑑み、代替措置として別途申請を行ったユーザは、Verified権限と同じ権限を得ることができます。  
 詳しくは[個別記事](/blog/limited-verified)をご確認ください。
+
+## Q. jMS Minecraft Server Members Club のパスワードを忘れてしまった
+
+[jMS Minecraft Server Members Club](https://club.jaoafa.com/)では現在、パスワードの再発行機能は提供しておりません。  
+したがってパスワードを忘れた場合は、運営によるアカウントの削除処理が必要となります（削除後に再登録していただきます）。  
+アカウントの削除を希望される方は、その旨とMinecraftIDを、[公式Discordサーバ](/blog/join-discord) `#support`チャンネルにてお知らせください。
 
 ## Q. jao Minecraft Serverの運営と連絡を取りたい
 
