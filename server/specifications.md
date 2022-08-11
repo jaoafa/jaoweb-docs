@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-05-19
+updatedAt: 2022-08-11
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
