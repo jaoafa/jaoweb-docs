@@ -121,7 +121,7 @@ Minecraftサーバ内では<span style="color: red">Verifiedと同等</span>の�
 
 公式DiscordサーバとMinecraftアカウントを連携できないユーザに対して、申請を根拠に付与される権限です。
 Minecraftサーバ内では<span style="color: red">Verifiedと同等</span>の権限グループとなります。
-詳しくは[個別記事](/blog/limited-verified)をご確認ください。
+詳しくは[個別記事](/server/policies/limitedverified/)をご確認ください。
 
 ### 昇格基準
 
