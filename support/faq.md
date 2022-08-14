@@ -80,7 +80,6 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 ### Q. WorldEditを利用したい
 
 当サーバでは、MinecraftアカウントとDiscordアカウントを連携したユーザに対して、WorldEditなどの利用が可能となる`Verified`権限を付与しています。  
-当該権限を付与されたプレイヤーはWorldEditの選択ツール(木の斧)で範囲指定したのち、`/chuocity claim [保護の名前]`とコマンド入力することで範囲保護を作成することができ、この範囲内で自由にWorldEditをご利用になれます。  
 詳しい権限の付与方針については、[こちら](/server/policies/permissions)をご確認ください。  
 
 ※公式Discordサーバへアクセスできない場合:\
