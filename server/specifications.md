@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-05-19
+updatedAt: 2022-08-11
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -104,6 +104,7 @@ updatedAt: 2022-05-19
 |/elytra|エリトラとロケット花火を装備します|全権限|
 |/g|ゲームモードを変更します|全権限|
 |/hat|手に持っているブロックを頭に装備します|全権限|
+|/itemedit|アイテムの名前、説明文を編集します|全権限|
 |/sit|その場に座ります|全権限|
 |/lay|その場に寝ます|全権限|
 |[/afk](https://wiki.jaoafa.com/AFK)|AFK(Away From Keyboard、放置)状態になります|全権限|
@@ -112,8 +113,10 @@ updatedAt: 2022-05-19
 |/bug|バグを報告します|全権限|
 |/flyspeed|飛行速度を変更します|Verified～|
 |/walkspeed|地上での移動速度を変更します|Verified～|
+|/itemframe|額縁を透明にしたりします|Verified～|
 |/brb|バリアブロックを付与します|Verified～|
-|/debstick|デバッグ棒を付与します|Verified～|
+|/light|ライトブロックを付与します|Verified～|
+|/debstick|デバッグ棒を付与します|Regular～|
 |/cmdb|コマンドブロックを付与します|Regular～|
 |/makecmd|手に持っているアイテムのgiveコマンドを生成します|Regular～|
 |/convloc|コマンドブロックのコマンドの座標指定を「絶対座標」と「相対座標」で相互変換します|Regular～|
