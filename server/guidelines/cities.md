@@ -3,7 +3,7 @@ title: 自治体に関するガイドライン
 description: Minecraftサーバ内における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2018-11-22
-updatedAt: 2022-07-20
+updatedAt: 2022-08-14
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と言います）における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
@@ -23,7 +23,7 @@ updatedAt: 2022-07-20
 
 - 1利用者につき**3つまで**の自治体の管理・運営を許可します。
 - 自治体を作成できるのはVerified権限からです。  
-- [Limited Verified権限](/blog/limited-verified)を付与されたユーザについては、自治体に関する各種申請は行えません。  
+- [Limited Verified権限](/server/policies/limitedverified/)を付与されたユーザについては、自治体に関する各種申請は行えません。  
    現在申請に関するシステムが、Limited Verified権限に対応していないためです。
 - **Jao_Afaワールド(メインワールド)でのみ**自治体の登録を許可します。
 - 自治体の範囲(形)は、四角形以上の全ての**角の角度が±90度な多角形**でなければなりません。  
