@@ -57,7 +57,7 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
 
 ## 備考
 
-- 申請内容をもとに、運営は権限付与の認否を検討します。　　
+- 申請内容をもとに、運営は権限付与の認否を検討します。  
   申請内容によっては、権限の付与を行えない場合があることをご承知おきください。
 - Limited Verified権限を付与された場合、Minecraftサーバ内における`/player`などでの表記は`Verified`となります。
 - Limited Verified権限のプレイヤーは[Googleドライブのスプレッドシート](https://docs.google.com/spreadsheets/d/18bNo0br4VakY65N16DZEwNafUPRV9TtToSQNPgxfbGI/edit?usp=sharing)で管理をしています。
