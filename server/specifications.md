@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-08-14
+updatedAt: 2022-08-21
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -22,6 +22,7 @@ updatedAt: 2022-08-14
 - Minecraft Java Edition: 1.9.x ～ 1.18.2
 
 ただし、使用できるブロックやアイテムは1.18.2に準拠しています。したがって、1.18.2以外のバージョンからログインした場合、一部のブロックやアイテムがご利用頂けない可能性があります。
+
 ### 規制されるログイン
 
 - **複数アカウントによるログイン**  
