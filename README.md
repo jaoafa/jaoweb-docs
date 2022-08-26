@@ -14,7 +14,7 @@
 
 [解説記事はこちら](https://adminwiki.jaoafa.com/website)
 
-基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) が非常に参考になるので是非参考にしてください。
+基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) を是非参考にしてください。
 
 ## 運用方針について
 
