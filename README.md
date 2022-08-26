@@ -10,7 +10,7 @@
 プルリクエストの場合は `https://dev.jaoafa.com/jaoweb/jaoafa/pulls/<PR-NUM>` に配置されます。  
 コミットが作成されてプッシュされたとき・プルリクエストが作成されたときと更新されたときにプレビューが作成されます。
 
-## 編集方法の仕方
+## 編集の仕方
 
 基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) を是非参考にしてください。
 
