@@ -4,7 +4,7 @@ description: WorldEditの選択範囲を可視化できる「WorldEditCUI」の�
 category: modification
 author: ekipa
 createdAt: 2018-05-02
-updatedAt: 2022-03-13
+updatedAt: 2022-08-26
 ---
 
 ## WorldEditCUIとは？
@@ -49,7 +49,7 @@ jao Minecraft Server では、Modを導入していない方でも選択範囲�
 「**Windowsキー**」(Windowsのロゴや"スタート"と書かれているキー)と「**Rキー**」を同時に押してください。  
 すると「ファイル名を指定して実行」と表示されるので「`%appdata%\.minecraft`」と入力して「OK」をクリックしてください。すると`.minecraft`というフォルダが表示されます。その中から自分がModを入れたいバージョンのファイル(ここでは`1.16.5`)を選び、その中にある「**mods**」を開いてください。
 
-ゲームディレクトリを分けていない場合は`.minecraft\mods`に配置することになりますが、ここにたくさんModを入れると不具合の原因となりますのでおすすめしません。~~ディレクトリの分け方は[こちら](/blog/setting-gamedirectory)で解説しています。~~
+ゲームディレクトリを分けていない場合は`.minecraft\mods`に配置することになりますが、ここにたくさんModを入れると不具合の原因となりますのでおすすめしません。
 
 ![ファイル名を指定して実行する](https://storage.jaoafa.com/eb9dc3e5262f98e8933f2331c1635d90.png)
 
