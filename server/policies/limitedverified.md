@@ -1,8 +1,9 @@
 ---
 title: 権限"Limited Verified"付与方針
 description: jao Minecraft Server における権限"Limited Verified"について、権限の概要と取得方法を解説します。
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2022-08-14
-updatedAt: 2022-08-14
+updatedAt: 2022-08-26
 ---
 
 jao Minecraft Server では、Minecraftサーバの提供に際してユーザの権限を設定しています。  

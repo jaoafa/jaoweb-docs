@@ -12,9 +12,7 @@
 
 ## 編集の仕方
 
-[解説記事はこちら (運営向けですが一般ユーザも閲覧可能)](https://adminwiki.jaoafa.com/website)
-
-基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) が非常に参考になるので是非参考にしてください。
+基本的には、ヒラタケが書いている [sample.md](https://github.com/jaoafa/jaoweb/blob/master/content/blog/sample.md) を是非参考にしてください。
 
 ## 運用方針について
 
@@ -28,7 +26,7 @@
 ### プルリクエスト・Issue・Discussions について
 
 プルリクエスト・Issue・Discussions は随時受け付けています。ただし、必ず対応する保証はありません。  
-コードオーナーである @Hiratake と @book000 のいずれかをレビュアーとして指定してください。なお、マージを行うには 1 人以上の承認レビューが必要です。
+コードオーナーである @Hiratake と @book000 が、自動的にレビュアーとして指定されます。またマージを行うには 1 人以上の承認レビューが必要です。
 
 ## 編集サポートについて
 
