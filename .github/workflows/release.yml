@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=datetime::$(date +'%Y%m%d-%H%M%S')"
+        run: echo "datetime=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
 
       - name: Clone jaoafa/jaoweb
         uses: actions/checkout@v2
@@ -42,7 +42,7 @@ jobs:
 
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path
-        run: echo "::set-output name=dir::$(yarn cache dir)"
+        run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
 
       - name: Cache node_modules
         uses: actions/cache@v2
@@ -70,12 +70,12 @@ jobs:
       - name: Set jaoweb SHORT_SHA
         id: jaoweb-vars
         run: |
-          echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
+          echo "SHORT_SHA=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
       - name: Set jaoweb-docs SHORT_SHA
         id: docs-vars
         working-directory: ./content
-        run: echo "::set-output name=SHORT_SHA::$(git rev-parse --short HEAD)"
+        run: echo "SHORT_SHA=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
       - name: Create dist.tgz
         working-directory: ./dist
