@@ -3,7 +3,7 @@ title: 各種処罰方針
 description: 各種禁止処置(処罰・Ban)についての方針やその種類を記載します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 createdAt: 2018-01-03
-updatedAt: 2022-05-10
+updatedAt: 2022-08-02
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」といいます）における各種禁止処置(処罰・Ban)について記載します。  
@@ -186,6 +186,8 @@ Minecraft バニラ
 - 公式Discordサーバの利用は<span style="color: red">不可能です</span>。
 - ユーザーページに<span style="color: red">表示されます</span>。
 - 他サーバに<span style="color: green">影響しません</span>。
+
+またVBanの処罰が行われた場合、付随する他サービスの利用権利も剥奪されます。
 
 #### 処罰の変更・取消申請方法
 

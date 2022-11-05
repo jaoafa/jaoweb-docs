@@ -1,14 +1,13 @@
 ---
-title: Minecraftサーバ内の権限"Limited Verified"について
+title: 権限"Limited Verified"付与方針
 description: jao Minecraft Server における権限"Limited Verified"について、権限の概要と取得方法を解説します。
-category: news
-author: omelet
-createdAt: 2022-05-08
-updatedAt: 2022-06-01
+image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
+createdAt: 2022-08-14
+updatedAt: 2022-08-26
 ---
 
 jao Minecraft Server では、Minecraftサーバの提供に際してユーザの権限を設定しています。  
-その中の"Limited Verified"という権限について、この記事でご説明します。
+その中の"Limited Verified"という権限について、この記事で解説します。
 
 ## 権限"Limited Verified"の概要
 
@@ -24,7 +23,7 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
     1. ユーザが13歳未満であり、[Discord公式が定めるサービス利用規約](https://discord.com/terms#親および保護者の年齢の要件と責任)を根拠に Discordアカウントが作成できないため。
     2. 保護者からの指導により、SNSの利用が禁じられているため。
     3. ファイヤーウォールなどにより、Discordに対するアクセスが遮断されるため。
-    4. その他、運営が正当だと認める事由があるため。
+    4. その他運営が正当だと認める、「Discordを利用できない事由」があるため。
 - 申請時の所属権限グループが「Default」であること (Minecraft鯖内で`/player`を実行することで確認できます)
 - サーバ内で不適切な言動が見られないこと、その他運営が不適切だと判断するような事由がないこと。
 
@@ -36,30 +35,31 @@ jao Minecraft Server では、Minecraftサーバの提供に際してユーザ�
 2. 権限付与条件に適合しているか確認できたら、jao Minecraft Serverにログインし、`/getuserkey`を実行、UserKeyを取得してください。
 3. [権限グループ「Limited Verified」関連申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)にアクセスしてください。
 4. 指定された項目を記述の上、送信してください。この際、申請種別は「Limited Verified 新規付与申請」を選択してください。
-5. 指定した連絡手段にて、随時運営よりご連絡いたします。
+5. 指定した連絡手段にて、随時運営より審議結果についてご連絡いたします。
 
 ## 権限の制限について
 
-Discordに参加せずにVerified権限を取得することになるため、付与に際し次の制限が設けられます。  
-運営からの各種お知らせ等は、基本的にDiscordにて配信されます。Discordに参加できない以上、そのようなお知らせを受け取ることができないためです。
+権限の付与に際して、次の制限が設けられます。
 
 - Limited Verified権限の付与は、認可から90日間の期間限定(LV期間と呼びます)とします。  
   その後は自動的にDefault権限に戻ります。
 - 自治体関連の申請にはDiscordアカウントが必要となるため、Limited Verified権限の利用者は自治体申請ができません。
 
+これらの制限を設ける理由として、Discordに参加せずにVerified権限を取得することが挙げられます。  
+運営からの各種お知らせ等は、基本的にDiscordにて配信されます。Discordに参加できない以上、そのようなお知らせを受け取ることができないためです。
+
 ## 権限の降格と、継続申請について
 
 上述の通りLV期間が終了すると、自動的にDefault権限に降格します。  
-ただし期限日から前後15日以内であれば、運営に対して期限の90日延長申請が行えます。  
-[権限グループ「Limited Verified」関連申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)へアクセスし、指定された項目を記述の上送信してください。  
-なお継続申請の際には、申請種別「Limited Verified 期間延長申請」を選択してください。  
+ただし期限日の15日前から、次回90日分の権限付与申請が可能となります。  
+[権限グループ「Limited Verified」関連申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScc_sLdQrN7WeHGPpc8uSTpyJ-7yiPyie_NBDWNoU69zfmCNQ/viewform)へアクセスし、指定された項目を記述の上送信してください。なお継続申請の際には、申請種別「Limited Verified 期間延長申請」を選択してください。  
 
 また[サーバルール](/server/rules)や[各種方針](/server/policies)に抵触するような言動があると運営が認めた場合、LV期間中であってもDefault権限に降格となることがあります。
 
 ## 備考
 
-- 申請内容をもとに、運営は権限付与の認否を検討します。　　
+- 申請内容をもとに、運営は権限付与の認否を検討します。  
   申請内容によっては、権限の付与を行えない場合があることをご承知おきください。
-- Limited Verified権限を付与された場合、`/player`などでの表記は`Verified`となります。
+- Limited Verified権限を付与された場合、Minecraftサーバ内における`/player`などでの表記は`Verified`となります。
 - Limited Verified権限のプレイヤーは[Googleドライブのスプレッドシート](https://docs.google.com/spreadsheets/d/18bNo0br4VakY65N16DZEwNafUPRV9TtToSQNPgxfbGI/edit?usp=sharing)で管理をしています。
 - 重要なお知らせは、Discordに加えて[公式ブログ](/blog)でも告知することがあります。適宜確認するようにお願いいたします。
