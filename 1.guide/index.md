@@ -7,7 +7,7 @@ layout: article
 
 ## サーバルール
 
-是非本来であれば[サーバルール](/server/rules)などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
+ぜひ本来であれば[サーバルール](/server/rules)などを確認していただきたいところですが、簡単にまとめておきますのでご確認ください。
 
 - 他人の建築物に無断編集をしない
 - 「迷惑行為」に当たる行為をしない
@@ -38,16 +38,16 @@ layout: article
 
 ## 建築について
 
-最初にスポーンする「中央市 (ちゅうおうし)」と呼ばれる自由建築可能区域で建築することができます。  
-ただし中央市の中でも、鯖庁と呼ばれるスポーンの施設には建築することができませんのでご注意ください。  
+最初にスポーンする「中央市 (ちゅうおうし)」と呼ばれる自由建築可能区域で建築できます。  
+ただし中央市の中でも、鯖庁と呼ばれるスポーンの施設には建築できませんのでご注意ください。  
 
 また、中央市の外は許可制の土地(自治体)となっています。詳細は [こちら](/server/guidelines/cities) をご覧ください。
 ![中央市のエリア図](https://storage.jaoafa.com/1c8be9b479ecfaa8e68e56f4e294dd5d.png)
 
 ### 自治体・観光について
 
-自由建築エリアである中央市の外には「自治体」と呼ばれる個人の領域を取得することができます。  
-自治体は「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上で申請し、取得することができます。
+自由建築エリアである中央市の外には「自治体」と呼ばれる個人の領域を取得できます。  
+自治体は「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上で申請し、取得できます。
 
 詳しくは[自治体に関するガイドライン](/server/guidelines/cities)をご覧ください。
 
@@ -65,14 +65,14 @@ layout: article
 - [jao Super Achievement2](https://github.com/jaoafa/jao-Super-Achievement2): 独自の実績を追加するプラグインです。「はじめてのjao」といったこのサーバ独自の実績があります。
 - [AntiAlts3](https://github.com/jaoafa/AntiAlts3): サブアカウントによるログインを制限する独自プラグインです。
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/): ブロックの設置・破壊など編集を記録するプラグインです。
-- [ImageOnMap](https://dev.bukkit.org/projects/imageonmap): サーバ内で画像を設置することができるプラグインです。
-- [WorldEdit](/blog/worldedit-commentary): 建築を補助するプラグインです。Discordサーバでアカウント連携さえすれば誰でも使用することができます。
+- [ImageOnMap](https://dev.bukkit.org/projects/imageonmap): サーバ内で画像を設置できるプラグインです。
+- [WorldEdit](/blog/worldedit-commentary): 建築を補助するプラグインです。Discordサーバでアカウント連携さえすれば誰でも使用できます。
 
 ### コマンドについて
 
 当サーバには、Minecraftバニラの標準的なコマンドに加えて、独自プラグインによってたくさんの便利なコマンドが追加されています。
 
-詳しくは[サーバ仕様](/server/specifications/#コマンドについて)をご覧ください
+詳しくは[サーバ仕様](/server/specifications/#コマンドについて)をご覧ください。
 
 ## 運営上の方針について
 
@@ -87,7 +87,7 @@ layout: article
 
 当サーバで活動することに適するプレイヤーは、「上記のようなことを受け止められる心があるか」が関わってくると思います。  
 受け止められない方は、当サーバで活躍することが難しいと考えております。  
-またそのような行為に対してご意見などを承りましても、こちらでは対応することができません。
+またそのような行為に対してご意見などを承りましても、こちらでは対応できません。
 
 ### 年齢について
 
@@ -107,7 +107,7 @@ layout: article
 
 ## Banされたとき
 
-当サーバでは[サーバルール](/server/rules)などに則り、違反したユーザへ処罰を行います。もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
+当サーバでは[サーバルール](/server/rules)などに則り、違反したユーザへ処罰いたします。もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
 
 ## わからないことがあったら
 
@@ -116,13 +116,13 @@ layout: article
 - [サーバ仕様](/server/specifications)
 - [サーバルール](/server/rules)
 - [よくあるご質問](/support/faq)
-- [公式Discordサーバ](/blog/join-discord)内`#question`チャンネル
+- [公式Discordサーバ](/blog/join-discord)内 `#question` チャンネル
 
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いですので、そちらのほうをおすすめします。  
 お問い合わせ時の注意事項などについては[こちら](/support/inquiry)をご確認ください。
 
-- [公式Discordサーバ](/blog/join-discord) 内`#support`チャンネル
+- [公式Discordサーバ](/blog/join-discord) 内 `#support` チャンネル
 - [公式Twitter](https://twitter.com/jaoafa) `@jaoafa`
 - [お問い合わせフォーム](https://forms.gle/Rpj1ZV76p2NsdWMK6)

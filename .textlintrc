@@ -1,0 +1,77 @@
+{
+  "rules": {
+    // い抜き言葉を検出する: https://github.com/textlint-ja/textlint-rule-no-dropping-i
+    "@textlint-ja/textlint-rule-no-dropping-i": true,
+    // 「ええと」「あの」「まあ」などのフィラー（つなぎ表現）を禁止する: https://github.com/textlint-ja/textlint-rule-no-filler
+    "@textlint-ja/no-filler": true,
+    // サ抜き、サ入れ表現の誤用をチェックする: https://github.com/textlint-ja/textlint-rule-no-insert-dropping-sa
+    "@textlint-ja/textlint-rule-no-insert-dropping-sa": true,
+    // れ足す言葉をチェックする: https://github.com/textlint-ja/textlint-rule-no-insert-re
+    "@textlint-ja/textlint-rule-no-insert-re": true,
+    // 同義語を表記ゆれをチェックする: https://github.com/textlint-ja/textlint-rule-no-synonyms
+    "@textlint-ja/no-synonyms": true,
+    // 日付と曜日の不一致を検出する: https://github.com/textlint-rule/textlint-rule-date-weekday-mismatch
+    "date-weekday-mismatch": true,
+    // 脚注をソートする: https://github.com/textlint-rule/textlint-rule-footnote-order
+    "footnote-order": true,
+    // 漢字よりもひらがなで表記したほうが読みやすい代名詞・形式名詞を指摘する: https://github.com/lostandfound/textlint-rule-ja-hiragana-daimeishi
+    "textlint-rule-ja-hiragana-daimeishi": true,
+    // 漢字よりもひらがなで表記したほうが読みやすい副詞を指摘する: https://github.com/lostandfound/textlint-rule-ja-hiragana-fukushi
+    "textlint-rule-ja-hiragana-fukushi": true,
+    // 漢字よりもひらがなで表記したほうが読みやすい補助動詞を指摘する: https://github.com/lostandfound/textlint-rule-ja-hiragana-hojodoushi
+    "textlint-rule-ja-hiragana-hojodoushi": true,
+    // 不適切表現をチェックする: https://github.com/textlint-ja/textlint-rule-ja-no-inappropriate-words
+    "ja-no-inappropriate-words": true,
+    // 全角と半角アルファベットの混在をチェックする: https://github.com/textlint-ja/textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    // スペース周りのスタイルプリセット: https://github.com/textlint-ja/textlint-rule-preset-ja-spacing
+    "preset-ja-spacing": {
+      "ja-space-around-code": {
+        "before": true,
+        "after": true
+      },
+      "ja-space-around-link": {
+        "before": true,
+        "after": true
+      }
+    },
+    // 技術文書向けルールプリセット: https://github.com/textlint-ja/textlint-rule-preset-ja-technical-writing
+    "preset-ja-technical-writing": {
+      // --- preset-ja-technical-writing の設定に追加する
+      // JTF日本語標準スタイルガイド: https://github.com/textlint-ja/textlint-rule-preset-JTF-style
+      "preset-jtf-style": {
+        "1.1.1.本文": false,
+        "1.1.3.箇条書き": false,
+        "1.2.1.句点(。)と読点(、)": false,
+        "3.1.1.全角文字と半角文字の間": false,
+        "3.3.かっこ類と隣接する文字の間のスペースの有無": false,
+        "4.1.3.ピリオド(.)、カンマ(,)": false,
+        "4.2.7.コロン(：)": false,
+        "4.3.1.丸かっこ（）": true,
+        "4.3.7.山かっこ<>": false
+      },
+      // 文末の句点(。)の統一と抜けをチェックする: https://github.com/textlint-ja/textlint-rule-ja-no-mixed-period
+      "ja-no-mixed-period": {
+        "forceAppendPeriod": true,
+        "allowEmojiAtEnd": true,
+        "allowPeriodMarks": ["\"", ":", "..."]
+      },
+      // 文の最大長を制限しない: https://github.com/textlint-rule/textlint-rule-sentence-length
+      "sentence-length": false,
+      //弱い日本語表現の利用を禁止しない: https://github.com/textlint-ja/textlint-rule-ja-no-weak-phrase
+      "ja-no-weak-phrase": false,
+      // ！の利用を禁止しない: https://github.com/textlint-rule/textlint-rule-no-exclamation-question-mark
+      "no-exclamation-question-mark": false,
+      // 文中に同じ助詞が複数出てくるのをチェックしない: https://github.com/textlint-ja/textlint-rule-no-doubled-joshi
+      "no-doubled-joshi": false,
+      // 漢字が連続する最大文字数を制限しない: https://github.com/textlint-ja/textlint-rule-max-kanji-continuous-len
+      "max-kanji-continuous-len": false
+    }
+  },
+  "filters": {
+    // 任意の単語を許可する: https://github.com/textlint/textlint-filter-rule-allowlist
+    "allowlist": {
+      "allow": []
+    }
+  }
+}
