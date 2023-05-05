@@ -51,7 +51,7 @@ updatedAt: 2023-05-05
 ### 自治体の取得について
 
 中央市の外では、「自治体」と呼ばれる個人の領域を取得することができます。  
-取得には、「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上での申請が必要です。  
+取得には、「[jao Minecraft Server Members Club (clubjaoafa)](https://club.jaoafa.com)」というWebサイト上での申請が必要です。
 
 詳しくは[自治体に関するガイドライン](/server/guidelines/cities)をご覧ください。
 
