@@ -4,7 +4,7 @@ category: tips
 author: ekipa
 image: https://storage.jaoafa.com/0544dbcb347f6bcc6839421cb682d5ae.png
 createdAt: 2021-03-21
-updatedAt: 2021-10-01
+updatedAt: 2023-05-03
 ---
 
 この記事では、jao Minecraft Server の公式Discordサーバである「**jMS Gamers Club**」への参加方法を紹介します。
@@ -95,12 +95,7 @@ jMS Gamers Club では、 jao Minecraft Server へ参加したMinecraftのアカ
 
 以下のように表示されれば完了です。
 
-![リンク完了メッセージ](
-https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
-
-アカウント連携が完了した後、**3ヶ月間 jao Minecraft Server へのログインがなかった場合、自動的に連携は解除**されますのでご注意ください。  
-3ヶ月経過し連携が解除された場合は、上記の手順で再度連携をしてください。  
-（連携解除1ヶ月前に`#general`より通知が届きます。）
+![リンク完了メッセージ](https://storage.jaoafa.com/106b351b2196a6511787dbd1b86678a4.png)
 
 ---
 
