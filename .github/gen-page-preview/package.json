@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "@octokit/rest": "19.0.11",
-    "@playwright/test": "1.34.3",
     "imgur-anonymous-uploader": "1.1.5",
     "playwright": "1.34.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
   }
 }
