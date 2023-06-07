@@ -63,7 +63,9 @@ jobs:
 
       - name: Install dependencies in gen-page-preview
         working-directory: ./content/.github/gen-page-preview/
-        run: yarn
+        run: |
+          yarn
+          npm install -D @playwright/test
 
       - name: Generate page screenshots
         working-directory: ./content/.github/gen-page-preview/
