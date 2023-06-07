@@ -3,7 +3,7 @@ title: 自治体に関するガイドライン
 description: Minecraftサーバ内における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2018-11-22
-updatedAt: 2022-08-24
+updatedAt: 2023-05-03
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と言います）における「自治体」について、運営側の方針と自治体管理者のガイドラインを定義します。
@@ -39,7 +39,6 @@ updatedAt: 2022-08-24
 自治体の所有権が剥奪（取り消し）となった場合、それまで自治体管理者が保有していた土地や建築物の所有権は運営に移動します。
 
 - 自治体管理者が、公式Discordサーバから退出し[各種権限](/server/policies/permissions/)を失った場合。
-- 自治体管理者が3ヶ月（90日）間ログインせず、[各種権限](/server/policies/permissions/)を失った場合。
 - [サーバルール](/server/rules)や[各種方針](/server/rules)への違反などがみられた場合。
 - その他、運営が不適切だと認める事由がある場合。
 
