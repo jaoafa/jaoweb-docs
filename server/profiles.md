@@ -3,7 +3,7 @@ title: 運営者情報
 description: サーバで活動する運営(スタッフ)について紹介します。
 image: https://storage.jaoafa.com/f54f2539629b70b8f3d78cc694236081.png
 createdAt: 2021-04-14
-updatedAt: 2023-06-10
+updatedAt: 2023-06-11
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」と呼びます）の運営者(スタッフ)を紹介します。
