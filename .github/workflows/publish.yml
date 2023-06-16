@@ -29,12 +29,19 @@ permissions:
   # default pull-requests: read & write (in forked repos, only read)
   pull-requests: write
 
+# Cancel previous runs that are not completed yet
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.head.ref || github.ref }}
+  cancel-in-progress: true
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # Deploy
-  deploy:
-    name: Deploy
+  # Build
+  build:
+    name: Build
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     # push event in main branch
     # workflow_dispatch event
     # pull_request event from not forked repo
@@ -45,12 +52,6 @@ jobs:
       (github.event_name == 'pull_request' && github.event.pull_request.head.repo.fork == false) ||
       (github.event_name == 'pull_request_target' && github.event.pull_request.head.repo.fork == true && contains(github.event.label.name, '🚀request-deploy'))
       }}
-
-    # Cancel previous runs that are not completed yet
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.event.pull_request.head.ref || github.ref }}
-      cancel-in-progress: true
-    timeout-minutes: 10
 
     steps:
       - name: Checkout jaoafa/jaoweb
@@ -94,10 +95,40 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn
 
-      - name: Run generate
-        run: npm run generate
+      - name: Build
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt build
+
+      - name: Generate
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: dist
+          path: dist
+
+  # Deploy
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    needs:
+      - build
+
+    steps:
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: dist
+          path: dist
 
       - name: Publish to Cloudflare Pages
         id: cloudflare-pages-deploy
