@@ -94,10 +94,13 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn
 
-      - name: Run generate
-        run: npm run generate
+      - name: Build
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt build
+
+      - name: Generate
+        run: yarn cross-env NUXT_TELEMETRY_DISABLED=1 nuxt generate
 
       - name: Publish to Cloudflare Pages
         id: cloudflare-pages-deploy
