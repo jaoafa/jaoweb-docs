@@ -31,7 +31,7 @@ jao Minecraft Server へのお問い合わせは、以下の方法にて受け�
   Minecraftサーバをはじめとする、各サービスの稼働情報を提供しています。
 
 また、**上記はMinecraft開発元(Mojang)のお問い合わせ先ではありません。** jao Minecraft Serverに関わるお問い合わせについて対応いたします。  
-Minecraft開発元(Mojang)へのお問い合わせを希望される場合は[こちらから](https://help.minecraft.net/hc/ja/requests/new)お願いいたします。
+Minecraft開発元(Mojang)へのお問い合わせを希望される場合は[こちらから](https://help.minecraft.net/hc/ja/request/new?ticket_form_id=360001225811)お願いいたします。
 
 ### お願い
 
