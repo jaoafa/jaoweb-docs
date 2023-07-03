@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-08-21
+updatedAt: 2023-07-04
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -70,7 +70,7 @@ updatedAt: 2022-08-21
 ## メンテナンス、サーバ不具合時の対応について
 
 当サーバでは機能の向上や不具合の解消のために、サーバを一時的に停止することがあります。  
-サーバの稼働状況については[こちら](https://status.jaoafa.com)をご確認ください。
+サーバの稼働状況については[jMS ステータスページ](https://status.jaoafa.com)をご確認ください。
 またサーバを停止する際は、公式Discordサーバの`#info` `#announcement`でも情報提供を行います。
 
 ## 投票について
