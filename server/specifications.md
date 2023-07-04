@@ -91,7 +91,7 @@ updatedAt: 2023-07-04
 ## コマンドについて
 
 [独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に、簡単に解説します。  
-詳細な使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
+詳しい使い方については、各コマンドのリンク先(jaopedia)か[MyMaid4 Docs](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
 
 また、`/tp`や`/gamemode`などといったMinecraftバニラの標準的なコマンドは、誰でも使用することができます。
 
