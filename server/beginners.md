@@ -127,7 +127,7 @@ updatedAt: 2023-07-04
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いですので、そちらのほうをおすすめします。  
-お問い合わせ時の注意事項などについては[こちら](/support/inquiry)をご確認ください。
+お問い合わせ時の注意事項などについては、[お問い合わせページ](/support/inquiry)をご確認ください。
 
 - [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
 - [公式Twitter](https://twitter.com/jaoafa) `@jaoafa`
