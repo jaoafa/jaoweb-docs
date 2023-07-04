@@ -76,7 +76,7 @@ updatedAt: 2023-07-04
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。  
+投票方法や投票特典については、[こちらのブログ記事](/blog/how-to-vote)をご覧ください。  
 なお上記2つのサイトは、jao Minecraft Server が運営するWebサイトではありませんのでご注意ください。
 
 稀に、投票特典が正常に付与されないことがあります。投票から3週間(21日)以内であれば、運営への補填申請を行っていただければ補填対応いたします。[公式Discordサーバ](/blog/join-discord)の`#support`へ、以下を送信ください。  
@@ -148,4 +148,4 @@ updatedAt: 2023-07-04
 ## Dynmapについて
 
 Dynmapはウェブ上でサーバ内のマップを見ることができるプラグインです。  
-当サーバのDynmapは[こちら](https://map.jaoafa.com/)(`map.jaoafa.com`)です。
+当サーバのDynmapは[こちらのリンク](https://map.jaoafa.com/)(`map.jaoafa.com`)からご覧いただけます。
