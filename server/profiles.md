@@ -33,4 +33,4 @@ Adminを補佐する役割を担います。
 |![MinHero_exp](https://storage.jaoafa.com/fb68e673c41ce79f66bd5b930f8be5d5.png)|EKipa|MinHero_exp|[@minhero_exp](https://twitter.com/minhero_exp)|[minhero_exp](https://discord.com/users/310570792691826688)|中央市の管理,<br>コミュニティ管理,<br>荒らし対応,<br>Webサイト編集|
 |![Ekusas83](https://storage.jaoafa.com/b7e612706c25b7bb967dc6faa7ab63ce.png)|Ekusas|Ekusas83|[@ekusas55000](https://twitter.com/ekusas55000)|[ekusas83](https://discord.com/users/189377054955798528)|コミュニティ管理,<br>開発補助,<br>サスケ・ディナー|
 |![X5Z](https://storage.jaoafa.com/56f1b4514b6bcf5e98a58a18c2d2c27e.png)|Zozokasu|X5Z|[@Zozokasu](https://twitter.com/Zozokasu)|[zozokasu](https://discord.com/users/189372008147058688)|コミュニティ管理,<br>開発補助|
-|![yuuaHP](https://crafatar.com/avatars/13976d72-1389-4332-818e-9cecad363b12?size=96)|ゆうあ|yuuaHP|[@yuuaHP_dev](https://twitter.com/yuuaHP_dev)|[yuua](https://discord.com/users/492088741167366144)|プラグイン開発,<br>システム開発,<br>メンテナー|
+|![yuuaHP](https://crafatar.com/avatars/13976d72-1389-4332-818e-9cecad363b12?size=96)|ゆうあ|yuuaHP|[@yuuadev](https://twitter.com/yuuadev)|[yuua](https://discord.com/users/492088741167366144)|プラグイン開発,<br>システム開発,<br>メンテナー|
