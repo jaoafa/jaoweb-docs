@@ -121,11 +121,6 @@ minecraft.jpとmonocraft.netからの投票数に応じて■の色が変わっ�
 ただし、何度も勧誘したり、嫌がっているのに強制的に勧誘するなどの行為は、[サーバルール](/server/rules)に違反しますので、処罰の対象となる場合があります。  
 詳しくは [チャットなどに関するガイドライン](/server/guidelines/communications) のページからご確認ください。
 
-### Q. どんなコマンドが使えるの？
-
-Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用することができます。  
-詳しくは [サーバ仕様ページ内「コマンドについて」](/server/specifications#コマンドについて) をご確認ください。
-
 ### Q. 13歳未満のため公式Discordサーバへアクセスできないが、WorldEditを利用したい。
 
 当サーバでは、MinecraftアカウントとDiscordアカウントを連携したユーザに対して、WorldEditなどの利用が可能となる`Verified`権限を付与しています。  
