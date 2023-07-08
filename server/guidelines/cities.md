@@ -209,7 +209,7 @@ updatedAt: 2023-07-04
 
 - 道路や鉄道による自治体同士の接続は[鉄道・道路敷設に関するガイドライン](/server/guidelines/railways)などをご覧ください。
 - 「自治体条例」というその自治体にのみ適用できる条例(ルール)を作成することができます。これは、[jaopedia](https://wiki.jaoafa.com)の該当自治体ページでのみ記載できます。(サーバルールなどを完全に無効化することはできません。)
-- [jMS Minecraft Server Members Club](https://club.jaoafa.com/)のログインパスワードを忘れてしまった場合は、[こちらのブログ記事](/support/faq/#q-jms-minecraft-server-members-club-のパスワードを忘れてしまった)をご確認ください。
+- [jMS Minecraft Server Members Club](https://club.jaoafa.com/)のログインパスワードを忘れてしまった場合は、[よくあるご質問](/support/faq/#q-jms-minecraft-server-members-club-のパスワードを忘れてしまった)をご確認ください。
 
 ## このようなガイドラインを設定している理由
 
