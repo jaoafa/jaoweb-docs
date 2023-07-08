@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2023-07-04
+updatedAt: 2023-07-09
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -145,7 +145,7 @@ updatedAt: 2023-07-04
 
 運営についての詳細は[運営者情報](/server/profiles)を、各権限の詳細や付与についての方針は[権限付与方針](/server/policies/permissions)をご覧ください。
 
-## Dynmapについて
+## サーバ内のマップについて
 
-Dynmapはウェブ上でサーバ内のマップを見ることができるプラグインです。  
-当サーバのDynmapは[こちらのリンク](https://map.jaoafa.com/)(`map.jaoafa.com`)からご覧いただけます。
+当サーバでは`Dynmap`という、ウェブ上でサーバ内のマップを見ることができるプラグインを導入しています。  
+Dynmapは[jao Minecraft Server Map](https://map.jaoafa.com/)(`map.jaoafa.com`)からご覧いただけます。
