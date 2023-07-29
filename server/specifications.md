@@ -3,7 +3,7 @@ title: サーバ仕様
 description: jao Minecraft Server の様々な仕様を記載します。
 image: https://storage.jaoafa.com/33efd2207119961cc985868f2ed3eb97.png
 createdAt: 2021-04-14
-updatedAt: 2022-08-21
+updatedAt: 2023-07-09
 ---
 
 ここではサーバのさまざまな仕様を掲示しています。
@@ -70,13 +70,13 @@ updatedAt: 2022-08-21
 ## メンテナンス、サーバ不具合時の対応について
 
 当サーバでは機能の向上や不具合の解消のために、サーバを一時的に停止することがあります。  
-サーバの稼働状況については[こちら](https://status.jaoafa.com)をご確認ください。
+サーバの稼働状況については[jMS ステータスページ](https://status.jaoafa.com)をご確認ください。
 またサーバを停止する際は、公式Discordサーバの`#info` `#announcement`でも情報提供を行います。
 
 ## 投票について
 
 当サーバは[minecraft.jp](https://minecraft.jp/servers/play.jaoafa.com)と[monocraft.net](https://monocraft.net/servers/4ovU0v9PkdyJbNJVngf7)に登録しており、各サイトからの投票を受け付けています。  
-投票方法や投票特典については、[こちら](/blog/how-to-vote)のブログ記事をご覧ください。  
+投票方法や投票特典については、[こちらのブログ記事](/blog/how-to-vote)をご覧ください。  
 なお上記2つのサイトは、jao Minecraft Server が運営するWebサイトではありませんのでご注意ください。
 
 稀に、投票特典が正常に付与されないことがあります。投票から3週間(21日)以内であれば、運営への補填申請を行っていただければ補填対応いたします。[公式Discordサーバ](/blog/join-discord)の`#support`へ、以下を送信ください。  
@@ -91,7 +91,7 @@ updatedAt: 2022-08-21
 ## コマンドについて
 
 [独自プラグイン](https://github.com/jaoafa/MyMaid4)によって追加されたコマンドを中心に、簡単に解説します。  
-詳細な使い方は、各コマンドのリンク先(jaopedia)か[こちら](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
+詳しい使い方については、各コマンドのリンク先(jaopedia)か[MyMaid4 Docs](https://jaoafa.github.io/MyMaid4Docs/)からご覧ください。サーバ内では「`/[Command] help`」と実行することで確認することができます。
 
 また、`/tp`や`/gamemode`などといったMinecraftバニラの標準的なコマンドは、誰でも使用することができます。
 
@@ -145,7 +145,7 @@ updatedAt: 2022-08-21
 
 運営についての詳細は[運営者情報](/server/profiles)を、各権限の詳細や付与についての方針は[権限付与方針](/server/policies/permissions)をご覧ください。
 
-## Dynmapについて
+## サーバ内のマップについて
 
-Dynmapはウェブ上でサーバ内のマップを見ることができるプラグインです。  
-当サーバのDynmapは[こちら](https://map.jaoafa.com/)(`map.jaoafa.com`)です。
+当サーバでは`Dynmap`という、ウェブ上でサーバ内のマップを見ることができるプラグインを導入しています。  
+Dynmapは[jao Minecraft Server Map](https://map.jaoafa.com/)(`map.jaoafa.com`)からご覧いただけます。

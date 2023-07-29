@@ -3,11 +3,11 @@ title: 各種処罰方針
 description: 各種禁止処置(処罰・Ban)についての方針やその種類を記載します。
 image: https://storage.jaoafa.com/a2a9f8dcd472210cb808bc9432bc6ae3.png
 createdAt: 2018-01-03
-updatedAt: 2022-08-02
+updatedAt: 2023-07-09
 ---
 
 このページでは、jao Minecraft Server（以下、「当サーバ」といいます）における各種禁止処置(処罰・Ban)について記載します。  
-公式Discordサーバにおける運営・処罰方針については、[こちら](server/rules/discord)をご確認ください。
+公式Discordサーバにおける運営・処罰方針については、[Discordサーバルール](/server/rules/discord)をご確認ください。
 
 ## 基本方針
 
