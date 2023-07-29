@@ -3,7 +3,7 @@ title: はじめての方へ
 description: サーバに参加する上で知ってほしいことや、さまざまなページの要約を記載しています。
 image: https://storage.jaoafa.com/5f5473451a873494c5128b991252c210.png
 createdAt: 2017-01-04
-updatedAt: 2023-05-05
+updatedAt: 2023-07-04
 ---
 
 **jao Minecraft Serverへようこそ！** このページでは、サーバに参加する上で知ってほしいことや、さまざまなページの要約を記載しています。参加前にぜひ目を通しておいてください！
@@ -113,7 +113,7 @@ updatedAt: 2023-05-05
 
 ## Banされたとき
 
-当サーバでは[サーバルール](/server/rules)などに則り、違反したユーザへ処罰を行います。もし、Banされた場合は[こちら](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
+当サーバでは[サーバルール](/server/rules)などに則り、違反したユーザへ処罰を行います。もし、Banされた場合は[各種処罰方針](/server/policies/bans)よりBanの種別、解除申請の方法をご確認ください。
 
 ## わからないことがあったら
 
@@ -127,7 +127,7 @@ updatedAt: 2023-05-05
 ### 運営へのお問い合わせ先
 
 上にあるものほど返答が早いですので、そちらのほうをおすすめします。  
-お問い合わせ時の注意事項などについては[こちら](/support/inquiry)をご確認ください。
+お問い合わせ時の注意事項などについては、[お問い合わせページ](/support/inquiry)をご確認ください。
 
 - [公式Discordサーバ](/blog/join-discord)内`#support`チャンネル
 - [公式Twitter](https://twitter.com/jaoafa) `@jaoafa`

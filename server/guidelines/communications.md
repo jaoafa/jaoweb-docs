@@ -3,7 +3,7 @@ title: チャットなどに関するガイドライン
 description: jao Minecraft Serverと、関連するサービスにおいての「チャット(発言)」について、運営側の方針と利用者のガイドラインを定義します。
 image: https://storage.jaoafa.com/e0f581f933acf45a270d444183cde942.png 
 createdAt: 2021-04-14
-updatedAt: 2022-05-19
+updatedAt: 2023-07-04
 ---
 
 このページでは、jao Minecraft Server （以下、「当サーバ」と呼びます）に関連する、Minecraftサーバ、公式Discordサーバ(jMS Gamers Club)、公式Webサイト、jaopediaなどにおいての「チャット(発言)」などについて、運営側の方針と利用者のガイドラインを定義します。
@@ -56,7 +56,7 @@ Discordが示す、[Discordコミュニティガイドライン](https://discord
 チャットを用いた迷惑行為が確認された場合、運営は当該ユーザに対して警告を行うことがあります。  
 また当該ユーザが再三の警告に応じない場合や、運営が極めて悪質だと判断した場合は、必要に応じて各種処罰を実行します。  
 
-詳しい処罰方針については[こちら](/server/policies/bans)をご確認ください。
+詳しい処罰方針については[各種処罰方針](/server/policies/bans)をご確認ください。
 
 ## 宣伝・勧誘行為について
 

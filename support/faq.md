@@ -3,7 +3,7 @@ title: よくあるご質問
 description: 利用者から寄せられるよくある質問について、Q&A形式でまとめています。
 image: https://storage.jaoafa.com/1c1d94d9c886ee4565ba2627125b30ac.png
 createdAt: 2017-03-21
-updatedAt: 2022-08-26
+updatedAt: 2023-07-04
 ---
 
 jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用者から寄せられるよくある質問について、Q&A形式でまとめています。  
@@ -37,7 +37,7 @@ jao Minecraft Server（以下、「当サーバ」と呼びます）で、利用
 
 ### Q. Banを解除してください…
 
-基本的に[公式Discordサーバ](/blog/join-discord)の`#support`にて解除申請を受け付けています。Banについての詳細は[こちら](/server/policies/bans)のページからご確認ください。
+基本的に[公式Discordサーバ](/blog/join-discord)の`#support`にて解除申請を受け付けています。Banについての詳細は[各種処罰方針](/server/policies/bans)のページからご確認ください。
 
 ### Q. MinecraftIDを変更しても大丈夫？
 
@@ -48,7 +48,7 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 ### Q. Modは導入してもいいの？
 
 荒らし目的でないのであれば、基本許可しています。  
-詳しくは [こちら](/server/rules#modについて) のページをご覧ください。
+詳しくは [サーバルール内「Modについて」](/server/rules#modについて) をご覧ください。
 
 ## Minecraftサーバについてよくあるご質問
 
@@ -63,7 +63,7 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 最初にスポーンする「中央市 (ちゅうおうし)」と呼ばれる自治体で建築することができます。  
 ただし中央市の中でも、鯖庁と呼ばれるスポーンの施設には建築することができません。ご注意ください。  
 
-また、中央市の外は許可制の土地(自治体)となっています。詳細は [こちら](/server/guidelines/cities) をご覧ください。
+また、中央市の外は許可制の土地(自治体)となっています。詳細は [自治体に関するガイドライン](/server/guidelines/cities) をご覧ください。
 ![中央市のエリア図](https://storage.jaoafa.com/1c8be9b479ecfaa8e68e56f4e294dd5d.png)
 
 ### Q. 建築がなくなっている
@@ -72,7 +72,7 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 定期的なサーバへのログインをお願いいたします。
 なお諸事情により3ヶ月以上サーバにログインできない場合は、あらかじめ運営までご連絡ください。  
   
-詳しい中央市の建築ルールなどについては、[こちら](https://wiki.jaoafa.com/中央市#.E3.83.AB.E3.83.BC.E3.83.AB)をご確認ください。  
+詳しい中央市の建築ルールなどについては、[jaopedia](https://wiki.jaoafa.com/中央市#.E3.83.AB.E3.83.BC.E3.83.AB)をご確認ください。  
 
 ### Q. 空き地が見つからない
 
@@ -81,7 +81,7 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 ### Q. WorldEditを利用したい
 
 当サーバでは、MinecraftアカウントとDiscordアカウントを連携したユーザに対して、WorldEditなどの利用が可能となる`Verified`権限を付与しています。  
-詳しい権限の付与方針については、[こちら](/server/policies/permissions)をご確認ください。  
+詳しい権限の付与方針については、[権限付与方針](/server/policies/permissions)をご確認ください。  
 
 ※公式Discordサーバへアクセスできない場合:\
 当サーバでは、[Discord公式が定めるサービス利用規約](https://discord.com/terms#親および保護者の年齢の要件と責任)を根拠に、13歳未満のユーザが公式Discordサーバを利用することを禁止しています。
@@ -93,14 +93,14 @@ MinecraftIDの変更によって問題が発生した場合は、運営までお
 ### Q. チャットの横にある■とか、長いログインメッセージは何なの？
 
 minecraft.jpとmonocraft.netからの投票数に応じて■の色が変わったり、ログインメッセージが長くなったりします。  
-詳しくは [こちら](/blog/how-to-vote) のブログ記事をご覧ください。
+詳しくは [こちらのブログ記事](/blog/how-to-vote) をご覧ください。
 
 ### Q. 「jao afa」とか「.」って何？
 
 当サーバ独自の言語です。「jao」「afa」というは両方分けて発言して「こんにちは」という挨拶です。  
 
 この挨拶をしなかったらダメ、使い方を間違ったらダメなどといったことはありません。ゆっくりと学んでいきましょう。  
-ここでは解説しきれないので、詳しく知りたい方は [こちら](https://wiki.jaoafa.com/用語) をご覧ください。
+ここでは解説しきれないので、詳しく知りたい方は [jaopedia](https://wiki.jaoafa.com/用語) をご覧ください。
 
 ### Q. みんなどこ？
 
@@ -113,18 +113,13 @@ minecraft.jpとmonocraft.netからの投票数に応じて■の色が変わっ�
 ### Q. サーバ内で動画配信したい
 
 外部サービスへ動画配信・投稿をする場合、運営への申請が必要です。  
-[こちら](/server/guidelines/broadcasts)のページからご確認ください。
+[撮影・動画配信に関するガイドライン](/server/guidelines/broadcasts)のページからご確認ください。
 
 ### Q. 他サーバの名前って出していいの？宣伝してもいい？
 
 構いません。他サーバの宣伝についても特別な制限は設けておりません。  
 ただし、何度も勧誘したり、嫌がっているのに強制的に勧誘するなどの行為は、[サーバルール](/server/rules)に違反しますので、処罰の対象となる場合があります。  
-詳しくは [こちら](/server/guidelines/communications) のページからご確認ください。
-
-### Q. どんなコマンドが使えるの？
-
-Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用することができます。  
-詳しくは [こちら](/server/specifications#コマンドについて) からご確認ください。
+詳しくは [チャットなどに関するガイドライン](/server/guidelines/communications) のページからご確認ください。
 
 ### Q. 13歳未満のため公式Discordサーバへアクセスできないが、WorldEditを利用したい。
 
@@ -141,14 +136,14 @@ Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用する
 - [公式Twitterアカウント](https://twitter.com/jaoafa) `@jaoafa`
 - [お問い合わせフォーム](https://forms.gle/Rpj1ZV76p2NsdWMK6)
 
-運営へ問い合わせを行う際には、事前にこのFAQページや[こちら](/support/inquiry)をご確認ください。
+運営へ問い合わせを行う際には、事前にこのFAQページや[お問い合わせページ](/support/inquiry)をご確認ください。
 
 ## Minecraftサーバ内のシステム・コマンドについてよくあるご質問
 
 ### Q. どんなコマンドが使えるの？
 
 Minecraftの標準的なコマンド(tp, gamemode)などは誰でも使用することができます。  
-詳しくは [こちら](/server/specifications#コマンドについて) からご確認ください。
+詳しくは [サーバ仕様ページ内「コマンドについて」](/server/specifications#コマンドについて) をご確認ください。
 
 ### Q. プラグインの不具合(バグ)を見つけた
 
