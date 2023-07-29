@@ -2,8 +2,8 @@
 title: Minecraftサーバのサービス終了について
 category: news
 author: jaotan
-createdAt: 2023-07-29
-updatedAt: 2023-07-29
+createdAt: 2023-07-30
+updatedAt: 2023-07-30
 ---
 
 jao Minecraft Server では、これまで 7 年以上にわたって提供してきました、Minecraft サーバのサービス提供を終了することとなりました。突然のお知らせとなり、利用者の皆様にはご迷惑をおかけいたしますが、ご承知おきください。
