@@ -1,7 +1,7 @@
 ---
 title: Minecraftサーバのサービス終了について
 category: news
-author: Omelet
+author: omelet
 createdAt: 2023-07-30
 updatedAt: 2023-07-30
 ---
