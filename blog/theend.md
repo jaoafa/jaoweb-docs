@@ -2,6 +2,7 @@
 title: Minecraftサーバのサービス終了について
 category: news
 author: omelet
+image: https://storage.jaoafa.com/bf8b8b2eeaada7f05fc0673e18674de6.png
 createdAt: 2023-07-30
 updatedAt: 2023-07-30
 ---
